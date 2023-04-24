@@ -566,8 +566,23 @@
       <DependentUpon>FormGPS.cs</DependentUpon>
     </Compile>
     <Compile Include="Classes\vec3.cs" />
+    <EmbeddedResource Include="Forms\FormBoundary.uk.resx">
+      <DependentUpon>FormBoundary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormBoundaryPlayer.uk.resx">
+      <DependentUpon>FormBoundaryPlayer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormFieldDir.uk.resx">
+      <DependentUpon>FormFieldDir.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\FormFieldKML.resx">
       <DependentUpon>FormFieldKML.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormFieldKML.uk.resx">
+      <DependentUpon>FormFieldKML.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormFlags.uk.resx">
+      <DependentUpon>FormFlags.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\FormMap.resx">
       <DependentUpon>FormMap.cs</DependentUpon>
@@ -575,11 +590,20 @@
     <EmbeddedResource Include="Forms\FormRecordName.resx">
       <DependentUpon>FormRecordName.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Form_About.uk.resx">
+      <DependentUpon>Form_About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Form_Help.uk.resx">
+      <DependentUpon>Form_Help.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\Form_Keys.resx">
       <DependentUpon>Form_Keys.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Form_Help.resx">
       <DependentUpon>Form_Help.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Form_Keys.uk.resx">
+      <DependentUpon>Form_Keys.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Guidance\FormEnterAB.resx">
       <DependentUpon>FormEnterAB.cs</DependentUpon>
@@ -622,6 +646,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Guidance\FormMakeBndCon.resx">
       <DependentUpon>FormMakeBndCon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Settings\FormColor.uk.resx">
+      <DependentUpon>FormColor.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Settings\FormCorrection.resx">
       <DependentUpon>FormCorrection.cs</DependentUpon>

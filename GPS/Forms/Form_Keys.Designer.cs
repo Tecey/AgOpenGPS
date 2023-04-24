@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form_Keys));
             this.button1 = new System.Windows.Forms.Button();
             this.label15 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
@@ -80,515 +81,301 @@
             // 
             // button1
             // 
-            this.button1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            resources.ApplyResources(this.button1, "button1");
             this.button1.DialogResult = System.Windows.Forms.DialogResult.OK;
             this.button1.FlatAppearance.BorderSize = 0;
-            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Image = global::AgOpenGPS.Properties.Resources.OK64;
-            this.button1.Location = new System.Drawing.Point(769, 603);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(110, 70);
-            this.button1.TabIndex = 10;
             this.button1.UseVisualStyleBackColor = true;
             // 
             // label15
             // 
-            this.label15.AutoSize = true;
-            this.label15.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label15.Location = new System.Drawing.Point(648, 267);
+            resources.ApplyResources(this.label15, "label15");
             this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(238, 92);
-            this.label15.TabIndex = 127;
-            this.label15.Text = "F11 -  Full Screen\r\n\r\nNumPad1 - Manual Section\r\nNumPad0 - Auto Section";
             // 
             // label1
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(648, 42);
+            resources.ApplyResources(this.label1, "label1");
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(207, 207);
-            this.label1.TabIndex = 128;
-            this.label1.Text = "R - Reset sim\r\n\r\nUp Arrow - Faster\r\nDn Arrow - Slower\r\nLeft Arrow - Left\r\nRight A" +
-    "rrow - Right\r\n\r\n( . ) Period - Stop\r\n( / ) Slash - Go Straight";
             // 
             // label2
             // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Tahoma", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(663, 9);
+            resources.ApplyResources(this.label2, "label2");
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(114, 25);
-            this.label2.TabIndex = 129;
-            this.label2.Text = "Simulator";
             // 
             // label4
             // 
-            this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Tahoma", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(6, 41);
+            resources.ApplyResources(this.label4, "label4");
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(198, 25);
-            this.label4.TabIndex = 131;
-            this.label4.Text = "Auto Steer Toggle";
             // 
             // btnAutosteer
             // 
-            this.btnAutosteer.Font = new System.Drawing.Font("Tahoma", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnAutosteer.Location = new System.Drawing.Point(201, 33);
+            resources.ApplyResources(this.btnAutosteer, "btnAutosteer");
             this.btnAutosteer.Name = "btnAutosteer";
-            this.btnAutosteer.Size = new System.Drawing.Size(75, 41);
-            this.btnAutosteer.TabIndex = 132;
-            this.btnAutosteer.Text = "A";
             this.btnAutosteer.UseVisualStyleBackColor = true;
             this.btnAutosteer.Click += new System.EventHandler(this.btnEditShortcut_Click);
             // 
             // lblAutosteer
             // 
-            this.lblAutosteer.Font = new System.Drawing.Font("Tahoma", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblAutosteer.Location = new System.Drawing.Point(359, 556);
+            resources.ApplyResources(this.lblAutosteer, "lblAutosteer");
+            this.lblAutosteer.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.lblAutosteer.Name = "lblAutosteer";
-            this.lblAutosteer.Size = new System.Drawing.Size(174, 86);
-            this.lblAutosteer.TabIndex = 133;
-            this.lblAutosteer.Text = "Press Button to Edit Shortcut";
-            this.lblAutosteer.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // tboxKey
             // 
-            this.tboxKey.Font = new System.Drawing.Font("Tahoma", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tboxKey.Location = new System.Drawing.Point(563, 578);
+            resources.ApplyResources(this.tboxKey, "tboxKey");
             this.tboxKey.Name = "tboxKey";
-            this.tboxKey.Size = new System.Drawing.Size(87, 40);
-            this.tboxKey.TabIndex = 134;
-            this.tboxKey.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.tboxKey.TextChanged += new System.EventHandler(this.tboxKey_TextChanged);
             // 
             // btnCycleLines
             // 
-            this.btnCycleLines.Font = new System.Drawing.Font("Tahoma", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCycleLines.Location = new System.Drawing.Point(201, 91);
+            resources.ApplyResources(this.btnCycleLines, "btnCycleLines");
             this.btnCycleLines.Name = "btnCycleLines";
-            this.btnCycleLines.Size = new System.Drawing.Size(75, 41);
-            this.btnCycleLines.TabIndex = 135;
-            this.btnCycleLines.Text = "C";
             this.btnCycleLines.UseVisualStyleBackColor = true;
             this.btnCycleLines.Click += new System.EventHandler(this.btnEditShortcut_Click);
             // 
             // label5
             // 
-            this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("Tahoma", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(77, 99);
+            resources.ApplyResources(this.label5, "label5");
+            this.label5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(127, 25);
-            this.label5.TabIndex = 131;
-            this.label5.Text = "Cycle Lines";
             // 
             // btnFieldMenu
             // 
-            this.btnFieldMenu.Font = new System.Drawing.Font("Tahoma", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnFieldMenu.Location = new System.Drawing.Point(201, 149);
+            resources.ApplyResources(this.btnFieldMenu, "btnFieldMenu");
             this.btnFieldMenu.Name = "btnFieldMenu";
-            this.btnFieldMenu.Size = new System.Drawing.Size(75, 41);
-            this.btnFieldMenu.TabIndex = 137;
-            this.btnFieldMenu.Text = "F";
             this.btnFieldMenu.UseVisualStyleBackColor = true;
             this.btnFieldMenu.Click += new System.EventHandler(this.btnEditShortcut_Click);
             // 
             // label6
             // 
-            this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Tahoma", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(80, 157);
+            resources.ApplyResources(this.label6, "label6");
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(123, 25);
-            this.label6.TabIndex = 136;
-            this.label6.Text = "Close Field";
             // 
             // btnNewFlag
             // 
-            this.btnNewFlag.Font = new System.Drawing.Font("Tahoma", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnNewFlag.Location = new System.Drawing.Point(201, 207);
+            resources.ApplyResources(this.btnNewFlag, "btnNewFlag");
             this.btnNewFlag.Name = "btnNewFlag";
-            this.btnNewFlag.Size = new System.Drawing.Size(75, 41);
-            this.btnNewFlag.TabIndex = 139;
-            this.btnNewFlag.Text = "G";
             this.btnNewFlag.UseVisualStyleBackColor = true;
             this.btnNewFlag.Click += new System.EventHandler(this.btnEditShortcut_Click);
             // 
             // label7
             // 
-            this.label7.AutoSize = true;
-            this.label7.Font = new System.Drawing.Font("Tahoma", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.Location = new System.Drawing.Point(95, 215);
+            resources.ApplyResources(this.label7, "label7");
+            this.label7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(109, 25);
-            this.label7.TabIndex = 138;
-            this.label7.Text = "New Flag";
             // 
             // btnManualSection
             // 
-            this.btnManualSection.Font = new System.Drawing.Font("Tahoma", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnManualSection.Location = new System.Drawing.Point(201, 265);
+            resources.ApplyResources(this.btnManualSection, "btnManualSection");
             this.btnManualSection.Name = "btnManualSection";
-            this.btnManualSection.Size = new System.Drawing.Size(75, 41);
-            this.btnManualSection.TabIndex = 141;
-            this.btnManualSection.Text = "M";
             this.btnManualSection.UseVisualStyleBackColor = true;
             this.btnManualSection.Click += new System.EventHandler(this.btnEditShortcut_Click);
             // 
             // label8
             // 
-            this.label8.AutoSize = true;
-            this.label8.Font = new System.Drawing.Font("Tahoma", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label8.Location = new System.Drawing.Point(32, 273);
+            resources.ApplyResources(this.label8, "label8");
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(172, 25);
-            this.label8.TabIndex = 140;
-            this.label8.Text = "Manual Section";
             // 
             // btnAutoSection
             // 
-            this.btnAutoSection.Font = new System.Drawing.Font("Tahoma", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnAutoSection.Location = new System.Drawing.Point(201, 323);
+            resources.ApplyResources(this.btnAutoSection, "btnAutoSection");
             this.btnAutoSection.Name = "btnAutoSection";
-            this.btnAutoSection.Size = new System.Drawing.Size(75, 41);
-            this.btnAutoSection.TabIndex = 143;
-            this.btnAutoSection.Text = "N";
             this.btnAutoSection.UseVisualStyleBackColor = true;
             this.btnAutoSection.Click += new System.EventHandler(this.btnEditShortcut_Click);
             // 
             // label9
             // 
-            this.label9.AutoSize = true;
-            this.label9.Font = new System.Drawing.Font("Tahoma", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label9.Location = new System.Drawing.Point(60, 331);
+            resources.ApplyResources(this.label9, "label9");
+            this.label9.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(144, 25);
-            this.label9.TabIndex = 142;
-            this.label9.Text = "Auto Section";
             // 
             // btnSnapToPivot
             // 
-            this.btnSnapToPivot.Font = new System.Drawing.Font("Tahoma", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSnapToPivot.Location = new System.Drawing.Point(201, 381);
+            resources.ApplyResources(this.btnSnapToPivot, "btnSnapToPivot");
             this.btnSnapToPivot.Name = "btnSnapToPivot";
-            this.btnSnapToPivot.Size = new System.Drawing.Size(75, 41);
-            this.btnSnapToPivot.TabIndex = 145;
-            this.btnSnapToPivot.Text = "P";
             this.btnSnapToPivot.UseVisualStyleBackColor = true;
             this.btnSnapToPivot.Click += new System.EventHandler(this.btnEditShortcut_Click);
             // 
             // label10
             // 
-            this.label10.AutoSize = true;
-            this.label10.Font = new System.Drawing.Font("Tahoma", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label10.Location = new System.Drawing.Point(52, 389);
+            resources.ApplyResources(this.label10, "label10");
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(152, 25);
-            this.label10.TabIndex = 144;
-            this.label10.Text = "Snap to Pivot";
             // 
             // btnMoveLineLeft
             // 
-            this.btnMoveLineLeft.Font = new System.Drawing.Font("Tahoma", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnMoveLineLeft.Location = new System.Drawing.Point(201, 439);
+            resources.ApplyResources(this.btnMoveLineLeft, "btnMoveLineLeft");
             this.btnMoveLineLeft.Name = "btnMoveLineLeft";
-            this.btnMoveLineLeft.Size = new System.Drawing.Size(75, 41);
-            this.btnMoveLineLeft.TabIndex = 147;
-            this.btnMoveLineLeft.Text = "T";
             this.btnMoveLineLeft.UseVisualStyleBackColor = true;
             this.btnMoveLineLeft.Click += new System.EventHandler(this.btnEditShortcut_Click);
             // 
             // label11
             // 
-            this.label11.AutoSize = true;
-            this.label11.Font = new System.Drawing.Font("Tahoma", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label11.Location = new System.Drawing.Point(40, 447);
+            resources.ApplyResources(this.label11, "label11");
+            this.label11.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(164, 25);
-            this.label11.TabIndex = 146;
-            this.label11.Text = "Move Line Left";
             // 
             // btnMoveLineRight
             // 
-            this.btnMoveLineRight.Font = new System.Drawing.Font("Tahoma", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnMoveLineRight.Location = new System.Drawing.Point(201, 497);
+            resources.ApplyResources(this.btnMoveLineRight, "btnMoveLineRight");
             this.btnMoveLineRight.Name = "btnMoveLineRight";
-            this.btnMoveLineRight.Size = new System.Drawing.Size(75, 41);
-            this.btnMoveLineRight.TabIndex = 149;
-            this.btnMoveLineRight.Text = "Y";
             this.btnMoveLineRight.UseVisualStyleBackColor = true;
             this.btnMoveLineRight.Click += new System.EventHandler(this.btnEditShortcut_Click);
             // 
             // label12
             // 
-            this.label12.AutoSize = true;
-            this.label12.Font = new System.Drawing.Font("Tahoma", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label12.Location = new System.Drawing.Point(25, 505);
+            resources.ApplyResources(this.label12, "label12");
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(179, 25);
-            this.label12.TabIndex = 148;
-            this.label12.Text = "Move Line Right";
             // 
             // btnVehicleSettings
             // 
-            this.btnVehicleSettings.Font = new System.Drawing.Font("Tahoma", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnVehicleSettings.Location = new System.Drawing.Point(201, 556);
+            resources.ApplyResources(this.btnVehicleSettings, "btnVehicleSettings");
             this.btnVehicleSettings.Name = "btnVehicleSettings";
-            this.btnVehicleSettings.Size = new System.Drawing.Size(75, 41);
-            this.btnVehicleSettings.TabIndex = 151;
-            this.btnVehicleSettings.Text = "V";
             this.btnVehicleSettings.UseVisualStyleBackColor = true;
             this.btnVehicleSettings.Click += new System.EventHandler(this.btnEditShortcut_Click);
             // 
             // label13
             // 
-            this.label13.AutoSize = true;
-            this.label13.Font = new System.Drawing.Font("Tahoma", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label13.Location = new System.Drawing.Point(17, 561);
+            resources.ApplyResources(this.label13, "label13");
+            this.label13.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(178, 25);
-            this.label13.TabIndex = 150;
-            this.label13.Text = "Vehicle Settings";
             // 
             // btnSteerWizard
             // 
-            this.btnSteerWizard.Font = new System.Drawing.Font("Tahoma", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSteerWizard.Location = new System.Drawing.Point(201, 611);
+            resources.ApplyResources(this.btnSteerWizard, "btnSteerWizard");
             this.btnSteerWizard.Name = "btnSteerWizard";
-            this.btnSteerWizard.Size = new System.Drawing.Size(75, 41);
-            this.btnSteerWizard.TabIndex = 153;
-            this.btnSteerWizard.Text = "W";
             this.btnSteerWizard.UseVisualStyleBackColor = true;
             this.btnSteerWizard.Click += new System.EventHandler(this.btnEditShortcut_Click);
             // 
             // label14
             // 
-            this.label14.AutoSize = true;
-            this.label14.Font = new System.Drawing.Font("Tahoma", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label14.Location = new System.Drawing.Point(48, 621);
+            resources.ApplyResources(this.label14, "label14");
             this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(147, 25);
-            this.label14.TabIndex = 152;
-            this.label14.Text = "Steer Wizard";
             // 
             // btnReset
             // 
+            resources.ApplyResources(this.btnReset, "btnReset");
             this.btnReset.FlatAppearance.BorderSize = 0;
-            this.btnReset.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnReset.Font = new System.Drawing.Font("Tahoma", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnReset.Image = global::AgOpenGPS.Properties.Resources.back_button;
-            this.btnReset.Location = new System.Drawing.Point(770, 464);
             this.btnReset.Name = "btnReset";
-            this.btnReset.Size = new System.Drawing.Size(87, 69);
-            this.btnReset.TabIndex = 154;
             this.btnReset.UseVisualStyleBackColor = true;
             this.btnReset.Click += new System.EventHandler(this.btnReset_Click);
             // 
             // label3
             // 
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Tahoma", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(754, 413);
+            resources.ApplyResources(this.label3, "label3");
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(117, 50);
-            this.label3.TabIndex = 155;
-            this.label3.Text = "   Reset \r\nto Default";
             // 
             // btnSection7
             // 
-            this.btnSection7.Font = new System.Drawing.Font("Tahoma", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSection7.Location = new System.Drawing.Point(451, 403);
+            resources.ApplyResources(this.btnSection7, "btnSection7");
             this.btnSection7.Name = "btnSection7";
-            this.btnSection7.Size = new System.Drawing.Size(75, 41);
-            this.btnSection7.TabIndex = 169;
-            this.btnSection7.Text = "7";
             this.btnSection7.UseVisualStyleBackColor = true;
             this.btnSection7.Click += new System.EventHandler(this.btnEditShortcut_Click);
             // 
             // btnSection6
             // 
-            this.btnSection6.Font = new System.Drawing.Font("Tahoma", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSection6.Location = new System.Drawing.Point(451, 343);
+            resources.ApplyResources(this.btnSection6, "btnSection6");
             this.btnSection6.Name = "btnSection6";
-            this.btnSection6.Size = new System.Drawing.Size(75, 41);
-            this.btnSection6.TabIndex = 167;
-            this.btnSection6.Text = "6";
             this.btnSection6.UseVisualStyleBackColor = true;
             this.btnSection6.Click += new System.EventHandler(this.btnEditShortcut_Click);
             // 
             // btnSection5
             // 
-            this.btnSection5.Font = new System.Drawing.Font("Tahoma", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSection5.Location = new System.Drawing.Point(451, 283);
+            resources.ApplyResources(this.btnSection5, "btnSection5");
             this.btnSection5.Name = "btnSection5";
-            this.btnSection5.Size = new System.Drawing.Size(75, 41);
-            this.btnSection5.TabIndex = 165;
-            this.btnSection5.Text = "5";
             this.btnSection5.UseVisualStyleBackColor = true;
             this.btnSection5.Click += new System.EventHandler(this.btnEditShortcut_Click);
             // 
             // btnSection4
             // 
-            this.btnSection4.Font = new System.Drawing.Font("Tahoma", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSection4.Location = new System.Drawing.Point(451, 223);
+            resources.ApplyResources(this.btnSection4, "btnSection4");
             this.btnSection4.Name = "btnSection4";
-            this.btnSection4.Size = new System.Drawing.Size(75, 41);
-            this.btnSection4.TabIndex = 163;
-            this.btnSection4.Text = "4";
             this.btnSection4.UseVisualStyleBackColor = true;
             this.btnSection4.Click += new System.EventHandler(this.btnEditShortcut_Click);
             // 
             // btnSection3
             // 
-            this.btnSection3.Font = new System.Drawing.Font("Tahoma", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSection3.Location = new System.Drawing.Point(451, 163);
+            resources.ApplyResources(this.btnSection3, "btnSection3");
             this.btnSection3.Name = "btnSection3";
-            this.btnSection3.Size = new System.Drawing.Size(75, 41);
-            this.btnSection3.TabIndex = 161;
-            this.btnSection3.Text = "3";
             this.btnSection3.UseVisualStyleBackColor = true;
             this.btnSection3.Click += new System.EventHandler(this.btnEditShortcut_Click);
             // 
             // btnSection2
             // 
-            this.btnSection2.Font = new System.Drawing.Font("Tahoma", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSection2.Location = new System.Drawing.Point(451, 103);
+            resources.ApplyResources(this.btnSection2, "btnSection2");
             this.btnSection2.Name = "btnSection2";
-            this.btnSection2.Size = new System.Drawing.Size(75, 41);
-            this.btnSection2.TabIndex = 159;
-            this.btnSection2.Text = "2";
             this.btnSection2.UseVisualStyleBackColor = true;
             this.btnSection2.Click += new System.EventHandler(this.btnEditShortcut_Click);
             // 
             // btnSection1
             // 
-            this.btnSection1.Font = new System.Drawing.Font("Tahoma", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSection1.Location = new System.Drawing.Point(451, 43);
+            resources.ApplyResources(this.btnSection1, "btnSection1");
             this.btnSection1.Name = "btnSection1";
-            this.btnSection1.Size = new System.Drawing.Size(75, 41);
-            this.btnSection1.TabIndex = 158;
-            this.btnSection1.Text = "1";
             this.btnSection1.UseVisualStyleBackColor = true;
             this.btnSection1.Click += new System.EventHandler(this.btnEditShortcut_Click);
             // 
             // label16
             // 
-            this.label16.AutoSize = true;
-            this.label16.Font = new System.Drawing.Font("Tahoma", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label16.Location = new System.Drawing.Point(401, 411);
+            resources.ApplyResources(this.label16, "label16");
             this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(25, 25);
-            this.label16.TabIndex = 168;
-            this.label16.Text = "7";
             // 
             // label17
             // 
-            this.label17.AutoSize = true;
-            this.label17.Font = new System.Drawing.Font("Tahoma", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label17.Location = new System.Drawing.Point(401, 351);
+            resources.ApplyResources(this.label17, "label17");
             this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(25, 25);
-            this.label17.TabIndex = 166;
-            this.label17.Text = "6";
             // 
             // label18
             // 
-            this.label18.AutoSize = true;
-            this.label18.Font = new System.Drawing.Font("Tahoma", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label18.Location = new System.Drawing.Point(401, 291);
+            resources.ApplyResources(this.label18, "label18");
             this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(25, 25);
-            this.label18.TabIndex = 164;
-            this.label18.Text = "5";
             // 
             // label19
             // 
-            this.label19.AutoSize = true;
-            this.label19.Font = new System.Drawing.Font("Tahoma", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label19.Location = new System.Drawing.Point(401, 231);
+            resources.ApplyResources(this.label19, "label19");
             this.label19.Name = "label19";
-            this.label19.Size = new System.Drawing.Size(25, 25);
-            this.label19.TabIndex = 162;
-            this.label19.Text = "4";
             // 
             // label20
             // 
-            this.label20.AutoSize = true;
-            this.label20.Font = new System.Drawing.Font("Tahoma", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label20.Location = new System.Drawing.Point(401, 171);
+            resources.ApplyResources(this.label20, "label20");
             this.label20.Name = "label20";
-            this.label20.Size = new System.Drawing.Size(25, 25);
-            this.label20.TabIndex = 160;
-            this.label20.Text = "3";
             // 
             // label21
             // 
-            this.label21.AutoSize = true;
-            this.label21.Font = new System.Drawing.Font("Tahoma", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label21.Location = new System.Drawing.Point(401, 111);
+            resources.ApplyResources(this.label21, "label21");
             this.label21.Name = "label21";
-            this.label21.Size = new System.Drawing.Size(25, 25);
-            this.label21.TabIndex = 156;
-            this.label21.Text = "2";
             // 
             // label22
             // 
-            this.label22.AutoSize = true;
-            this.label22.Font = new System.Drawing.Font("Tahoma", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label22.Location = new System.Drawing.Point(401, 51);
+            resources.ApplyResources(this.label22, "label22");
             this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(25, 25);
-            this.label22.TabIndex = 157;
-            this.label22.Text = "1";
             // 
             // btnSection8
             // 
-            this.btnSection8.Font = new System.Drawing.Font("Tahoma", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSection8.Location = new System.Drawing.Point(451, 463);
+            resources.ApplyResources(this.btnSection8, "btnSection8");
             this.btnSection8.Name = "btnSection8";
-            this.btnSection8.Size = new System.Drawing.Size(75, 41);
-            this.btnSection8.TabIndex = 171;
-            this.btnSection8.Text = "8";
             this.btnSection8.UseVisualStyleBackColor = true;
             this.btnSection8.Click += new System.EventHandler(this.btnEditShortcut_Click);
             // 
             // label23
             // 
-            this.label23.AutoSize = true;
-            this.label23.Font = new System.Drawing.Font("Tahoma", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label23.Location = new System.Drawing.Point(401, 471);
+            resources.ApplyResources(this.label23, "label23");
             this.label23.Name = "label23";
-            this.label23.Size = new System.Drawing.Size(25, 25);
-            this.label23.TabIndex = 170;
-            this.label23.Text = "8";
             // 
             // label24
             // 
-            this.label24.AutoSize = true;
-            this.label24.Font = new System.Drawing.Font("Tahoma", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label24.Location = new System.Drawing.Point(365, 9);
+            resources.ApplyResources(this.label24, "label24");
             this.label24.Name = "label24";
-            this.label24.Size = new System.Drawing.Size(174, 25);
-            this.label24.TabIndex = 172;
-            this.label24.Text = "Section or Zone";
             // 
             // label25
             // 
-            this.label25.AutoSize = true;
-            this.label25.Font = new System.Drawing.Font("Tahoma", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label25.Location = new System.Drawing.Point(558, 623);
+            resources.ApplyResources(this.label25, "label25");
             this.label25.Name = "label25";
-            this.label25.Size = new System.Drawing.Size(104, 25);
-            this.label25.TabIndex = 173;
-            this.label25.Text = "New Key";
             // 
             // Form_Keys
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(895, 686);
             this.ControlBox = false;
             this.Controls.Add(this.label25);
             this.Controls.Add(this.label24);
@@ -640,8 +427,6 @@
             this.Controls.Add(this.label4);
             this.Name = "Form_Keys";
             this.ShowInTaskbar = false;
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
-            this.Text = "Shortcut Keys";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form_Keys_FormClosing);
             this.Load += new System.EventHandler(this.Form_Keys_Load);
             this.ResumeLayout(false);
