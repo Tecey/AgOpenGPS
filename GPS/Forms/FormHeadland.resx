@@ -117,7 +117,574 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>1004, 709</value>
+  </data>
+  <data name="cboxToolWidths.Items2" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="cboxToolWidths.Items5" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="cboxToolWidths.Items4" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="cboxToolWidths.Items7" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="cboxToolWidths.Items6" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="cboxToolWidths.Items9" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="cboxToolWidths.Items8" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="cboxToolWidths.Items14" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>#</value>
+  </data>
+  <data name="&gt;&gt;btnSetDistance.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="btnExit.TabIndex" type="System.Int32, mscorlib">
+    <value>234</value>
+  </data>
+  <data name="cboxToolWidths.Items13" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;lblWidthUnits.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnExit.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 15.75pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;btnTurnOffHeadland.Name" xml:space="preserve">
+    <value>btnTurnOffHeadland</value>
+  </data>
+  <data name="cboxToolWidths.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 27.75pt, style=Bold</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="btnReset.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btnDeletePoints.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="&gt;&gt;btnReset.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;btnSetDistance.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lblHeadlandWidth.Location" type="System.Drawing.Point, System.Drawing">
+    <value>856, 46</value>
+  </data>
+  <data name="cboxToolWidths.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 3, 2, 3</value>
+  </data>
+  <data name="btnReset.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="btnSetDistance.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Right</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="nudSetDistance.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="lblWidthUnits.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 14.25pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;lblHeadlandWidth.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;oglSelf.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;btnExit.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="btnTurnOffHeadland.Location" type="System.Drawing.Point, System.Drawing">
+    <value>726, 637</value>
+  </data>
+  <data name="btnSetDistance.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnDeletePoints.TabIndex" type="System.Int32, mscorlib">
+    <value>452</value>
+  </data>
+  <data name="nudSetDistance.Location" type="System.Drawing.Point, System.Drawing">
+    <value>751, 300</value>
+  </data>
+  <data name="&gt;&gt;btnReset.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cboxToolWidths.Name" xml:space="preserve">
+    <value>cboxToolWidths</value>
+  </data>
+  <data name="oglSelf.Size" type="System.Drawing.Size, System.Drawing">
+    <value>700, 700</value>
+  </data>
+  <data name="btnReset.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>FormHeadland</value>
+  </data>
+  <data name="btnExit.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="&gt;&gt;timer1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Timer, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnDeletePoints.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="btnTurnOffHeadland.Size" type="System.Drawing.Size, System.Drawing">
+    <value>88, 70</value>
+  </data>
+  <data name="lblHeadlandWidth.Text" xml:space="preserve">
+    <value>23.8</value>
+  </data>
+  <data name="cboxToolWidths.Location" type="System.Drawing.Point, System.Drawing">
+    <value>751, 46</value>
+  </data>
+  <data name="&gt;&gt;btnMakeFixedHeadland.Name" xml:space="preserve">
+    <value>btnMakeFixedHeadland</value>
+  </data>
+  <data name="&gt;&gt;lblHeadlandWidth.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="btnDeletePoints.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt</value>
+  </data>
+  <data name="nudDistance.Location" type="System.Drawing.Point, System.Drawing">
+    <value>751, 180</value>
+  </data>
+  <data name="btnReset.Text" xml:space="preserve">
+    <value>Reset</value>
+  </data>
+  <data name="cboxToolWidths.Items" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="cboxIsSectionControlled.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>Yes</value>
+  </data>
+  <data name="&gt;&gt;cboxToolWidths.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="btnSetDistance.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="cboxIsSectionControlled.Location" type="System.Drawing.Point, System.Drawing">
+    <value>875, 412</value>
+  </data>
+  <data name="&gt;&gt;nudSetDistance.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterParent</value>
+  </data>
+  <data name="&gt;&gt;btnReset.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="cboxToolWidths.Items10" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>708, 52</value>
+  </data>
+  <data name="&gt;&gt;nudSetDistance.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="label2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 27.75pt, style=Bold</value>
+  </data>
+  <data name="btnMakeFixedHeadland.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 42</value>
+  </data>
+  <data name="label2.TabIndex" type="System.Int32, mscorlib">
+    <value>463</value>
+  </data>
+  <data name="&gt;&gt;label2.Name" xml:space="preserve">
+    <value>label2</value>
+  </data>
+  <data name="&gt;&gt;lblWidthUnits.Name" xml:space="preserve">
+    <value>lblWidthUnits</value>
+  </data>
+  <data name="btnSetDistance.Location" type="System.Drawing.Point, System.Drawing">
+    <value>925, 296</value>
+  </data>
+  <data name="btnDeletePoints.Location" type="System.Drawing.Point, System.Drawing">
+    <value>734, 421</value>
+  </data>
+  <data name="btnMakeFixedHeadland.TabIndex" type="System.Int32, mscorlib">
+    <value>450</value>
+  </data>
+  <data name="btnSetDistance.TabIndex" type="System.Int32, mscorlib">
+    <value>458</value>
+  </data>
+  <data name="btnReset.Size" type="System.Drawing.Size, System.Drawing">
+    <value>204, 75</value>
+  </data>
+  <data name="btnMakeFixedHeadland.Size" type="System.Drawing.Size, System.Drawing">
+    <value>73, 61</value>
+  </data>
+  <data name="oglSelf.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Click 2 points on the Boundary to Begin</value>
+  </data>
+  <data name="nudDistance.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;cboxIsSectionControlled.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;timer1.Name" xml:space="preserve">
+    <value>timer1</value>
+  </data>
+  <data name="btnReset.Location" type="System.Drawing.Point, System.Drawing">
+    <value>734, 523</value>
+  </data>
+  <data name="lblHeadlandWidth.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 24pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnDeletePoints.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="cboxIsSectionControlled.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="&gt;&gt;btnReset.Name" xml:space="preserve">
+    <value>btnReset</value>
+  </data>
+  <data name="btnMakeFixedHeadland.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Right</value>
+  </data>
+  <data name="&gt;&gt;btnDeletePoints.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="cboxToolWidths.Items11" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;btnExit.Name" xml:space="preserve">
+    <value>btnExit</value>
+  </data>
+  <data name="&gt;&gt;nudDistance.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnMakeFixedHeadland.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="btnTurnOffHeadland.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnMakeFixedHeadland.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cboxIsSectionControlled.Size" type="System.Drawing.Size, System.Drawing">
+    <value>86, 81</value>
+  </data>
+  <data name="lblHeadlandWidth.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;btnSetDistance.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;oglSelf.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lblWidthUnits.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="btnTurnOffHeadland.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>462</value>
+  </data>
+  <data name="&gt;&gt;nudDistance.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="btnReset.TextImageRelation" type="System.Windows.Forms.TextImageRelation, System.Windows.Forms">
+    <value>ImageBeforeText</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="btnExit.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btnReset.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="cboxToolWidths.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="btnReset.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="&gt;&gt;btnDeletePoints.Name" xml:space="preserve">
+    <value>btnDeletePoints</value>
+  </data>
+  <data name="btnSetDistance.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="oglSelf.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 7</value>
+  </data>
+  <data name="nudDistance.Size" type="System.Drawing.Size, System.Drawing">
+    <value>148, 52</value>
+  </data>
+  <data name="nudSetDistance.TabIndex" type="System.Int32, mscorlib">
+    <value>457</value>
+  </data>
+  <data name="btnDeletePoints.Size" type="System.Drawing.Size, System.Drawing">
+    <value>73, 61</value>
+  </data>
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>41, 42</value>
+  </data>
+  <data name="btnReset.TabIndex" type="System.Int32, mscorlib">
+    <value>459</value>
+  </data>
+  <data name="&gt;&gt;cboxToolWidths.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="btnReset.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="btnExit.Size" type="System.Drawing.Size, System.Drawing">
+    <value>123, 70</value>
+  </data>
+  <data name="btnMakeFixedHeadland.Location" type="System.Drawing.Point, System.Drawing">
+    <value>925, 176</value>
+  </data>
+  <data name="btnTurnOffHeadland.TabIndex" type="System.Int32, mscorlib">
+    <value>460</value>
+  </data>
+  <data name="btnExit.Location" type="System.Drawing.Point, System.Drawing">
+    <value>875, 637</value>
+  </data>
+  <data name="&gt;&gt;oglSelf.Name" xml:space="preserve">
+    <value>oglSelf</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>708, 186</value>
+  </data>
+  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label2.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="oglSelf.TabIndex" type="System.Int32, mscorlib">
+    <value>183</value>
+  </data>
+  <data name="&gt;&gt;cboxIsSectionControlled.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="btnTurnOffHeadland.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt</value>
+  </data>
+  <data name="btnMakeFixedHeadland.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="&gt;&gt;btnTurnOffHeadland.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="cboxToolWidths.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>System</value>
+  </data>
+  <data name="lblHeadlandWidth.TabIndex" type="System.Int32, mscorlib">
+    <value>464</value>
+  </data>
+  <data name="cboxIsSectionControlled.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 15.75pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;nudDistance.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="nudSetDistance.Size" type="System.Drawing.Size, System.Drawing">
+    <value>148, 52</value>
+  </data>
+  <data name="&gt;&gt;lblWidthUnits.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnExit.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="cboxIsSectionControlled.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="btnTurnOffHeadland.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>+</value>
+  </data>
+  <data name="lblHeadlandWidth.Size" type="System.Drawing.Size, System.Drawing">
+    <value>87, 39</value>
+  </data>
+  <data name="cboxToolWidths.Items12" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="cboxToolWidths.Size" type="System.Drawing.Size, System.Drawing">
+    <value>88, 53</value>
+  </data>
+  <data name="lblWidthUnits.Text" xml:space="preserve">
+    <value>m</value>
+  </data>
+  <data name="lblWidthUnits.Location" type="System.Drawing.Point, System.Drawing">
+    <value>885, 84</value>
+  </data>
+  <data name="btnSetDistance.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt</value>
+  </data>
+  <data name="&gt;&gt;btnSetDistance.Name" xml:space="preserve">
+    <value>btnSetDistance</value>
+  </data>
+  <data name="btnMakeFixedHeadland.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt</value>
+  </data>
+  <data name="&gt;&gt;btnMakeFixedHeadland.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="nudDistance.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 27.75pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;lblHeadlandWidth.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="btnDeletePoints.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Right</value>
+  </data>
+  <data name="btnSetDistance.Size" type="System.Drawing.Size, System.Drawing">
+    <value>73, 61</value>
+  </data>
+  <data name="cboxToolWidths.TabIndex" type="System.Int32, mscorlib">
+    <value>461</value>
+  </data>
+  <data name="nudDistance.TabIndex" type="System.Int32, mscorlib">
+    <value>338</value>
+  </data>
+  <data name="lblWidthUnits.Size" type="System.Drawing.Size, System.Drawing">
+    <value>27, 24</value>
+  </data>
+  <data name="&gt;&gt;cboxToolWidths.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 27.75pt, style=Bold</value>
+  </data>
+  <data name="btnDeletePoints.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="cboxToolWidths.Items3" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;nudDistance.Name" xml:space="preserve">
+    <value>nudDistance</value>
+  </data>
+  <data name="&gt;&gt;lblHeadlandWidth.Name" xml:space="preserve">
+    <value>lblHeadlandWidth</value>
+  </data>
+  <data name="&gt;&gt;nudSetDistance.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="cboxIsSectionControlled.TabIndex" type="System.Int32, mscorlib">
+    <value>466</value>
+  </data>
+  <data name="btnReset.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Right</value>
+  </data>
+  <data name="&gt;&gt;btnMakeFixedHeadland.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;btnTurnOffHeadland.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="btnTurnOffHeadland.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Right</value>
+  </data>
+  <data name="&gt;&gt;cboxIsSectionControlled.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;oglSelf.Type" xml:space="preserve">
+    <value>OpenTK.GLControl, OpenTK.GLControl, Version=1.2.0.0, Culture=neutral, PublicKeyToken=bad199fe84eb3df4</value>
+  </data>
+  <data name="&gt;&gt;nudSetDistance.Name" xml:space="preserve">
+    <value>nudSetDistance</value>
+  </data>
+  <data name="&gt;&gt;btnDeletePoints.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;btnTurnOffHeadland.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="lblWidthUnits.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblWidthUnits.TabIndex" type="System.Int32, mscorlib">
+    <value>465</value>
+  </data>
+  <data name="cboxIsSectionControlled.Appearance" type="System.Windows.Forms.Appearance, System.Windows.Forms">
+    <value>Button</value>
+  </data>
+  <data name="nudSetDistance.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 27.75pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;btnExit.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cboxIsSectionControlled.Name" xml:space="preserve">
+    <value>cboxIsSectionControlled</value>
+  </data>
+  <data name="cboxToolWidths.Items1" xml:space="preserve">
+    <value>1</value>
+  </data>
   <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
+  </metadata>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>uk</value>
   </metadata>
 </root>

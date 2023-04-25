@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormHeadingGraph));
             System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
             System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
             System.Windows.Forms.DataVisualization.Charting.Series series2 = new System.Windows.Forms.DataVisualization.Charting.Series();
@@ -57,9 +58,7 @@
             // 
             // unoChart
             // 
-            this.unoChart.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
+            resources.ApplyResources(this.unoChart, "unoChart");
             this.unoChart.AntiAliasing = System.Windows.Forms.DataVisualization.Charting.AntiAliasingStyles.None;
             this.unoChart.BackColor = System.Drawing.Color.Black;
             chartArea1.AxisX.LabelAutoFitMaxFontSize = 8;
@@ -73,8 +72,6 @@
             chartArea1.Position.Height = 100F;
             chartArea1.Position.Width = 100F;
             this.unoChart.ChartAreas.Add(chartArea1);
-            this.unoChart.Location = new System.Drawing.Point(3, 3);
-            this.unoChart.Margin = new System.Windows.Forms.Padding(0);
             this.unoChart.Name = "unoChart";
             this.unoChart.Palette = System.Windows.Forms.DataVisualization.Charting.ChartColorPalette.None;
             series1.BackSecondaryColor = System.Drawing.Color.White;
@@ -96,14 +93,11 @@
             series2.Name = "PWM";
             this.unoChart.Series.Add(series1);
             this.unoChart.Series.Add(series2);
-            this.unoChart.Size = new System.Drawing.Size(487, 126);
-            this.unoChart.TabIndex = 180;
             this.unoChart.TextAntiAliasingQuality = System.Windows.Forms.DataVisualization.Charting.TextAntiAliasingQuality.SystemDefault;
             // 
             // rollChart
             // 
-            this.rollChart.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
+            resources.ApplyResources(this.rollChart, "rollChart");
             this.rollChart.AntiAliasing = System.Windows.Forms.DataVisualization.Charting.AntiAliasingStyles.None;
             this.rollChart.BackColor = System.Drawing.Color.Black;
             chartArea2.AxisX.LabelAutoFitMaxFontSize = 8;
@@ -120,8 +114,6 @@
             chartArea2.Position.Height = 100F;
             chartArea2.Position.Width = 100F;
             this.rollChart.ChartAreas.Add(chartArea2);
-            this.rollChart.Location = new System.Drawing.Point(9, 129);
-            this.rollChart.Margin = new System.Windows.Forms.Padding(0);
             this.rollChart.Name = "rollChart";
             this.rollChart.Palette = System.Windows.Forms.DataVisualization.Charting.ChartColorPalette.None;
             series3.ChartArea = "ChartArea1";
@@ -134,132 +126,75 @@
             series4.Name = "Ze";
             this.rollChart.Series.Add(series3);
             this.rollChart.Series.Add(series4);
-            this.rollChart.Size = new System.Drawing.Size(481, 342);
-            this.rollChart.TabIndex = 241;
             this.rollChart.TextAntiAliasingQuality = System.Windows.Forms.DataVisualization.Charting.TextAntiAliasingQuality.SystemDefault;
             // 
             // lblDiff
             // 
-            this.lblDiff.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.lblDiff.AutoSize = true;
+            resources.ApplyResources(this.lblDiff, "lblDiff");
             this.lblDiff.BackColor = System.Drawing.SystemColors.ControlText;
-            this.lblDiff.Font = new System.Drawing.Font("Tahoma", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblDiff.ForeColor = System.Drawing.Color.Cyan;
-            this.lblDiff.Location = new System.Drawing.Point(387, 100);
             this.lblDiff.Name = "lblDiff";
-            this.lblDiff.Size = new System.Drawing.Size(85, 29);
-            this.lblDiff.TabIndex = 245;
-            this.lblDiff.Text = "label5";
-            this.lblDiff.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // lblPWM
             // 
-            this.lblPWM.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.lblPWM.AutoSize = true;
+            resources.ApplyResources(this.lblPWM, "lblPWM");
             this.lblPWM.BackColor = System.Drawing.SystemColors.ControlText;
-            this.lblPWM.Font = new System.Drawing.Font("Tahoma", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblPWM.ForeColor = System.Drawing.Color.Lime;
-            this.lblPWM.Location = new System.Drawing.Point(276, 100);
             this.lblPWM.Name = "lblPWM";
-            this.lblPWM.Size = new System.Drawing.Size(85, 29);
-            this.lblPWM.TabIndex = 247;
-            this.lblPWM.Text = "label5";
-            this.lblPWM.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // lblSteerAng
             // 
-            this.lblSteerAng.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.lblSteerAng.AutoSize = true;
+            resources.ApplyResources(this.lblSteerAng, "lblSteerAng");
             this.lblSteerAng.BackColor = System.Drawing.SystemColors.ControlText;
-            this.lblSteerAng.Font = new System.Drawing.Font("Tahoma", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblSteerAng.ForeColor = System.Drawing.Color.OrangeRed;
-            this.lblSteerAng.Location = new System.Drawing.Point(110, 100);
             this.lblSteerAng.Name = "lblSteerAng";
-            this.lblSteerAng.Size = new System.Drawing.Size(85, 29);
-            this.lblSteerAng.TabIndex = 246;
-            this.lblSteerAng.Text = "label1";
-            this.lblSteerAng.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // label5
             // 
-            this.label5.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            resources.ApplyResources(this.label5, "label5");
             this.label5.AutoEllipsis = true;
             this.label5.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label5.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.Chartreuse;
-            this.label5.Location = new System.Drawing.Point(223, 104);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(55, 23);
-            this.label5.TabIndex = 249;
-            this.label5.Text = "IMU";
-            this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // label1
             // 
-            this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            resources.ApplyResources(this.label1, "label1");
             this.label1.AutoEllipsis = true;
             this.label1.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label1.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.OrangeRed;
-            this.label1.Location = new System.Drawing.Point(38, 104);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(74, 23);
-            this.label1.TabIndex = 248;
-            this.label1.Text = "Fix2Fix";
-            this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
-            this.label2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            resources.ApplyResources(this.label2, "label2");
             this.label2.AutoEllipsis = true;
-            this.label2.AutoSize = true;
             this.label2.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label2.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.label2.Location = new System.Drawing.Point(-2, 142);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(44, 23);
-            this.label2.TabIndex = 250;
-            this.label2.Text = "+10";
-            this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // label3
             // 
-            this.label3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            resources.ApplyResources(this.label3, "label3");
             this.label3.AutoEllipsis = true;
-            this.label3.AutoSize = true;
             this.label3.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label3.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.label3.Location = new System.Drawing.Point(5, 425);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(37, 23);
-            this.label3.TabIndex = 251;
-            this.label3.Text = "-10";
-            this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // label4
             // 
-            this.label4.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            resources.ApplyResources(this.label4, "label4");
             this.label4.AutoEllipsis = true;
-            this.label4.AutoSize = true;
             this.label4.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label4.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.label4.Location = new System.Drawing.Point(12, 273);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(20, 23);
-            this.label4.TabIndex = 252;
-            this.label4.Text = "0";
-            this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // FormHeadingGraph
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.ClientSize = new System.Drawing.Size(495, 470);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
@@ -270,11 +205,8 @@
             this.Controls.Add(this.lblDiff);
             this.Controls.Add(this.rollChart);
             this.Controls.Add(this.unoChart);
-            this.Location = new System.Drawing.Point(30, 30);
             this.Name = "FormHeadingGraph";
             this.ShowInTaskbar = false;
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
-            this.Text = "Roll Correction Graph";
             this.Load += new System.EventHandler(this.FormSteerGraph_Load);
             ((System.ComponentModel.ISupportInitialize)(this.unoChart)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.rollChart)).EndInit();

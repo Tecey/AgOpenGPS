@@ -1,0 +1,1013 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label62.Text" xml:space="preserve">
+    <value>Запуск</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="label61.Location" type="System.Drawing.Point, System.Drawing">
+    <value>678, 460</value>
+  </data>
+  <data name="label61.Size" type="System.Drawing.Size, System.Drawing">
+    <value>171, 16</value>
+  </data>
+  <data name="label61.Text" xml:space="preserve">
+    <value>Автоматичний запуск AgIO?</value>
+  </data>
+  <data name="label121.Location" type="System.Drawing.Point, System.Drawing">
+    <value>709, 260</value>
+  </data>
+  <data name="label121.Size" type="System.Drawing.Size, System.Drawing">
+    <value>97, 16</value>
+  </data>
+  <data name="label121.Text" xml:space="preserve">
+    <value>Гідропідйомник</value>
+  </data>
+  <data name="label119.Location" type="System.Drawing.Point, System.Drawing">
+    <value>686, 38</value>
+  </data>
+  <data name="label119.Size" type="System.Drawing.Size, System.Drawing">
+    <value>149, 16</value>
+  </data>
+  <data name="label119.Text" xml:space="preserve">
+    <value>Автоматичне керування</value>
+  </data>
+  <data name="label119.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="label120.Location" type="System.Drawing.Point, System.Drawing">
+    <value>709, 144</value>
+  </data>
+  <data name="label120.Size" type="System.Drawing.Size, System.Drawing">
+    <value>92, 16</value>
+  </data>
+  <data name="label120.Text" xml:space="preserve">
+    <value>Ви повертаєте</value>
+  </data>
+  <data name="label103.Text" xml:space="preserve">
+    <value>Звук</value>
+  </data>
+  <data name="label115.Location" type="System.Drawing.Point, System.Drawing">
+    <value>363, 460</value>
+  </data>
+  <data name="label115.Size" type="System.Drawing.Size, System.Drawing">
+    <value>61, 16</value>
+  </data>
+  <data name="label115.Text" xml:space="preserve">
+    <value>Розворот</value>
+  </data>
+  <data name="label114.Location" type="System.Drawing.Point, System.Drawing">
+    <value>474, 461</value>
+  </data>
+  <data name="label114.Size" type="System.Drawing.Size, System.Drawing">
+    <value>56, 16</value>
+  </data>
+  <data name="label114.Text" xml:space="preserve">
+    <value>Боковий</value>
+  </data>
+  <data name="label100.Location" type="System.Drawing.Point, System.Drawing">
+    <value>563, 23</value>
+  </data>
+  <data name="label100.Size" type="System.Drawing.Size, System.Drawing">
+    <value>88, 32</value>
+  </data>
+  <data name="label100.Text" xml:space="preserve">
+    <value>Автоматичне 
+керування</value>
+  </data>
+  <data name="label100.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="label98.Location" type="System.Drawing.Point, System.Drawing">
+    <value>468, 144</value>
+  </data>
+  <data name="label98.Size" type="System.Drawing.Size, System.Drawing">
+    <value>73, 16</value>
+  </data>
+  <data name="label98.Text" xml:space="preserve">
+    <value>Ручні секції</value>
+  </data>
+  <data name="label99.Location" type="System.Drawing.Point, System.Drawing">
+    <value>459, 40</value>
+  </data>
+  <data name="label99.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 16</value>
+  </data>
+  <data name="label99.Text" xml:space="preserve">
+    <value>Автомат. секціі</value>
+  </data>
+  <data name="label97.Location" type="System.Drawing.Point, System.Drawing">
+    <value>353, 352</value>
+  </data>
+  <data name="label97.Size" type="System.Drawing.Size, System.Drawing">
+    <value>83, 16</value>
+  </data>
+  <data name="label97.Text" xml:space="preserve">
+    <value>Циклічні лінії</value>
+  </data>
+  <data name="label96.Size" type="System.Drawing.Size, System.Drawing">
+    <value>55, 16</value>
+  </data>
+  <data name="label96.Text" xml:space="preserve">
+    <value>Лінія AB</value>
+  </data>
+  <data name="label95.Location" type="System.Drawing.Point, System.Drawing">
+    <value>371, 144</value>
+  </data>
+  <data name="label95.Size" type="System.Drawing.Size, System.Drawing">
+    <value>42, 16</value>
+  </data>
+  <data name="label95.Text" xml:space="preserve">
+    <value>Крива</value>
+  </data>
+  <data name="label94.Location" type="System.Drawing.Point, System.Drawing">
+    <value>443, 352</value>
+  </data>
+  <data name="label94.Size" type="System.Drawing.Size, System.Drawing">
+    <value>124, 16</value>
+  </data>
+  <data name="label94.Text" xml:space="preserve">
+    <value>Рульове управління</value>
+  </data>
+  <data name="label93.Location" type="System.Drawing.Point, System.Drawing">
+    <value>562, 144</value>
+  </data>
+  <data name="label93.Size" type="System.Drawing.Size, System.Drawing">
+    <value>92, 16</value>
+  </data>
+  <data name="label93.Text" xml:space="preserve">
+    <value>Ви повертаєте</value>
+  </data>
+  <data name="label92.Location" type="System.Drawing.Point, System.Drawing">
+    <value>368, 40</value>
+  </data>
+  <data name="label92.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 16</value>
+  </data>
+  <data name="label92.Text" xml:space="preserve">
+    <value>Контур</value>
+  </data>
+  <data name="label90.Location" type="System.Drawing.Point, System.Drawing">
+    <value>193, 352</value>
+  </data>
+  <data name="label90.Size" type="System.Drawing.Size, System.Drawing">
+    <value>93, 16</value>
+  </data>
+  <data name="label90.Text" xml:space="preserve">
+    <value>Корекція зсуву</value>
+  </data>
+  <data name="label89.Location" type="System.Drawing.Point, System.Drawing">
+    <value>201, 249</value>
+  </data>
+  <data name="label89.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 16</value>
+  </data>
+  <data name="label89.Text" xml:space="preserve">
+    <value>Веб-камера</value>
+  </data>
+  <data name="label88.Location" type="System.Drawing.Point, System.Drawing">
+    <value>182, 144</value>
+  </data>
+  <data name="label88.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 16</value>
+  </data>
+  <data name="label88.Text" xml:space="preserve">
+    <value>Приховати контур</value>
+  </data>
+  <data name="label87.Location" type="System.Drawing.Point, System.Drawing">
+    <value>200, 40</value>
+  </data>
+  <data name="label87.Size" type="System.Drawing.Size, System.Drawing">
+    <value>76, 16</value>
+  </data>
+  <data name="label87.Text" xml:space="preserve">
+    <value>AB Плавний</value>
+  </data>
+  <data name="label85.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 352</value>
+  </data>
+  <data name="label85.Size" type="System.Drawing.Size, System.Drawing">
+    <value>152, 16</value>
+  </data>
+  <data name="label85.Text" xml:space="preserve">
+    <value>Контур поворотної смуги</value>
+  </data>
+  <data name="label84.Location" type="System.Drawing.Point, System.Drawing">
+    <value>74, 248</value>
+  </data>
+  <data name="label84.Size" type="System.Drawing.Size, System.Drawing">
+    <value>41, 16</value>
+  </data>
+  <data name="label84.Text" xml:space="preserve">
+    <value>Межа</value>
+  </data>
+  <data name="label83.Location" type="System.Drawing.Point, System.Drawing">
+    <value>39, 40</value>
+  </data>
+  <data name="label83.Size" type="System.Drawing.Size, System.Drawing">
+    <value>106, 16</value>
+  </data>
+  <data name="label83.Text" xml:space="preserve">
+    <value>Транспортні лінії</value>
+  </data>
+  <data name="label82.Location" type="System.Drawing.Point, System.Drawing">
+    <value>38, 144</value>
+  </data>
+  <data name="label82.Size" type="System.Drawing.Size, System.Drawing">
+    <value>111, 16</value>
+  </data>
+  <data name="label82.Text" xml:space="preserve">
+    <value>Розворотна смуга</value>
+  </data>
+  <data name="label81.Location" type="System.Drawing.Point, System.Drawing">
+    <value>417, 2</value>
+  </data>
+  <data name="label81.Text" xml:space="preserve">
+    <value>Кнопки</value>
+  </data>
+  <data name="label80.Location" type="System.Drawing.Point, System.Drawing">
+    <value>161, 2</value>
+  </data>
+  <data name="label80.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 25</value>
+  </data>
+  <data name="label80.Text" xml:space="preserve">
+    <value>Меню інструментів</value>
+  </data>
+  <data name="label71.Location" type="System.Drawing.Point, System.Drawing">
+    <value>14, 2</value>
+  </data>
+  <data name="label71.Text" xml:space="preserve">
+    <value>Меню поля</value>
+  </data>
+  <data name="panelChildForm.Size" type="System.Drawing.Size, System.Drawing">
+    <value>869, 636</value>
+  </data>
+  <data name="label42.Size" type="System.Drawing.Size, System.Drawing">
+    <value>70, 16</value>
+  </data>
+  <data name="label42.Text" xml:space="preserve">
+    <value>Яскравість</value>
+  </data>
+  <data name="label11.Location" type="System.Drawing.Point, System.Drawing">
+    <value>269, 196</value>
+  </data>
+  <data name="label11.Size" type="System.Drawing.Size, System.Drawing">
+    <value>88, 18</value>
+  </data>
+  <data name="label11.Text" xml:space="preserve">
+    <value>Зберег. як</value>
+  </data>
+  <data name="label29.Size" type="System.Drawing.Size, System.Drawing">
+    <value>171, 23</value>
+  </data>
+  <data name="label29.Text" xml:space="preserve">
+    <value>Зберегти копію:</value>
+  </data>
+  <data name="label101.Size" type="System.Drawing.Size, System.Drawing">
+    <value>92, 16</value>
+  </data>
+  <data name="label101.Text" xml:space="preserve">
+    <value>Текстура поля</value>
+  </data>
+  <data name="label57.Location" type="System.Drawing.Point, System.Drawing">
+    <value>271, 286</value>
+  </data>
+  <data name="label57.Size" type="System.Drawing.Size, System.Drawing">
+    <value>84, 18</value>
+  </data>
+  <data name="label57.Text" xml:space="preserve">
+    <value>Видалити</value>
+  </data>
+  <data name="label13.Location" type="System.Drawing.Point, System.Drawing">
+    <value>266, 104</value>
+  </data>
+  <data name="label13.Size" type="System.Drawing.Size, System.Drawing">
+    <value>90, 18</value>
+  </data>
+  <data name="label13.Text" xml:space="preserve">
+    <value>Завантаж.</value>
+  </data>
+  <data name="label43.Size" type="System.Drawing.Size, System.Drawing">
+    <value>58, 16</value>
+  </data>
+  <data name="label43.Text" xml:space="preserve">
+    <value>Полігони</value>
+  </data>
+  <data name="label36.Location" type="System.Drawing.Point, System.Drawing">
+    <value>158, 337</value>
+  </data>
+  <data name="label36.Size" type="System.Drawing.Size, System.Drawing">
+    <value>90, 16</value>
+  </data>
+  <data name="label36.Text" xml:space="preserve">
+    <value>Журнал NMEA</value>
+  </data>
+  <data name="label33.Size" type="System.Drawing.Size, System.Drawing">
+    <value>71, 16</value>
+  </data>
+  <data name="label33.Text" xml:space="preserve">
+    <value>Клавіатура</value>
+  </data>
+  <data name="label31.Size" type="System.Drawing.Size, System.Drawing">
+    <value>57, 16</value>
+  </data>
+  <data name="label31.Text" xml:space="preserve">
+    <value>Лайтбар</value>
+  </data>
+  <data name="label28.Size" type="System.Drawing.Size, System.Drawing">
+    <value>124, 16</value>
+  </data>
+  <data name="label28.Text" xml:space="preserve">
+    <value>Повноекран. режим</value>
+  </data>
+  <data name="chkSpeedo.Size" type="System.Drawing.Size, System.Drawing">
+    <value>68, 16</value>
+  </data>
+  <data name="chkSpeedo.Text" xml:space="preserve">
+    <value>Швидкість</value>
+  </data>
+  <data name="chkSky.Size" type="System.Drawing.Size, System.Drawing">
+    <value>36, 16</value>
+  </data>
+  <data name="chkSky.Text" xml:space="preserve">
+    <value>Небо</value>
+  </data>
+  <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>163, 23</value>
+  </data>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Створити нову:</value>
+  </data>
+  <data name="chkExtraGuides.Size" type="System.Drawing.Size, System.Drawing">
+    <value>56, 16</value>
+  </data>
+  <data name="chkExtraGuides.Text" xml:space="preserve">
+    <value>Вказівки</value>
+  </data>
+  <data name="label27.Text" xml:space="preserve">
+    <value>Авто День Ніч</value>
+  </data>
+  <data name="chkGrid.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 16</value>
+  </data>
+  <data name="chkGrid.Text" xml:space="preserve">
+    <value>Сітка</value>
+  </data>
+  <data name="groupBox1.Text" xml:space="preserve">
+    <value>Виберіть тип транспорту</value>
+  </data>
+  <data name="label70.Location" type="System.Drawing.Point, System.Drawing">
+    <value>641, 422</value>
+  </data>
+  <data name="label70.Size" type="System.Drawing.Size, System.Drawing">
+    <value>120, 19</value>
+  </data>
+  <data name="label70.Text" xml:space="preserve">
+    <value>Непрозорість</value>
+  </data>
+  <data name="label105.Location" type="System.Drawing.Point, System.Drawing">
+    <value>610, -9</value>
+  </data>
+  <data name="label105.Size" type="System.Drawing.Size, System.Drawing">
+    <value>169, 19</value>
+  </data>
+  <data name="label105.Text" xml:space="preserve">
+    <value>Немає зображення</value>
+  </data>
+  <data name="label60.Size" type="System.Drawing.Size, System.Drawing">
+    <value>101, 16</value>
+  </data>
+  <data name="label60.Text" xml:space="preserve">
+    <value>Радіус повороту</value>
+  </data>
+  <data name="label53.Size" type="System.Drawing.Size, System.Drawing">
+    <value>38, 16</value>
+  </data>
+  <data name="label53.Text" xml:space="preserve">
+    <value>Колія</value>
+  </data>
+  <data name="label44.Size" type="System.Drawing.Size, System.Drawing">
+    <value>82, 16</value>
+  </data>
+  <data name="label44.Text" xml:space="preserve">
+    <value>Колісна база</value>
+  </data>
+  <data name="label55.Location" type="System.Drawing.Point, System.Drawing">
+    <value>28, 370</value>
+  </data>
+  <data name="label55.Text" xml:space="preserve">
+    <value>Постійний контур  Запис</value>
+  </data>
+  <data name="label113.Location" type="System.Drawing.Point, System.Drawing">
+    <value>194, 367</value>
+  </data>
+  <data name="label113.Size" type="System.Drawing.Size, System.Drawing">
+    <value>182, 36</value>
+  </data>
+  <data name="label113.Text" xml:space="preserve">
+    <value>Керування перемикачем 
+керма</value>
+  </data>
+  <data name="label113.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="label112.Location" type="System.Drawing.Point, System.Drawing">
+    <value>36, 12</value>
+  </data>
+  <data name="label112.Size" type="System.Drawing.Size, System.Drawing">
+    <value>215, 18</value>
+  </data>
+  <data name="label112.Text" xml:space="preserve">
+    <value>Лайтбар - довжина на піксель</value>
+  </data>
+  <data name="label111.Location" type="System.Drawing.Point, System.Drawing">
+    <value>85, 186</value>
+  </data>
+  <data name="label111.Size" type="System.Drawing.Size, System.Drawing">
+    <value>120, 18</value>
+  </data>
+  <data name="label111.Text" xml:space="preserve">
+    <value>Довжина лінії AB</value>
+  </data>
+  <data name="label110.Location" type="System.Drawing.Point, System.Drawing">
+    <value>521, 12</value>
+  </data>
+  <data name="label110.Size" type="System.Drawing.Size, System.Drawing">
+    <value>89, 18</value>
+  </data>
+  <data name="label110.Text" xml:space="preserve">
+    <value>Ширина лінії</value>
+  </data>
+  <data name="label109.Location" type="System.Drawing.Point, System.Drawing">
+    <value>511, 177</value>
+  </data>
+  <data name="label109.Size" type="System.Drawing.Size, System.Drawing">
+    <value>109, 18</value>
+  </data>
+  <data name="label109.Text" xml:space="preserve">
+    <value>Відстань зсуву</value>
+  </data>
+  <data name="label108.Location" type="System.Drawing.Point, System.Drawing">
+    <value>456, 362</value>
+  </data>
+  <data name="label108.Size" type="System.Drawing.Size, System.Drawing">
+    <value>221, 18</value>
+  </data>
+  <data name="label108.Text" xml:space="preserve">
+    <value>Захоплення лінії Погляд вперед</value>
+  </data>
+  <data name="label107.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 18</value>
+  </data>
+  <data name="label107.Text" xml:space="preserve">
+    <value>Секунди</value>
+  </data>
+  <data name="label102.Size" type="System.Drawing.Size, System.Drawing">
+    <value>25, 18</value>
+  </data>
+  <data name="label102.Text" xml:space="preserve">
+    <value>см</value>
+  </data>
+  <data name="label79.Size" type="System.Drawing.Size, System.Drawing">
+    <value>30, 18</value>
+  </data>
+  <data name="label79.Text" xml:space="preserve">
+    <value>(м)</value>
+  </data>
+  <data name="cboxAutoSteerAuto.Text" xml:space="preserve">
+    <value>Вручну</value>
+  </data>
+  <data name="gboxAttachment.Text" xml:space="preserve">
+    <value>Тип закріплення</value>
+  </data>
+  <data name="label106.Text" xml:space="preserve">
+    <value>Межа</value>
+  </data>
+  <data name="lblTurnOffBelowUnits.Size" type="System.Drawing.Size, System.Drawing">
+    <value>69, 23</value>
+  </data>
+  <data name="lblTurnOffBelowUnits.Text" xml:space="preserve">
+    <value>Км/год</value>
+  </data>
+  <data name="label5.Text" xml:space="preserve">
+    <value>Обрати</value>
+  </data>
+  <data name="lblInchCm2.Text" xml:space="preserve">
+    <value>Дюйм</value>
+  </data>
+  <data name="label157.Size" type="System.Drawing.Size, System.Drawing">
+    <value>87, 29</value>
+  </data>
+  <data name="label157.Text" xml:space="preserve">
+    <value>Зона 8</value>
+  </data>
+  <data name="label154.Size" type="System.Drawing.Size, System.Drawing">
+    <value>87, 29</value>
+  </data>
+  <data name="label154.Text" xml:space="preserve">
+    <value>Зона 7</value>
+  </data>
+  <data name="lblZone1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>87, 29</value>
+  </data>
+  <data name="lblZone1.Text" xml:space="preserve">
+    <value>Зона 1</value>
+  </data>
+  <data name="lblZone2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>87, 29</value>
+  </data>
+  <data name="lblZone2.Text" xml:space="preserve">
+    <value>Зона 2</value>
+  </data>
+  <data name="lblZone6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>87, 29</value>
+  </data>
+  <data name="lblZone6.Text" xml:space="preserve">
+    <value>Зона 6</value>
+  </data>
+  <data name="lblZone3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>87, 29</value>
+  </data>
+  <data name="lblZone3.Text" xml:space="preserve">
+    <value>Зона 3</value>
+  </data>
+  <data name="lblZone5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>87, 29</value>
+  </data>
+  <data name="lblZone5.Text" xml:space="preserve">
+    <value>Зона 5</value>
+  </data>
+  <data name="lblZone4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>87, 29</value>
+  </data>
+  <data name="lblZone4.Text" xml:space="preserve">
+    <value>Зона 4</value>
+  </data>
+  <data name="label49.Location" type="System.Drawing.Point, System.Drawing">
+    <value>202, 325</value>
+  </data>
+  <data name="label49.Text" xml:space="preserve">
+    <value>Ширина секції</value>
+  </data>
+  <data name="label50.Text" xml:space="preserve">
+    <value>% покриття</value>
+  </data>
+  <data name="lblZonesBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 29</value>
+  </data>
+  <data name="lblZonesBox.Text" xml:space="preserve">
+    <value>Зони</value>
+  </data>
+  <data name="label51.Text" xml:space="preserve">
+    <value>Секції</value>
+  </data>
+  <data name="grpControls.Text" xml:space="preserve">
+    <value>Перемикач керма</value>
+  </data>
+  <data name="chkSetAutoSectionsSteer.Text" xml:space="preserve">
+    <value>        Автоматичні секції</value>
+  </data>
+  <data name="chkSelectSteerSwitch.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 15pt</value>
+  </data>
+  <data name="chkSelectSteerSwitch.Text" xml:space="preserve">
+    <value>        Перемикач 
+керма</value>
+  </data>
+  <data name="chkSetManualSectionsSteer.Text" xml:space="preserve">
+    <value>        Ручні секції</value>
+  </data>
+  <data name="grpSwitch.Text" xml:space="preserve">
+    <value>Перемикач роботи</value>
+  </data>
+  <data name="chkSelectWorkSwitch.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 16pt</value>
+  </data>
+  <data name="chkSelectWorkSwitch.Text" xml:space="preserve">
+    <value>      Перемикач 
+роботи</value>
+  </data>
+  <data name="chkSetAutoSections.Text" xml:space="preserve">
+    <value>        Автоматичні секції</value>
+  </data>
+  <data name="chkSetManualSections.Text" xml:space="preserve">
+    <value>       Ручні секції</value>
+  </data>
+  <data name="label66.Location" type="System.Drawing.Point, System.Drawing">
+    <value>622, 449</value>
+  </data>
+  <data name="label66.Size" type="System.Drawing.Size, System.Drawing">
+    <value>129, 16</value>
+  </data>
+  <data name="label66.Text" xml:space="preserve">
+    <value>Перекриття / Розрив</value>
+  </data>
+  <data name="label65.Location" type="System.Drawing.Point, System.Drawing">
+    <value>449, 525</value>
+  </data>
+  <data name="label65.Size" type="System.Drawing.Size, System.Drawing">
+    <value>33, 16</value>
+  </data>
+  <data name="label65.Text" xml:space="preserve">
+    <value>Зсув</value>
+  </data>
+  <data name="label16.Text" xml:space="preserve">
+    <value>Увімкн. (сек)</value>
+  </data>
+  <data name="label14.Text" xml:space="preserve">
+    <value>Вимкн. (сек)</value>
+  </data>
+  <data name="label10.Text" xml:space="preserve">
+    <value>Затримка (сек)</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>RTK тривога</value>
+  </data>
+  <data name="gboxDual.Text" xml:space="preserve">
+    <value>Налаштування подвійної антени</value>
+  </data>
+  <data name="label12.Size" type="System.Drawing.Size, System.Drawing">
+    <value>217, 23</value>
+  </data>
+  <data name="label12.Text" xml:space="preserve">
+    <value>Зсув за курсом (градус)</value>
+  </data>
+  <data name="cboxIsDualAsIMU.Text" xml:space="preserve">
+    <value>Подвійна як IMU</value>
+  </data>
+  <data name="gboxSingle.Text" xml:space="preserve">
+    <value>Налаштування однієї антени</value>
+  </data>
+  <data name="lblIMUFusion.Text" xml:space="preserve">
+    <value>IMU GPS Поєднання</value>
+  </data>
+  <data name="cboxIsReverseOn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>226, 71</value>
+  </data>
+  <data name="cboxIsReverseOn.Text" xml:space="preserve">
+    <value>Виявлення заднього ходу</value>
+  </data>
+  <data name="label15.Location" type="System.Drawing.Point, System.Drawing">
+    <value>254, 35</value>
+  </data>
+  <data name="label15.Size" type="System.Drawing.Size, System.Drawing">
+    <value>172, 23</value>
+  </data>
+  <data name="label15.Text" xml:space="preserve">
+    <value>Фіксований запуск</value>
+  </data>
+  <data name="label9.Location" type="System.Drawing.Point, System.Drawing">
+    <value>14, 36</value>
+  </data>
+  <data name="label9.Size" type="System.Drawing.Size, System.Drawing">
+    <value>190, 46</value>
+  </data>
+  <data name="label9.Text" xml:space="preserve">
+    <value>Стартова швидкість 
+(км/год)</value>
+  </data>
+  <data name="label9.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="label8.Location" type="System.Drawing.Point, System.Drawing">
+    <value>283, 57</value>
+  </data>
+  <data name="label8.Text" xml:space="preserve">
+    <value>Відстань (м)</value>
+  </data>
+  <data name="label78.Location" type="System.Drawing.Point, System.Drawing">
+    <value>459, 208</value>
+  </data>
+  <data name="label78.Size" type="System.Drawing.Size, System.Drawing">
+    <value>109, 16</value>
+  </data>
+  <data name="label78.Text" xml:space="preserve">
+    <value>Інвертувати крен</value>
+  </data>
+  <data name="label77.Location" type="System.Drawing.Point, System.Drawing">
+    <value>95, 209</value>
+  </data>
+  <data name="label77.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 16</value>
+  </data>
+  <data name="label77.Text" xml:space="preserve">
+    <value>На нульовий крен</value>
+  </data>
+  <data name="label76.Location" type="System.Drawing.Point, System.Drawing">
+    <value>90, 53</value>
+  </data>
+  <data name="label76.Size" type="System.Drawing.Size, System.Drawing">
+    <value>122, 16</value>
+  </data>
+  <data name="label76.Text" xml:space="preserve">
+    <value>Видалити зміщення</value>
+  </data>
+  <data name="label24.Size" type="System.Drawing.Size, System.Drawing">
+    <value>71, 23</value>
+  </data>
+  <data name="label24.Text" xml:space="preserve">
+    <value>Менше</value>
+  </data>
+  <data name="label26.Location" type="System.Drawing.Point, System.Drawing">
+    <value>322, 428</value>
+  </data>
+  <data name="label26.Size" type="System.Drawing.Size, System.Drawing">
+    <value>71, 23</value>
+  </data>
+  <data name="label26.Text" xml:space="preserve">
+    <value>Більше</value>
+  </data>
+  <data name="label18.Location" type="System.Drawing.Point, System.Drawing">
+    <value>165, 399</value>
+  </data>
+  <data name="label18.Text" xml:space="preserve">
+    <value>Прокрутка фільтру</value>
+  </data>
+  <data name="label68.Size" type="System.Drawing.Size, System.Drawing">
+    <value>238, 132</value>
+  </data>
+  <data name="label68.Text" xml:space="preserve">
+    <value>Підказка:
+
+Встановіть згладжування на 3 або 4 радіуси</value>
+  </data>
+  <data name="label63.Size" type="System.Drawing.Size, System.Drawing">
+    <value>238, 153</value>
+  </data>
+  <data name="label63.Text" xml:space="preserve">
+    <value>Підказка:
+
+Встановіть довжину продовження на 2 або 3 радіуси</value>
+  </data>
+  <data name="label122.Location" type="System.Drawing.Point, System.Drawing">
+    <value>391, 507</value>
+  </data>
+  <data name="label122.Size" type="System.Drawing.Size, System.Drawing">
+    <value>241, 62</value>
+  </data>
+  <data name="label122.Text" xml:space="preserve">
+    <value>Надіслати + Зберегти</value>
+  </data>
+  <data name="label151.Location" type="System.Drawing.Point, System.Drawing">
+    <value>666, 326</value>
+  </data>
+  <data name="label151.Size" type="System.Drawing.Size, System.Drawing">
+    <value>85, 16</value>
+  </data>
+  <data name="label151.Text" xml:space="preserve">
+    <value>Користувач 4</value>
+  </data>
+  <data name="label150.Location" type="System.Drawing.Point, System.Drawing">
+    <value>666, 234</value>
+  </data>
+  <data name="label150.Size" type="System.Drawing.Size, System.Drawing">
+    <value>85, 16</value>
+  </data>
+  <data name="label150.Text" xml:space="preserve">
+    <value>Користувач 3</value>
+  </data>
+  <data name="label149.Location" type="System.Drawing.Point, System.Drawing">
+    <value>666, 147</value>
+  </data>
+  <data name="label149.Size" type="System.Drawing.Size, System.Drawing">
+    <value>85, 16</value>
+  </data>
+  <data name="label149.Text" xml:space="preserve">
+    <value>Користувач 2</value>
+  </data>
+  <data name="label148.Location" type="System.Drawing.Point, System.Drawing">
+    <value>666, 56</value>
+  </data>
+  <data name="label148.Size" type="System.Drawing.Size, System.Drawing">
+    <value>85, 16</value>
+  </data>
+  <data name="label148.Text" xml:space="preserve">
+    <value>Користувач 1</value>
+  </data>
+  <data name="groupBox4.Text" xml:space="preserve">
+    <value>Конфігурація гідравлічного підйомника</value>
+  </data>
+  <data name="label69.Text" xml:space="preserve">
+    <value>Гідравлічний підйомник Передбачення (сек)</value>
+  </data>
+  <data name="label74.Location" type="System.Drawing.Point, System.Drawing">
+    <value>225, 55</value>
+  </data>
+  <data name="label74.Text" xml:space="preserve">
+    <value>Час підйому (сек)</value>
+  </data>
+  <data name="label25.Location" type="System.Drawing.Point, System.Drawing">
+    <value>62, 43</value>
+  </data>
+  <data name="label25.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 16</value>
+  </data>
+  <data name="label25.Text" xml:space="preserve">
+    <value>Увімкнути</value>
+  </data>
+  <data name="label73.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 16</value>
+  </data>
+  <data name="label73.Text" xml:space="preserve">
+    <value>Час опускання (сек)</value>
+  </data>
+  <data name="label72.Size" type="System.Drawing.Size, System.Drawing">
+    <value>139, 16</value>
+  </data>
+  <data name="label72.Text" xml:space="preserve">
+    <value>Інверторні перемикачі</value>
+  </data>
+  <data name="label67.Location" type="System.Drawing.Point, System.Drawing">
+    <value>459, 507</value>
+  </data>
+  <data name="label67.Size" type="System.Drawing.Size, System.Drawing">
+    <value>232, 37</value>
+  </data>
+  <data name="label67.Text" xml:space="preserve">
+    <value>Надіслати + Зберегти</value>
+  </data>
+  <data name="label56.Size" type="System.Drawing.Size, System.Drawing">
+    <value>220, 25</value>
+  </data>
+  <data name="label56.Text" xml:space="preserve">
+    <value>Машинний модуль</value>
+  </data>
+  <data name="cboxTramOnBackBuffer.Location" type="System.Drawing.Point, System.Drawing">
+    <value>253, 131</value>
+  </data>
+  <data name="cboxTramOnBackBuffer.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="label23.Location" type="System.Drawing.Point, System.Drawing">
+    <value>164, 70</value>
+  </data>
+  <data name="label23.Size" type="System.Drawing.Size, System.Drawing">
+    <value>393, 16</value>
+  </data>
+  <data name="label23.Text" xml:space="preserve">
+    <value>Увімкнення та вимкнення автоматичного керування рухом в колії</value>
+  </data>
+  <data name="label23.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="lblTramWidthUnits.Size" type="System.Drawing.Size, System.Drawing">
+    <value>26, 19</value>
+  </data>
+  <data name="lblTramWidthUnits.Text" xml:space="preserve">
+    <value>cм</value>
+  </data>
+  <data name="label75.Size" type="System.Drawing.Size, System.Drawing">
+    <value>84, 16</value>
+  </data>
+  <data name="label75.Text" xml:space="preserve">
+    <value>Ширина колії</value>
+  </data>
+  <data name="lblCurrentVehicle.Size" type="System.Drawing.Size, System.Drawing">
+    <value>273, 23</value>
+  </data>
+  <data name="lblCurrentVehicle.Text" xml:space="preserve">
+    <value>Поточний транспортний засіб</value>
+  </data>
+  <data name="lblInchesCm.Size" type="System.Drawing.Size, System.Drawing">
+    <value>79, 25</value>
+  </data>
+  <data name="lblInchesCm.Text" xml:space="preserve">
+    <value>Дюйми</value>
+  </data>
+  <data name="label52.Text" xml:space="preserve">
+    <value>Шир. інструм:</value>
+  </data>
+  <data name="panelBottom.Size" type="System.Drawing.Size, System.Drawing">
+    <value>869, 66</value>
+  </data>
+  <data name="lblFeetMeters.Size" type="System.Drawing.Size, System.Drawing">
+    <value>73, 25</value>
+  </data>
+  <data name="lblFeetMeters.Text" xml:space="preserve">
+    <value>Метри</value>
+  </data>
+  <data name="label22.Text" xml:space="preserve">
+    <value>Одиниці:</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="$this.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+</root>

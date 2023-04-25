@@ -117,18 +117,915 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
-  <metadata name="imageList1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>114, 17</value>
-  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="hsbarHoldLookAhead.Location" type="System.Drawing.Point, System.Drawing">
+    <value>68, 132</value>
+  </data>
+  <data name="&gt;&gt;label26.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;label15.Name" xml:space="preserve">
+    <value>label15</value>
+  </data>
+  <data name="&gt;&gt;chkSteerInvertRelays.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cboxMotorDrive.Name" xml:space="preserve">
+    <value>cboxMotorDrive</value>
+  </data>
+  <data name="&gt;&gt;label33.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="label9.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt</value>
+  </data>
+  <data name="hsbarMinPWM.Location" type="System.Drawing.Point, System.Drawing">
+    <value>68, 269</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="label18.TabIndex" type="System.Int32, mscorlib">
+    <value>300</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="pbarLeft.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>Yes</value>
+  </data>
+  <data name="&gt;&gt;lblSideHillComp.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="labelPressureTurnSensor.TabIndex" type="System.Int32, mscorlib">
+    <value>512</value>
+  </data>
+  <data name="label22.TabIndex" type="System.Int32, mscorlib">
+    <value>351</value>
+  </data>
+  <data name="&gt;&gt;label21.Parent" xml:space="preserve">
+    <value>tabInt</value>
+  </data>
+  <data name="hsbarIntegralPurePursuit.Size" type="System.Drawing.Size, System.Drawing">
+    <value>217, 30</value>
+  </data>
+  <data name="&gt;&gt;hsbarHoldLookAhead.Parent" xml:space="preserve">
+    <value>tabInt</value>
+  </data>
+  <data name="&gt;&gt;lblDiameter.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label23.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="label22.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 12pt</value>
+  </data>
+  <data name="&gt;&gt;label13.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;btnSteerAngleDown.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="cboxEncoder.Size" type="System.Drawing.Size, System.Drawing">
+    <value>114, 78</value>
+  </data>
+  <data name="pboxSendSteer.TabIndex" type="System.Int32, mscorlib">
+    <value>509</value>
+  </data>
+  <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="label28.TabIndex" type="System.Int32, mscorlib">
+    <value>513</value>
+  </data>
+  <data name="label12.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left</value>
+  </data>
+  <data name="&gt;&gt;btnSteerAngleUp.Type" xml:space="preserve">
+    <value>ProXoft.WinForms.RepeatButton, RepeatButtonControl, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;lblPercentFS.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lblCountsPerDegree.Location" type="System.Drawing.Point, System.Drawing">
+    <value>9, 157</value>
+  </data>
+  <data name="&gt;&gt;cboxDanfoss.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lblSideHillComp.Name" xml:space="preserve">
+    <value>lblSideHillComp</value>
+  </data>
+  <data name="lblHeadingErrorGain.Size" type="System.Drawing.Size, System.Drawing">
+    <value>54, 35</value>
+  </data>
+  <data name="label37.TabIndex" type="System.Int32, mscorlib">
+    <value>523</value>
+  </data>
+  <data name="hsbarHoldLookAhead.Size" type="System.Drawing.Size, System.Drawing">
+    <value>217, 30</value>
+  </data>
+  <data name="&gt;&gt;panel1.ZOrder" xml:space="preserve">
+    <value>41</value>
+  </data>
+  <data name="label11.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="lblSteerAngleActual.Text" xml:space="preserve">
+    <value>-55.5</value>
+  </data>
+  <data name="labelCurrentTurnSensor.Location" type="System.Drawing.Point, System.Drawing">
+    <value>417, 379</value>
+  </data>
+  <data name="cboxCurrentSensor.Appearance" type="System.Windows.Forms.Appearance, System.Windows.Forms">
+    <value>Button</value>
+  </data>
+  <data name="&gt;&gt;label26.Name" xml:space="preserve">
+    <value>label26</value>
+  </data>
+  <data name="&gt;&gt;btnStartSA.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;btnZeroWAS.Parent" xml:space="preserve">
+    <value>tabSteer</value>
+  </data>
+  <data name="&gt;&gt;hsbarSideHillComp.Name" xml:space="preserve">
+    <value>hsbarSideHillComp</value>
+  </data>
+  <data name="cboxConv.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 18pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;tabSteer.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label14.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Distance</value>
+  </data>
+  <data name="&gt;&gt;hsbarCountsPerDegree.Name" xml:space="preserve">
+    <value>hsbarCountsPerDegree</value>
+  </data>
+  <data name="cboxXY.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 18pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;lblSteerAngleActual.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;btnZeroWAS.Name" xml:space="preserve">
+    <value>btnZeroWAS</value>
+  </data>
+  <data name="lblCalcSteerAngleInner.Text" xml:space="preserve">
+    <value>0.0</value>
+  </data>
+  <data name="&gt;&gt;tabStan.Parent" xml:space="preserve">
+    <value>tabControl1</value>
+  </data>
+  <data name="chkInvertWAS.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;label70.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;hsbarHighSteerPWM.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;tabGain.Name" xml:space="preserve">
+    <value>tabGain</value>
+  </data>
+  <data name="tabInt.Size" type="System.Drawing.Size, System.Drawing">
+    <value>358, 346</value>
+  </data>
+  <data name="lblSideHillComp.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 18pt</value>
+  </data>
+  <data name="&gt;&gt;lblLookAhead.Name" xml:space="preserve">
+    <value>lblLookAhead</value>
+  </data>
+  <data name="&gt;&gt;btnFreeDriveZero.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pbarSensor.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ProgressBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnSteerAngleUp.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="labelPressureTurnSensor.Size" type="System.Drawing.Size, System.Drawing">
+    <value>110, 13</value>
+  </data>
+  <data name="&gt;&gt;label30.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;cboxCurrentSensor.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label19.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;label33.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="label21.TabIndex" type="System.Int32, mscorlib">
+    <value>303</value>
+  </data>
+  <data name="hsbarStanleyGain.TabIndex" type="System.Int32, mscorlib">
+    <value>297</value>
+  </data>
+  <data name="&gt;&gt;label61.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label7.Parent" xml:space="preserve">
+    <value>tabSteer</value>
+  </data>
+  <data name="label32.TabIndex" type="System.Int32, mscorlib">
+    <value>356</value>
+  </data>
+  <data name="&gt;&gt;label68.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label21.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="label4.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="lblhsbarSensor.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;imageList1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ImageList, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label55.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label14.Location" type="System.Drawing.Point, System.Drawing">
+    <value>289, 82</value>
+  </data>
+  <data name="labelEncoder.Location" type="System.Drawing.Point, System.Drawing">
+    <value>416, 129</value>
+  </data>
+  <data name="label21.Size" type="System.Drawing.Size, System.Drawing">
+    <value>204, 19</value>
+  </data>
+  <data name="label20.Size" type="System.Drawing.Size, System.Drawing">
+    <value>204, 30</value>
+  </data>
+  <data name="label64.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 15.75pt</value>
+  </data>
+  <data name="&gt;&gt;label2.Name" xml:space="preserve">
+    <value>label2</value>
+  </data>
+  <data name="label17.Text" xml:space="preserve">
+    <value>Ackermann</value>
+  </data>
+  <data name="label63.Location" type="System.Drawing.Point, System.Drawing">
+    <value>740, 7</value>
+  </data>
+  <data name="button2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>791, 428</value>
+  </data>
+  <data name="lblPercentFS.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="pbarLeft.RightToLeftLayout" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="cboxSteerEnable.Size" type="System.Drawing.Size, System.Drawing">
+    <value>175, 37</value>
+  </data>
+  <data name="lblhsbarSensor.Location" type="System.Drawing.Point, System.Drawing">
+    <value>688, 590</value>
+  </data>
+  <data name="lblError.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt, style=Bold</value>
+  </data>
+  <data name="chkSteerInvertRelays.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="lblMaxSteerAngle.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 18pt</value>
+  </data>
+  <data name="&gt;&gt;lblHoldLookAhead.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="tabSteer.AutoScroll" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;label31.Name" xml:space="preserve">
+    <value>label31</value>
+  </data>
+  <data name="&gt;&gt;lblPWMDisplay.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="lblAckerman.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label25.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 12pt</value>
+  </data>
+  <data name="&gt;&gt;lblHighSteerPWM.Parent" xml:space="preserve">
+    <value>tabGain</value>
+  </data>
+  <data name="lblActualSteerAngleUpper.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblActualSteerAngleUpper.Size" type="System.Drawing.Size, System.Drawing">
+    <value>39, 19</value>
+  </data>
+  <data name="label55.Location" type="System.Drawing.Point, System.Drawing">
+    <value>417, 4</value>
+  </data>
+  <data name="&gt;&gt;lblPureIntegral.Name" xml:space="preserve">
+    <value>lblPureIntegral</value>
+  </data>
+  <data name="label31.Size" type="System.Drawing.Size, System.Drawing">
+    <value>48, 16</value>
+  </data>
+  <data name="label32.Size" type="System.Drawing.Size, System.Drawing">
+    <value>204, 19</value>
+  </data>
+  <data name="&gt;&gt;lblLookAhead.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lblActualSteerAngleUpper.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Right</value>
+  </data>
+  <data name="btnSteerAngleUp.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left</value>
+  </data>
+  <data name="btnZeroWAS.TabIndex" type="System.Int32, mscorlib">
+    <value>323</value>
+  </data>
+  <data name="button2.TabIndex" type="System.Int32, mscorlib">
+    <value>522</value>
+  </data>
+  <data name="lblProportionalGain.Size" type="System.Drawing.Size, System.Drawing">
+    <value>61, 35</value>
+  </data>
+  <data name="&gt;&gt;hsbarStanleyGain.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="lblLookAheadMult.Text" xml:space="preserve">
+    <value>888</value>
+  </data>
+  <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 8.25pt</value>
+  </data>
+  <data name="&gt;&gt;btnFreeDriveZero.Name" xml:space="preserve">
+    <value>btnFreeDriveZero</value>
+  </data>
+  <data name="&gt;&gt;btnSteerAngleDown.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;nudMaxCounts.Name" xml:space="preserve">
+    <value>nudMaxCounts</value>
+  </data>
+  <data name="label27.Size" type="System.Drawing.Size, System.Drawing">
+    <value>204, 30</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label16.Text" xml:space="preserve">
+    <value>Panic Stop Speed</value>
+  </data>
+  <data name="pbarSensor.TabIndex" type="System.Int32, mscorlib">
+    <value>496</value>
+  </data>
+  <data name="lblPercentFS.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="cboxPressureSensor.Location" type="System.Drawing.Point, System.Drawing">
+    <value>414, 270</value>
+  </data>
+  <data name="chkInvertSteer.TabIndex" type="System.Int32, mscorlib">
+    <value>491</value>
+  </data>
+  <data name="&gt;&gt;label22.Name" xml:space="preserve">
+    <value>label22</value>
+  </data>
+  <data name="&gt;&gt;lblSteerAngle.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;label3.Parent" xml:space="preserve">
+    <value>tabStan</value>
+  </data>
+  <data name="btnSteerAngleDown.Location" type="System.Drawing.Point, System.Drawing">
+    <value>95, 22</value>
+  </data>
+  <data name="lblPercentFS.TabIndex" type="System.Int32, mscorlib">
+    <value>495</value>
+  </data>
+  <data name="lblHoldLookAhead.Size" type="System.Drawing.Size, System.Drawing">
+    <value>60, 35</value>
+  </data>
+  <data name="lblProportionalGain.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label24.Parent" xml:space="preserve">
+    <value>tabInt</value>
+  </data>
+  <data name="&gt;&gt;nudPanicStopSpeed.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;label8.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="btnStartSA.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 146</value>
+  </data>
+  <data name="btnFreeDrive.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left</value>
+  </data>
+  <data name="&gt;&gt;label11.Name" xml:space="preserve">
+    <value>label11</value>
+  </data>
+  <data name="&gt;&gt;label14.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="chkSteerInvertRelays.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt, style=Bold</value>
+  </data>
+  <data name="label17.Location" type="System.Drawing.Point, System.Drawing">
+    <value>125, 206</value>
+  </data>
+  <data name="&gt;&gt;hsbarHeadingErrorGain.Name" xml:space="preserve">
+    <value>hsbarHeadingErrorGain</value>
+  </data>
+  <data name="&gt;&gt;lblActualSteerAngleUpper.Parent" xml:space="preserve">
+    <value>tabSteer</value>
+  </data>
+  <data name="label23.TabIndex" type="System.Int32, mscorlib">
+    <value>341</value>
+  </data>
+  <data name="label24.Location" type="System.Drawing.Point, System.Drawing">
+    <value>74, 266</value>
+  </data>
+  <data name="lblPercentFS.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblCountsPerDegree.Text" xml:space="preserve">
+    <value>888</value>
+  </data>
+  <data name="label19.Text" xml:space="preserve">
+    <value>Look Ahead Speed Gain</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>327</value>
+  </data>
+  <data name="labelCurrentTurnSensor.Size" type="System.Drawing.Size, System.Drawing">
+    <value>105, 13</value>
+  </data>
+  <data name="label13.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt</value>
+  </data>
+  <data name="pbarRight.TabIndex" type="System.Int32, mscorlib">
+    <value>330</value>
+  </data>
+  <data name="label26.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 12pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;label27.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label10.Text" xml:space="preserve">
+    <value>WAS Zero</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>Maximum Limit</value>
+  </data>
+  <data name="label29.TabIndex" type="System.Int32, mscorlib">
+    <value>504</value>
+  </data>
+  <data name="&gt;&gt;lblError.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="hsbarLookAhead.Location" type="System.Drawing.Point, System.Drawing">
+    <value>68, 54</value>
+  </data>
+  <data name="btnFreeDriveZero.Location" type="System.Drawing.Point, System.Drawing">
+    <value>277, 22</value>
+  </data>
+  <data name="cboxCurrentSensor.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lblhsbarSensor.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="label10.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;hsbarStanleyGain.Type" xml:space="preserve">
+    <value>System.Windows.Forms.HScrollBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblSteerAngleActual.Name" xml:space="preserve">
+    <value>lblSteerAngleActual</value>
+  </data>
+  <data name="&gt;&gt;lblError.Name" xml:space="preserve">
+    <value>lblError</value>
+  </data>
+  <data name="btnFreeDrive.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="lblSteerAngleActual.TabIndex" type="System.Int32, mscorlib">
+    <value>311</value>
+  </data>
+  <data name="&gt;&gt;chkSteerInvertRelays.Name" xml:space="preserve">
+    <value>chkSteerInvertRelays</value>
+  </data>
+  <data name="&gt;&gt;label24.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;label18.Name" xml:space="preserve">
+    <value>label18</value>
+  </data>
+  <data name="&gt;&gt;tabInt.Parent" xml:space="preserve">
+    <value>tabControl1</value>
+  </data>
+  <data name="&gt;&gt;label33.Name" xml:space="preserve">
+    <value>label33</value>
+  </data>
+  <data name="hsbarIntegral.TabIndex" type="System.Int32, mscorlib">
+    <value>351</value>
+  </data>
+  <data name="label29.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblMaxSteerAngle.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="label70.Location" type="System.Drawing.Point, System.Drawing">
+    <value>591, 131</value>
+  </data>
+  <data name="&gt;&gt;label28.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lblCountsPerDegree.Parent" xml:space="preserve">
+    <value>tabSteer</value>
+  </data>
+  <data name="lblIntegralPercent.Size" type="System.Drawing.Size, System.Drawing">
+    <value>60, 35</value>
+  </data>
+  <data name="&gt;&gt;label64.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;hsbarIntegralPurePursuit.Name" xml:space="preserve">
+    <value>hsbarIntegralPurePursuit</value>
+  </data>
+  <data name="&gt;&gt;btnSteerAngleDown.Type" xml:space="preserve">
+    <value>ProXoft.WinForms.RepeatButton, RepeatButtonControl, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="label4.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;btnSteerAngleUp.Name" xml:space="preserve">
+    <value>btnSteerAngleUp</value>
+  </data>
+  <data name="label27.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 12pt</value>
+  </data>
+  <data name="&gt;&gt;label5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="cboxConv.Size" type="System.Drawing.Size, System.Drawing">
+    <value>175, 37</value>
+  </data>
+  <data name="&gt;&gt;label11.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="label10.Size" type="System.Drawing.Size, System.Drawing">
+    <value>97, 25</value>
+  </data>
+  <data name="lblDiameter.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left</value>
+  </data>
+  <data name="&gt;&gt;lblPWMDisplay.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;hsbarLookAheadMult.Parent" xml:space="preserve">
+    <value>tabInt</value>
+  </data>
+  <data name="hsbarLookAheadMult.Size" type="System.Drawing.Size, System.Drawing">
+    <value>217, 30</value>
+  </data>
+  <data name="&gt;&gt;nudMaxCounts.ZOrder" xml:space="preserve">
+    <value>29</value>
+  </data>
+  <data name="cboxEncoder.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="label8.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt</value>
+  </data>
+  <data name="btnSteerAngleDown.TabIndex" type="System.Int32, mscorlib">
+    <value>314</value>
+  </data>
+  <data name="lblIntegralPercent.Text" xml:space="preserve">
+    <value>888</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>FormSteer</value>
+  </data>
+  <data name="hsbarMinPWM.TabIndex" type="System.Int32, mscorlib">
+    <value>284</value>
+  </data>
+  <data name="label33.TabIndex" type="System.Int32, mscorlib">
+    <value>524</value>
+  </data>
+  <data name="lblIntegralPercent.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 18pt</value>
+  </data>
+  <data name="label20.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="lblIntegralPercent.TabIndex" type="System.Int32, mscorlib">
+    <value>352</value>
+  </data>
+  <data name="hsbarIntegral.Location" type="System.Drawing.Point, System.Drawing">
+    <value>68, 261</value>
+  </data>
+  <data name="label8.Size" type="System.Drawing.Size, System.Drawing">
+    <value>114, 23</value>
+  </data>
+  <data name="&gt;&gt;lblProportionalGain.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;label12.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;hsbarLookAhead.Name" xml:space="preserve">
+    <value>hsbarLookAhead</value>
+  </data>
+  <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>204, 28</value>
+  </data>
+  <data name="lblError.Size" type="System.Drawing.Size, System.Drawing">
+    <value>62, 23</value>
+  </data>
+  <data name="label27.Location" type="System.Drawing.Point, System.Drawing">
+    <value>63, 232</value>
+  </data>
+  <data name="tabGain.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;lblSteerAngleActual.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label62.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 15.75pt</value>
+  </data>
+  <data name="label25.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="label61.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomCenter</value>
+  </data>
+  <data name="cboxDanfoss.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;label12.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="lblPercentFS.Location" type="System.Drawing.Point, System.Drawing">
+    <value>688, 635</value>
+  </data>
+  <data name="&gt;&gt;label18.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="label28.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label33.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblCalcSteerAngleInner.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;label21.Name" xml:space="preserve">
+    <value>label21</value>
+  </data>
+  <data name="label22.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;label30.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelEncoder.ZOrder" xml:space="preserve">
+    <value>18</value>
+  </data>
+  <data name="label7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>94, 140</value>
+  </data>
+  <data name="&gt;&gt;lblSideHillComp.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label32.Name" xml:space="preserve">
+    <value>label32</value>
+  </data>
+  <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;lblLookAheadMult.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;lblSteerAngleSensorZero.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="&gt;&gt;hsbarAckerman.Parent" xml:space="preserve">
+    <value>tabSteer</value>
+  </data>
+  <data name="&gt;&gt;hsbarLookAhead.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="hsbarCountsPerDegree.Location" type="System.Drawing.Point, System.Drawing">
+    <value>65, 162</value>
+  </data>
+  <data name="lblCountsPerDegree.Size" type="System.Drawing.Size, System.Drawing">
+    <value>55, 35</value>
+  </data>
+  <data name="lblHoldLookAhead.Text" xml:space="preserve">
+    <value>888</value>
+  </data>
+  <data name="&gt;&gt;lblMinPWM.Name" xml:space="preserve">
+    <value>lblMinPWM</value>
+  </data>
+  <data name="&gt;&gt;label17.Parent" xml:space="preserve">
+    <value>tabSteer</value>
+  </data>
+  <data name="tabStan.Size" type="System.Drawing.Size, System.Drawing">
+    <value>358, 346</value>
+  </data>
+  <data name="label70.TabIndex" type="System.Int32, mscorlib">
+    <value>505</value>
+  </data>
+  <data name="label29.Location" type="System.Drawing.Point, System.Drawing">
+    <value>591, 257</value>
+  </data>
+  <data name="btnZeroWAS.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="cboxEncoder.Location" type="System.Drawing.Point, System.Drawing">
+    <value>414, 145</value>
+  </data>
+  <data name="lblSideHillComp.Size" type="System.Drawing.Size, System.Drawing">
+    <value>60, 35</value>
+  </data>
+  <data name="&gt;&gt;label28.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lblLookAheadMult.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 18pt</value>
+  </data>
+  <data name="label10.Location" type="System.Drawing.Point, System.Drawing">
+    <value>122, 61</value>
+  </data>
+  <data name="&gt;&gt;pbarRight.Name" xml:space="preserve">
+    <value>pbarRight</value>
+  </data>
+  <data name="lblPercentFS.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 18pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;tabSteer.Parent" xml:space="preserve">
+    <value>tabControl1</value>
+  </data>
+  <data name="lblMinPWM.Size" type="System.Drawing.Size, System.Drawing">
+    <value>61, 35</value>
+  </data>
+  <data name="&gt;&gt;lblPercentFS.Name" xml:space="preserve">
+    <value>lblPercentFS</value>
+  </data>
+  <data name="hsbarHighSteerPWM.Size" type="System.Drawing.Size, System.Drawing">
+    <value>202, 30</value>
+  </data>
+  <data name="hsbarSensor.TabIndex" type="System.Int32, mscorlib">
+    <value>516</value>
+  </data>
+  <data name="&gt;&gt;label5.Name" xml:space="preserve">
+    <value>label5</value>
+  </data>
+  <data name="lblCalcSteerAngleInner.Location" type="System.Drawing.Point, System.Drawing">
+    <value>209, 146</value>
+  </data>
+  <data name="&gt;&gt;label29.Name" xml:space="preserve">
+    <value>label29</value>
+  </data>
+  <data name="cboxSteerEnable.Items" xml:space="preserve">
+    <value>None</value>
+  </data>
+  <data name="&gt;&gt;lblHeadingErrorGain.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="label27.Text" xml:space="preserve">
+    <value>Integral</value>
+  </data>
+  <data name="label17.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;label16.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="panel1.TabIndex" type="System.Int32, mscorlib">
+    <value>323</value>
+  </data>
+  <data name="&gt;&gt;lblHoldLookAhead.Parent" xml:space="preserve">
+    <value>tabInt</value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>Motor or Hydraulic Gain</value>
+  </data>
+  <data name="&gt;&gt;hsbarSensor.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="cboxXY.Location" type="System.Drawing.Point, System.Drawing">
+    <value>743, 217</value>
+  </data>
+  <data name="label62.TabIndex" type="System.Int32, mscorlib">
+    <value>499</value>
+  </data>
+  <data name="label32.Text" xml:space="preserve">
+    <value>Hold Look Ahead</value>
+  </data>
+  <data name="lblSteerAngleActual.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="hsbarSideHillComp.Size" type="System.Drawing.Size, System.Drawing">
+    <value>217, 30</value>
+  </data>
+  <data name="&gt;&gt;lblCalcSteerAngleInner.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="lblPWMDisplay.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 23</value>
+  </data>
+  <data name="&gt;&gt;label12.Name" xml:space="preserve">
+    <value>label12</value>
+  </data>
+  <data name="lblMaxSteerAngle.TabIndex" type="System.Int32, mscorlib">
+    <value>303</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Diameter:</value>
+  </data>
+  <data name="label2.TabIndex" type="System.Int32, mscorlib">
+    <value>335</value>
+  </data>
+  <data name="btnSteerAngleDown.Size" type="System.Drawing.Size, System.Drawing">
+    <value>73, 56</value>
+  </data>
+  <data name="&gt;&gt;lblDiameter.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;cboxXY.Name" xml:space="preserve">
+    <value>cboxXY</value>
+  </data>
+  <data name="label68.TabIndex" type="System.Int32, mscorlib">
+    <value>502</value>
+  </data>
+  <data name="&gt;&gt;label19.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>63, 51</value>
+  </data>
+  <data name="label55.TabIndex" type="System.Int32, mscorlib">
+    <value>489</value>
+  </data>
+  <data name="label10.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 12pt</value>
+  </data>
+  <data name="&gt;&gt;lblAckerman.Name" xml:space="preserve">
+    <value>lblAckerman</value>
+  </data>
+  <data name="&gt;&gt;tabSteer.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="label17.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 12pt</value>
+  </data>
+  <data name="&gt;&gt;tabStan.Name" xml:space="preserve">
+    <value>tabStan</value>
+  </data>
+  <data name="&gt;&gt;hsbarMaxSteerAngle.Name" xml:space="preserve">
+    <value>hsbarMaxSteerAngle</value>
+  </data>
+  <data name="lblDiameter.TabIndex" type="System.Int32, mscorlib">
+    <value>325</value>
+  </data>
+  <data name="&gt;&gt;pbarLeft.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
   <data name="imageList1.ImageStream" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>
         AAEAAAD/////AQAAAAAAAAAMAgAAAFdTeXN0ZW0uV2luZG93cy5Gb3JtcywgVmVyc2lvbj00LjAuMC4w
         LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODkFAQAAACZTeXN0
         ZW0uV2luZG93cy5Gb3Jtcy5JbWFnZUxpc3RTdHJlYW1lcgEAAAAERGF0YQcCAgAAAAkDAAAADwMAAABq
-        KAAAAk1TRnQBSQFMAgEBBQEAAVABAgFQAQIBQgEAASwBAAT/AQkBAAj/AUIBTQE2AQQGAAE2AQQCAAEo
+        KAAAAk1TRnQBSQFMAgEBBQEAAVgBAgFwAQIBQgEAASwBAAT/AQkBEAj/AUIBTQE2AQQGAAE2AQQCAAEo
         AwABCAEBAgABWAMAAQEBAAEIBQABwAFaGAABgAIAAYADAAKAAQABgAMAAYABAAGAAQACgAIAA8ABAAHA
         AdwBwAEAAfABygGmAQABMwUAATMBAAEzAQABMwEAAjMCAAMWAQADHAEAAyIBAAMpAQADVQEAA00BAANC
         AQADOQEAAYABfAH/AQACUAH/AQABkwEAAdYBAAH/AewBzAEAAcYB1gHvAQAB1gLnAQABkAGpAa0CAAH/
@@ -300,9 +1197,2629 @@
         ASABAAEHBv8B/gIAAT8F/wGAAQABDwMAAv8BAQL/AeABPwP/AcABAAEgAQABDxL/AwAC/wGAAv8BwAE/
         A/8B+AEAASABAAF/Ev8DAAL/AYABPwH/AQABfwP/AfwBAAEgAQAT/wMAAv8BwAEPAfwBAAT/Af4BAAEg
         AQMT/wMAAv8B4AEAAcABAQX/AcABIAEPE/8DAAL/AfgCAAEDBv8B5xT/AwAC/wH8AgABDxv/AwAC/wH+
-        AgABHxv/AwAD/wGAAQABfxv/AwAD/wH4AQcc/wMACw==
+        AgABHxv/AwAD/wGAAQABfxv/AwAD/wH4AQcc/xkACw==
 </value>
   </data>
+  <data name="&gt;&gt;label70.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="cboxConv.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 3, 2, 3</value>
+  </data>
+  <data name="&gt;&gt;label64.ZOrder" xml:space="preserve">
+    <value>27</value>
+  </data>
+  <data name="tabStan.ImageIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;label23.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;label37.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cboxMotorDrive.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lblHeadingErrorGain.Parent" xml:space="preserve">
+    <value>tabStan</value>
+  </data>
+  <data name="cboxDanfoss.Appearance" type="System.Windows.Forms.Appearance, System.Windows.Forms">
+    <value>Button</value>
+  </data>
+  <data name="label31.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 9.75pt</value>
+  </data>
+  <data name="lblSideHillComp.TabIndex" type="System.Int32, mscorlib">
+    <value>353</value>
+  </data>
+  <data name="hsbarHoldLookAhead.TabIndex" type="System.Int32, mscorlib">
+    <value>354</value>
+  </data>
+  <data name="button2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>89, 69</value>
+  </data>
+  <data name="label9.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 81</value>
+  </data>
+  <data name="label13.Size" type="System.Drawing.Size, System.Drawing">
+    <value>44, 23</value>
+  </data>
+  <data name="&gt;&gt;pboxSendSteer.Name" xml:space="preserve">
+    <value>pboxSendSteer</value>
+  </data>
+  <data name="&gt;&gt;label26.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label31.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label22.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="lblMaxSteerAngle.Location" type="System.Drawing.Point, System.Drawing">
+    <value>11, 291</value>
+  </data>
+  <data name="label8.Text" xml:space="preserve">
+    <value>Steer Angle:</value>
+  </data>
+  <data name="&gt;&gt;label29.ZOrder" xml:space="preserve">
+    <value>20</value>
+  </data>
+  <data name="label13.Location" type="System.Drawing.Point, System.Drawing">
+    <value>246, 5</value>
+  </data>
+  <data name="&gt;&gt;lblMaxSteerAngle.Parent" xml:space="preserve">
+    <value>tabSteer</value>
+  </data>
+  <data name="&gt;&gt;label4.Parent" xml:space="preserve">
+    <value>tabGain</value>
+  </data>
+  <data name="nudPanicStopSpeed.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="lblHeadingErrorGain.Text" xml:space="preserve">
+    <value>888</value>
+  </data>
+  <data name="label61.TabIndex" type="System.Int32, mscorlib">
+    <value>494</value>
+  </data>
+  <data name="chkInvertSteer.Appearance" type="System.Windows.Forms.Appearance, System.Windows.Forms">
+    <value>Button</value>
+  </data>
+  <data name="lblHighSteerPWM.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;labelPressureTurnSensor.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="label19.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;btnFreeDrive.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;label70.Name" xml:space="preserve">
+    <value>label70</value>
+  </data>
+  <data name="$this.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>388, 480</value>
+  </data>
+  <data name="&gt;&gt;label19.Parent" xml:space="preserve">
+    <value>tabInt</value>
+  </data>
+  <data name="&gt;&gt;label27.Parent" xml:space="preserve">
+    <value>tabStan</value>
+  </data>
+  <data name="&gt;&gt;pbarLeft.Name" xml:space="preserve">
+    <value>pbarLeft</value>
+  </data>
+  <data name="&gt;&gt;label37.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="tabGain.Size" type="System.Drawing.Size, System.Drawing">
+    <value>358, 346</value>
+  </data>
+  <data name="label20.Text" xml:space="preserve">
+    <value>Look Ahead Min</value>
+  </data>
+  <data name="cboxPressureSensor.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>Yes</value>
+  </data>
+  <data name="cboxConv.Location" type="System.Drawing.Point, System.Drawing">
+    <value>743, 127</value>
+  </data>
+  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="lblLookAhead.TabIndex" type="System.Int32, mscorlib">
+    <value>293</value>
+  </data>
+  <data name="&gt;&gt;label17.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="hsbarStanleyGain.Location" type="System.Drawing.Point, System.Drawing">
+    <value>68, 80</value>
+  </data>
+  <data name="cboxSteerEnable.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 18pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;tabControl1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label30.Name" xml:space="preserve">
+    <value>label30</value>
+  </data>
+  <data name="&gt;&gt;nudPanicStopSpeed.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label64.TabIndex" type="System.Int32, mscorlib">
+    <value>497</value>
+  </data>
+  <data name="btnStartSA.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 12pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;nudMaxCounts.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pbarSensor.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="tabControl1.ItemSize" type="System.Drawing.Size, System.Drawing">
+    <value>88, 48</value>
+  </data>
+  <data name="&gt;&gt;lblPercentFS.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;tabGain.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;pboxSendSteer.ZOrder" xml:space="preserve">
+    <value>33</value>
+  </data>
+  <data name="lblSteerAngleSensorZero.Size" type="System.Drawing.Size, System.Drawing">
+    <value>70, 35</value>
+  </data>
+  <data name="&gt;&gt;cboxEncoder.Name" xml:space="preserve">
+    <value>cboxEncoder</value>
+  </data>
+  <data name="lblLookAheadMult.Size" type="System.Drawing.Size, System.Drawing">
+    <value>60, 35</value>
+  </data>
+  <data name="label22.Size" type="System.Drawing.Size, System.Drawing">
+    <value>210, 19</value>
+  </data>
+  <data name="cboxMotorDrive.TabIndex" type="System.Int32, mscorlib">
+    <value>495</value>
+  </data>
+  <data name="&gt;&gt;cboxPressureSensor.ZOrder" xml:space="preserve">
+    <value>32</value>
+  </data>
+  <data name="lblPercentFS.Size" type="System.Drawing.Size, System.Drawing">
+    <value>57, 29</value>
+  </data>
+  <data name="btnZeroWAS.Size" type="System.Drawing.Size, System.Drawing">
+    <value>70, 30</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>96, 96</value>
+  </data>
+  <data name="&gt;&gt;label37.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="hsbarWasOffset.Size" type="System.Drawing.Size, System.Drawing">
+    <value>188, 30</value>
+  </data>
+  <data name="&gt;&gt;lblSteerAngle.Name" xml:space="preserve">
+    <value>lblSteerAngle</value>
+  </data>
+  <data name="label24.Size" type="System.Drawing.Size, System.Drawing">
+    <value>204, 19</value>
+  </data>
+  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label32.Location" type="System.Drawing.Point, System.Drawing">
+    <value>75, 110</value>
+  </data>
+  <data name="&gt;&gt;label62.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;panel2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;panel2.ZOrder" xml:space="preserve">
+    <value>40</value>
+  </data>
+  <data name="&gt;&gt;btnSteerAngleUp.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt</value>
+  </data>
+  <data name="labelEncoder.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label31.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="cboxXY.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 3, 2, 3</value>
+  </data>
+  <data name="lblSteerAngle.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;imageList1.Name" xml:space="preserve">
+    <value>imageList1</value>
+  </data>
+  <data name="&gt;&gt;lblProportionalGain.Parent" xml:space="preserve">
+    <value>tabGain</value>
+  </data>
+  <data name="&gt;&gt;label10.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="chkInvertWAS.Appearance" type="System.Windows.Forms.Appearance, System.Windows.Forms">
+    <value>Button</value>
+  </data>
+  <data name="cboxCurrentSensor.Location" type="System.Drawing.Point, System.Drawing">
+    <value>414, 396</value>
+  </data>
+  <data name="label33.Size" type="System.Drawing.Size, System.Drawing">
+    <value>181, 29</value>
+  </data>
+  <data name="&gt;&gt;hsbarIntegral.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="chkInvertWAS.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="label6.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;lblPureIntegral.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label62.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chkInvertSteer.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label18.Parent" xml:space="preserve">
+    <value>tabInt</value>
+  </data>
+  <data name="&gt;&gt;label18.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;hsbarLookAheadMult.Name" xml:space="preserve">
+    <value>hsbarLookAheadMult</value>
+  </data>
+  <data name="&gt;&gt;hsbarSideHillComp.Type" xml:space="preserve">
+    <value>System.Windows.Forms.HScrollBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label61.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 32</value>
+  </data>
+  <data name="lblActualSteerAngleUpper.TabIndex" type="System.Int32, mscorlib">
+    <value>324</value>
+  </data>
+  <data name="&gt;&gt;hsbarMaxSteerAngle.Type" xml:space="preserve">
+    <value>System.Windows.Forms.HScrollBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lblError.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;label20.Name" xml:space="preserve">
+    <value>label20</value>
+  </data>
+  <data name="lblActualSteerAngleUpper.Text" xml:space="preserve">
+    <value>255</value>
+  </data>
+  <data name="cboxEncoder.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt, style=Bold</value>
+  </data>
+  <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>118, 19</value>
+  </data>
+  <data name="&gt;&gt;pboxSendSteer.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label19.Name" xml:space="preserve">
+    <value>label19</value>
+  </data>
+  <data name="label9.TabIndex" type="System.Int32, mscorlib">
+    <value>318</value>
+  </data>
+  <data name="label63.TabIndex" type="System.Int32, mscorlib">
+    <value>496</value>
+  </data>
+  <data name="&gt;&gt;tabInt.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;hsbarWasOffset.Type" xml:space="preserve">
+    <value>System.Windows.Forms.HScrollBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lblMinPWM.TabIndex" type="System.Int32, mscorlib">
+    <value>288</value>
+  </data>
+  <data name="cboxSteerEnable.Items1" xml:space="preserve">
+    <value>Switch</value>
+  </data>
+  <data name="hsbarLookAhead.Size" type="System.Drawing.Size, System.Drawing">
+    <value>217, 30</value>
+  </data>
+  <data name="cboxDanfoss.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lblPercentFS.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="chkInvertWAS.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="btnFreeDriveZero.Size" type="System.Drawing.Size, System.Drawing">
+    <value>73, 56</value>
+  </data>
+  <data name="&gt;&gt;btnSendSteerConfigPGN.Name" xml:space="preserve">
+    <value>btnSendSteerConfigPGN</value>
+  </data>
+  <data name="&gt;&gt;label14.Name" xml:space="preserve">
+    <value>label14</value>
+  </data>
+  <data name="&gt;&gt;label25.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="lblCalcSteerAngleInner.TabIndex" type="System.Int32, mscorlib">
+    <value>326</value>
+  </data>
+  <data name="&gt;&gt;labelCurrentTurnSensor.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="label30.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="btnSteerAngleDown.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="label11.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt</value>
+  </data>
+  <data name="&gt;&gt;timer1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Timer, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="tabSteer.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="&gt;&gt;labelCurrentTurnSensor.ZOrder" xml:space="preserve">
+    <value>17</value>
+  </data>
+  <data name="&gt;&gt;pbarRight.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ProgressBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>262, 25</value>
+  </data>
+  <data name="&gt;&gt;label63.ZOrder" xml:space="preserve">
+    <value>26</value>
+  </data>
+  <data name="label14.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 9.75pt, style=Bold</value>
+  </data>
+  <data name="label27.TabIndex" type="System.Int32, mscorlib">
+    <value>350</value>
+  </data>
+  <data name="lblSteerAngleSensorZero.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="label61.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;hsbarMaxSteerAngle.Parent" xml:space="preserve">
+    <value>tabSteer</value>
+  </data>
+  <data name="label19.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 12pt</value>
+  </data>
+  <data name="label11.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left</value>
+  </data>
+  <data name="&gt;&gt;label6.Parent" xml:space="preserve">
+    <value>tabGain</value>
+  </data>
+  <data name="&gt;&gt;tabSteer.Name" xml:space="preserve">
+    <value>tabSteer</value>
+  </data>
+  <data name="&gt;&gt;chkInvertSteer.Name" xml:space="preserve">
+    <value>chkInvertSteer</value>
+  </data>
+  <data name="chkSteerInvertRelays.Appearance" type="System.Windows.Forms.Appearance, System.Windows.Forms">
+    <value>Button</value>
+  </data>
+  <data name="&gt;&gt;label33.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnSteerAngleUp.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="lblMinPWM.Text" xml:space="preserve">
+    <value>888</value>
+  </data>
+  <data name="lblHeadingErrorGain.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="label2.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="tabSteer.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;chkInvertWAS.ZOrder" xml:space="preserve">
+    <value>38</value>
+  </data>
+  <data name="tabGain.AutoScroll" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;hsbarHoldLookAhead.Type" xml:space="preserve">
+    <value>System.Windows.Forms.HScrollBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label4.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 12pt</value>
+  </data>
+  <data name="label21.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 12pt</value>
+  </data>
+  <data name="hsbarWasOffset.Location" type="System.Drawing.Point, System.Drawing">
+    <value>77, 91</value>
+  </data>
+  <data name="label11.TabIndex" type="System.Int32, mscorlib">
+    <value>319</value>
+  </data>
+  <data name="lblSteerAngleActual.Location" type="System.Drawing.Point, System.Drawing">
+    <value>174, 5</value>
+  </data>
+  <data name="btnFreeDrive.Size" type="System.Drawing.Size, System.Drawing">
+    <value>73, 56</value>
+  </data>
+  <data name="btnSendSteerConfigPGN.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;lblMinPWM.Parent" xml:space="preserve">
+    <value>tabGain</value>
+  </data>
+  <data name="label13.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label3.Name" xml:space="preserve">
+    <value>label3</value>
+  </data>
+  <data name="chkSteerInvertRelays.Location" type="System.Drawing.Point, System.Drawing">
+    <value>588, 273</value>
+  </data>
+  <data name="lblLookAheadMult.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 207</value>
+  </data>
+  <data name="cboxDanfoss.Size" type="System.Drawing.Size, System.Drawing">
+    <value>114, 78</value>
+  </data>
+  <data name="&gt;&gt;lblHighSteerPWM.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="label1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left</value>
+  </data>
+  <data name="label9.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="label17.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="label18.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;cboxConv.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="label18.Text" xml:space="preserve">
+    <value>Look Ahead</value>
+  </data>
+  <data name="pbarLeft.TabIndex" type="System.Int32, mscorlib">
+    <value>329</value>
+  </data>
+  <data name="hsbarSideHillComp.TabIndex" type="System.Int32, mscorlib">
+    <value>352</value>
+  </data>
+  <data name="btnSteerAngleUp.Location" type="System.Drawing.Point, System.Drawing">
+    <value>186, 22</value>
+  </data>
+  <data name="label7.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblhsbarSensor.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="lblAckerman.Text" xml:space="preserve">
+    <value>888</value>
+  </data>
+  <data name="label24.Text" xml:space="preserve">
+    <value>Integral</value>
+  </data>
+  <data name="&gt;&gt;label21.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="pbarSensor.Size" type="System.Drawing.Size, System.Drawing">
+    <value>280, 26</value>
+  </data>
+  <data name="lblHighSteerPWM.Text" xml:space="preserve">
+    <value>888</value>
+  </data>
+  <data name="&gt;&gt;cboxSteerEnable.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label31.Text" xml:space="preserve">
+    <value>0 = Off</value>
+  </data>
+  <data name="&gt;&gt;label13.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 12pt</value>
+  </data>
+  <data name="&gt;&gt;btnFreeDrive.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label14.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 16</value>
+  </data>
+  <data name="lblPWMDisplay.Text" xml:space="preserve">
+    <value>255</value>
+  </data>
+  <data name="&gt;&gt;label61.Name" xml:space="preserve">
+    <value>label61</value>
+  </data>
+  <data name="&gt;&gt;label64.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="panel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>364, 231</value>
+  </data>
+  <data name="label6.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;hsbarProportionalGain.Parent" xml:space="preserve">
+    <value>tabGain</value>
+  </data>
+  <data name="lblHeadingErrorGain.TabIndex" type="System.Int32, mscorlib">
+    <value>295</value>
+  </data>
+  <data name="label16.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 22</value>
+  </data>
+  <data name="lblMinPWM.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 18pt</value>
+  </data>
+  <data name="&gt;&gt;lblHoldLookAhead.Name" xml:space="preserve">
+    <value>lblHoldLookAhead</value>
+  </data>
+  <data name="&gt;&gt;label4.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;label22.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="cboxMotorDrive.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>System</value>
+  </data>
+  <data name="&gt;&gt;pbarRight.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>Proportional Gain</value>
+  </data>
+  <data name="lblSteerAngle.Text" xml:space="preserve">
+    <value>-55.5</value>
+  </data>
+  <data name="pboxSendSteer.Location" type="System.Drawing.Point, System.Drawing">
+    <value>827, 521</value>
+  </data>
+  <data name="label68.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 15.75pt</value>
+  </data>
+  <data name="hsbarHighSteerPWM.Location" type="System.Drawing.Point, System.Drawing">
+    <value>68, 179</value>
+  </data>
+  <data name="lblIntegralPercent.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 259</value>
+  </data>
+  <data name="cboxSteerEnable.Location" type="System.Drawing.Point, System.Drawing">
+    <value>743, 307</value>
+  </data>
+  <data name="&gt;&gt;labelPressureTurnSensor.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="hsbarHeadingErrorGain.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 30</value>
+  </data>
+  <data name="label13.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left</value>
+  </data>
+  <data name="label27.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lblSteerAngleSensorZero.Name" xml:space="preserve">
+    <value>lblSteerAngleSensorZero</value>
+  </data>
+  <data name="&gt;&gt;label55.ZOrder" xml:space="preserve">
+    <value>30</value>
+  </data>
+  <data name="&gt;&gt;label8.Name" xml:space="preserve">
+    <value>label8</value>
+  </data>
+  <data name="label16.Location" type="System.Drawing.Point, System.Drawing">
+    <value>585, 386</value>
+  </data>
+  <data name="&gt;&gt;lblCalcSteerAngleInner.Name" xml:space="preserve">
+    <value>lblCalcSteerAngleInner</value>
+  </data>
+  <data name="&gt;&gt;label28.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterParent</value>
+  </data>
+  <data name="lblError.Text" xml:space="preserve">
+    <value>-30.0</value>
+  </data>
+  <data name="&gt;&gt;hsbarIntegralPurePursuit.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="label12.Text" xml:space="preserve">
+    <value>Set:</value>
+  </data>
+  <data name="&gt;&gt;lblCalcSteerAngleInner.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;btnFreeDriveZero.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="lblLookAheadMult.TabIndex" type="System.Int32, mscorlib">
+    <value>299</value>
+  </data>
+  <data name="label14.TabIndex" type="System.Int32, mscorlib">
+    <value>322</value>
+  </data>
+  <data name="$this.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="label15.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="lblhsbarSensor.TabIndex" type="System.Int32, mscorlib">
+    <value>518</value>
+  </data>
+  <data name="chkSteerInvertRelays.Size" type="System.Drawing.Size, System.Drawing">
+    <value>109, 78</value>
+  </data>
+  <data name="&gt;&gt;lblMinPWM.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="label7.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 12pt</value>
+  </data>
+  <data name="&gt;&gt;tabGain.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chkSteerInvertRelays.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;nudPanicStopSpeed.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="lblPWMDisplay.TabIndex" type="System.Int32, mscorlib">
+    <value>316</value>
+  </data>
+  <data name="lblActualSteerAngleUpper.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="label25.Text" xml:space="preserve">
+    <value>Stanley Gains</value>
+  </data>
+  <data name="btnSteerAngleDown.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left</value>
+  </data>
+  <data name="btnSteerAngleUp.TabIndex" type="System.Int32, mscorlib">
+    <value>315</value>
+  </data>
+  <data name="label19.Location" type="System.Drawing.Point, System.Drawing">
+    <value>76, 188</value>
+  </data>
+  <data name="&gt;&gt;label37.Name" xml:space="preserve">
+    <value>label37</value>
+  </data>
+  <data name="&gt;&gt;label10.Parent" xml:space="preserve">
+    <value>tabSteer</value>
+  </data>
+  <data name="&gt;&gt;label68.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="label62.Size" type="System.Drawing.Size, System.Drawing">
+    <value>181, 29</value>
+  </data>
+  <data name="&gt;&gt;cboxSteerEnable.Name" xml:space="preserve">
+    <value>cboxSteerEnable</value>
+  </data>
+  <data name="label62.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomCenter</value>
+  </data>
+  <data name="&gt;&gt;label7.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="lblHighSteerPWM.TabIndex" type="System.Int32, mscorlib">
+    <value>278</value>
+  </data>
+  <data name="&gt;&gt;labelCurrentTurnSensor.Name" xml:space="preserve">
+    <value>labelCurrentTurnSensor</value>
+  </data>
+  <data name="label64.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label23.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 12pt</value>
+  </data>
+  <data name="&gt;&gt;hsbarLookAheadMult.Type" xml:space="preserve">
+    <value>System.Windows.Forms.HScrollBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label64.Size" type="System.Drawing.Size, System.Drawing">
+    <value>181, 29</value>
+  </data>
+  <data name="lblDiameter.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt, style=Bold</value>
+  </data>
+  <data name="lblhsbarSensor.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 18pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;label15.Parent" xml:space="preserve">
+    <value>tabGain</value>
+  </data>
+  <data name="label62.Location" type="System.Drawing.Point, System.Drawing">
+    <value>740, 278</value>
+  </data>
+  <data name="btnSteerAngleDown.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt</value>
+  </data>
+  <data name="&gt;&gt;lblSteerAngleSensorZero.Parent" xml:space="preserve">
+    <value>tabSteer</value>
+  </data>
+  <data name="cboxCurrentSensor.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btnFreeDrive.TabIndex" type="System.Int32, mscorlib">
+    <value>228</value>
+  </data>
+  <data name="&gt;&gt;hsbarStanleyGain.Parent" xml:space="preserve">
+    <value>tabStan</value>
+  </data>
+  <data name="hsbarCountsPerDegree.TabIndex" type="System.Int32, mscorlib">
+    <value>304</value>
+  </data>
+  <data name="label12.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt</value>
+  </data>
+  <data name="chkSteerInvertRelays.TabIndex" type="System.Int32, mscorlib">
+    <value>503</value>
+  </data>
+  <data name="nudPanicStopSpeed.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 27.75pt</value>
+  </data>
+  <data name="lblStanleyGain.Text" xml:space="preserve">
+    <value>888</value>
+  </data>
+  <data name="tabControl1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>366, 402</value>
+  </data>
+  <data name="&gt;&gt;chkInvertWAS.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lblError.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left</value>
+  </data>
+  <data name="&gt;&gt;label23.Parent" xml:space="preserve">
+    <value>tabSteer</value>
+  </data>
+  <data name="cboxConv.Items1" xml:space="preserve">
+    <value>Differential</value>
+  </data>
+  <data name="&gt;&gt;lblProportionalGain.Name" xml:space="preserve">
+    <value>lblProportionalGain</value>
+  </data>
+  <data name="label30.Size" type="System.Drawing.Size, System.Drawing">
+    <value>63, 13</value>
+  </data>
+  <data name="nudMaxCounts.TabIndex" type="System.Int32, mscorlib">
+    <value>493</value>
+  </data>
+  <data name="&gt;&gt;hsbarProportionalGain.Type" xml:space="preserve">
+    <value>System.Windows.Forms.HScrollBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;hsbarHeadingErrorGain.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="label25.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 15.75pt, style=Bold</value>
+  </data>
+  <data name="label33.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 15.75pt</value>
+  </data>
+  <data name="cboxPressureSensor.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;panel2.Name" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;lblCountsPerDegree.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;hsbarProportionalGain.Name" xml:space="preserve">
+    <value>hsbarProportionalGain</value>
+  </data>
+  <data name="&gt;&gt;label6.Name" xml:space="preserve">
+    <value>label6</value>
+  </data>
+  <data name="&gt;&gt;hsbarSensor.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;panel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lblHoldLookAhead.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 18pt</value>
+  </data>
+  <data name="&gt;&gt;lblIntegralPercent.Parent" xml:space="preserve">
+    <value>tabStan</value>
+  </data>
+  <data name="&gt;&gt;lblDiameter.Name" xml:space="preserve">
+    <value>lblDiameter</value>
+  </data>
+  <data name="&gt;&gt;nudPanicStopSpeed.Name" xml:space="preserve">
+    <value>nudPanicStopSpeed</value>
+  </data>
+  <data name="&gt;&gt;lblHeadingErrorGain.Name" xml:space="preserve">
+    <value>lblHeadingErrorGain</value>
+  </data>
+  <data name="label16.TabIndex" type="System.Int32, mscorlib">
+    <value>520</value>
+  </data>
+  <data name="label7.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;label61.ZOrder" xml:space="preserve">
+    <value>28</value>
+  </data>
+  <data name="lblSideHillComp.Text" xml:space="preserve">
+    <value>888</value>
+  </data>
+  <data name="&gt;&gt;btnFreeDrive.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;labelEncoder.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="tabInt.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 52</value>
+  </data>
+  <data name="&gt;&gt;lblProportionalGain.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label8.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;label55.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="btnStartSA.TabIndex" type="System.Int32, mscorlib">
+    <value>323</value>
+  </data>
+  <data name="&gt;&gt;btnStartSA.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="label63.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomCenter</value>
+  </data>
+  <data name="hsbarMaxSteerAngle.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 30</value>
+  </data>
+  <data name="cboxDanfoss.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="&gt;&gt;label32.Parent" xml:space="preserve">
+    <value>tabInt</value>
+  </data>
+  <data name="lblMinPWM.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 266</value>
+  </data>
+  <data name="lblProportionalGain.TabIndex" type="System.Int32, mscorlib">
+    <value>258</value>
+  </data>
+  <data name="&gt;&gt;label62.ZOrder" xml:space="preserve">
+    <value>24</value>
+  </data>
+  <data name="&gt;&gt;lblhsbarSensor.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;hsbarHoldLookAhead.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="label23.Text" xml:space="preserve">
+    <value>Max Steer Angle</value>
+  </data>
+  <data name="cboxXY.TabIndex" type="System.Int32, mscorlib">
+    <value>525</value>
+  </data>
+  <data name="&gt;&gt;label62.Name" xml:space="preserve">
+    <value>label62</value>
+  </data>
+  <data name="panel2.TabIndex" type="System.Int32, mscorlib">
+    <value>324</value>
+  </data>
+  <data name="chkSteerInvertRelays.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>Yes</value>
+  </data>
+  <data name="cboxCurrentSensor.Size" type="System.Drawing.Size, System.Drawing">
+    <value>114, 78</value>
+  </data>
+  <data name="lblSteerAngleActual.Size" type="System.Drawing.Size, System.Drawing">
+    <value>70, 23</value>
+  </data>
+  <data name="&gt;&gt;lblLookAheadMult.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label29.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lblHighSteerPWM.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label18.Size" type="System.Drawing.Size, System.Drawing">
+    <value>204, 30</value>
+  </data>
+  <data name="label9.Text" xml:space="preserve">
+    <value>PWM:</value>
+  </data>
+  <data name="lblStanleyGain.Location" type="System.Drawing.Point, System.Drawing">
+    <value>9, 78</value>
+  </data>
+  <data name="lblSteerAngleActual.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left</value>
+  </data>
+  <data name="lblDiameter.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;hsbarAckerman.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="lblAckerman.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 18pt</value>
+  </data>
+  <data name="&gt;&gt;lblLookAhead.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="label28.Size" type="System.Drawing.Size, System.Drawing">
+    <value>164, 26</value>
+  </data>
+  <data name="cboxConv.TabIndex" type="System.Int32, mscorlib">
+    <value>500</value>
+  </data>
+  <data name="lblLookAhead.Text" xml:space="preserve">
+    <value>888</value>
+  </data>
+  <data name="label26.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="lblStanleyGain.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="lblHeadingErrorGain.Location" type="System.Drawing.Point, System.Drawing">
+    <value>9, 166</value>
+  </data>
+  <data name="&gt;&gt;label25.Parent" xml:space="preserve">
+    <value>tabStan</value>
+  </data>
+  <data name="label5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>62, 140</value>
+  </data>
+  <data name="hsbarMaxSteerAngle.TabIndex" type="System.Int32, mscorlib">
+    <value>299</value>
+  </data>
+  <data name="label26.Size" type="System.Drawing.Size, System.Drawing">
+    <value>233, 17</value>
+  </data>
+  <data name="label68.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label61.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 12pt</value>
+  </data>
+  <data name="lblSteerAngleActual.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;label17.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="lblProportionalGain.Text" xml:space="preserve">
+    <value>888</value>
+  </data>
+  <data name="label15.TabIndex" type="System.Int32, mscorlib">
+    <value>338</value>
+  </data>
+  <data name="&gt;&gt;lblSteerAngleActual.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="label14.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="label29.Size" type="System.Drawing.Size, System.Drawing">
+    <value>72, 13</value>
+  </data>
+  <data name="btnFreeDriveZero.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left</value>
+  </data>
+  <data name="label68.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="hsbarIntegralPurePursuit.TabIndex" type="System.Int32, mscorlib">
+    <value>349</value>
+  </data>
+  <data name="cboxMotorDrive.Items" xml:space="preserve">
+    <value>Cytron</value>
+  </data>
+  <data name="hsbarLookAhead.TabIndex" type="System.Int32, mscorlib">
+    <value>289</value>
+  </data>
+  <data name="&gt;&gt;cboxEncoder.ZOrder" xml:space="preserve">
+    <value>37</value>
+  </data>
+  <data name="btnStartSA.Size" type="System.Drawing.Size, System.Drawing">
+    <value>62, 58</value>
+  </data>
+  <data name="tabControl1.Appearance" type="System.Windows.Forms.TabAppearance, System.Windows.Forms">
+    <value>Buttons</value>
+  </data>
+  <data name="hsbarIntegral.Size" type="System.Drawing.Size, System.Drawing">
+    <value>202, 30</value>
+  </data>
+  <data name="label9.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 23</value>
+  </data>
+  <data name="label20.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 12pt</value>
+  </data>
+  <data name="&gt;&gt;cboxDanfoss.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label20.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="lblSteerAngle.Location" type="System.Drawing.Point, System.Drawing">
+    <value>52, 5</value>
+  </data>
+  <data name="&gt;&gt;hsbarCountsPerDegree.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="label7.TabIndex" type="System.Int32, mscorlib">
+    <value>334</value>
+  </data>
+  <data name="label4.TabIndex" type="System.Int32, mscorlib">
+    <value>336</value>
+  </data>
+  <data name="chkInvertSteer.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt, style=Bold</value>
+  </data>
+  <data name="lblSteerAngle.TabIndex" type="System.Int32, mscorlib">
+    <value>306</value>
+  </data>
+  <data name="hsbarHighSteerPWM.TabIndex" type="System.Int32, mscorlib">
+    <value>274</value>
+  </data>
+  <data name="lblDiameter.Location" type="System.Drawing.Point, System.Drawing">
+    <value>206, 181</value>
+  </data>
+  <data name="label37.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 42</value>
+  </data>
+  <data name="&gt;&gt;cboxXY.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label64.Text" xml:space="preserve">
+    <value>A2D Convertor</value>
+  </data>
+  <data name="&gt;&gt;label28.Name" xml:space="preserve">
+    <value>label28</value>
+  </data>
+  <data name="&gt;&gt;chkInvertWAS.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="pboxSendSteer.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="pbarSensor.Location" type="System.Drawing.Point, System.Drawing">
+    <value>402, 638</value>
+  </data>
+  <data name="&gt;&gt;hsbarStanleyGain.Name" xml:space="preserve">
+    <value>hsbarStanleyGain</value>
+  </data>
+  <data name="&gt;&gt;label68.ZOrder" xml:space="preserve">
+    <value>21</value>
+  </data>
+  <data name="&gt;&gt;panel1.Name" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="label26.Location" type="System.Drawing.Point, System.Drawing">
+    <value>58, 4</value>
+  </data>
+  <data name="&gt;&gt;tabStan.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label33.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomCenter</value>
+  </data>
+  <data name="nudMaxCounts.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 27.75pt</value>
+  </data>
+  <data name="&gt;&gt;label22.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label16.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;tabStan.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="hsbarLookAheadMult.Location" type="System.Drawing.Point, System.Drawing">
+    <value>70, 210</value>
+  </data>
+  <data name="tabSteer.Size" type="System.Drawing.Size, System.Drawing">
+    <value>358, 346</value>
+  </data>
+  <data name="&gt;&gt;label27.Name" xml:space="preserve">
+    <value>label27</value>
+  </data>
+  <data name="&gt;&gt;label63.Name" xml:space="preserve">
+    <value>label63</value>
+  </data>
+  <data name="label24.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="label22.Text" xml:space="preserve">
+    <value>Sidehill Deg per Deg of Roll</value>
+  </data>
+  <data name="label31.Location" type="System.Drawing.Point, System.Drawing">
+    <value>615, 466</value>
+  </data>
+  <data name="&gt;&gt;lblSteerAngle.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="label23.Location" type="System.Drawing.Point, System.Drawing">
+    <value>61, 264</value>
+  </data>
+  <data name="label6.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 15.75pt, style=Bold</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>112, 181</value>
+  </data>
+  <data name="&gt;&gt;label15.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lblPureIntegral.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 285</value>
+  </data>
+  <data name="lblDiameter.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 23</value>
+  </data>
+  <data name="nudPanicStopSpeed.Size" type="System.Drawing.Size, System.Drawing">
+    <value>107, 52</value>
+  </data>
+  <data name="label19.Size" type="System.Drawing.Size, System.Drawing">
+    <value>204, 19</value>
+  </data>
+  <data name="lblSideHillComp.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="cboxPressureSensor.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt, style=Bold</value>
+  </data>
+  <data name="lblMaxSteerAngle.Size" type="System.Drawing.Size, System.Drawing">
+    <value>52, 35</value>
+  </data>
+  <data name="label16.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 9.75pt</value>
+  </data>
+  <data name="&gt;&gt;hsbarHighSteerPWM.Type" xml:space="preserve">
+    <value>System.Windows.Forms.HScrollBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lblAckerman.Location" type="System.Drawing.Point, System.Drawing">
+    <value>9, 223</value>
+  </data>
+  <data name="&gt;&gt;cboxCurrentSensor.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="lblStanleyGain.Size" type="System.Drawing.Size, System.Drawing">
+    <value>54, 35</value>
+  </data>
+  <data name="labelEncoder.Text" xml:space="preserve">
+    <value>Turn Sensor</value>
+  </data>
+  <data name="btnSteerAngleDown.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 3, 2, 3</value>
+  </data>
+  <data name="&gt;&gt;hsbarMinPWM.Name" xml:space="preserve">
+    <value>hsbarMinPWM</value>
+  </data>
+  <data name="label12.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;button2.Name" xml:space="preserve">
+    <value>button2</value>
+  </data>
+  <data name="&gt;&gt;hsbarAckerman.Name" xml:space="preserve">
+    <value>hsbarAckerman</value>
+  </data>
+  <data name="btnZeroWAS.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="label37.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 11.25pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;label26.Parent" xml:space="preserve">
+    <value>tabInt</value>
+  </data>
+  <data name="labelPressureTurnSensor.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;panel1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="labelEncoder.Size" type="System.Drawing.Size, System.Drawing">
+    <value>65, 13</value>
+  </data>
+  <data name="hsbarHeadingErrorGain.TabIndex" type="System.Int32, mscorlib">
+    <value>294</value>
+  </data>
+  <data name="pbarRight.Size" type="System.Drawing.Size, System.Drawing">
+    <value>159, 10</value>
+  </data>
+  <data name="&gt;&gt;hsbarHighSteerPWM.Name" xml:space="preserve">
+    <value>hsbarHighSteerPWM</value>
+  </data>
+  <data name="label28.Location" type="System.Drawing.Point, System.Drawing">
+    <value>749, 349</value>
+  </data>
+  <data name="&gt;&gt;button2.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;lblDiameter.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="lblError.TabIndex" type="System.Int32, mscorlib">
+    <value>312</value>
+  </data>
+  <data name="tabSteer.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 52</value>
+  </data>
+  <data name="&gt;&gt;pbarRight.Parent" xml:space="preserve">
+    <value>tabSteer</value>
+  </data>
+  <data name="label17.TabIndex" type="System.Int32, mscorlib">
+    <value>335</value>
+  </data>
+  <data name="&gt;&gt;label13.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="chkInvertSteer.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>Yes</value>
+  </data>
+  <data name="&gt;&gt;panel2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lblPWMDisplay.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="lblPureIntegral.Text" xml:space="preserve">
+    <value>888</value>
+  </data>
+  <data name="lblSteerAngleSensorZero.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 15.75pt</value>
+  </data>
+  <data name="&gt;&gt;lblIntegralPercent.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblIntegralPercent.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;label9.Name" xml:space="preserve">
+    <value>label9</value>
+  </data>
+  <data name="&gt;&gt;hsbarWasOffset.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="labelPressureTurnSensor.Text" xml:space="preserve">
+    <value>Pressure Turn Sensor</value>
+  </data>
+  <data name="&gt;&gt;tabControl1.ZOrder" xml:space="preserve">
+    <value>42</value>
+  </data>
+  <data name="pbarRight.Location" type="System.Drawing.Point, System.Drawing">
+    <value>171, 6</value>
+  </data>
+  <data name="label31.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomCenter</value>
+  </data>
+  <data name="lblHighSteerPWM.Size" type="System.Drawing.Size, System.Drawing">
+    <value>61, 35</value>
+  </data>
+  <data name="cboxSteerEnable.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>System</value>
+  </data>
+  <data name="lblLookAhead.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 18pt</value>
+  </data>
+  <data name="label70.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;hsbarMinPWM.Parent" xml:space="preserve">
+    <value>tabGain</value>
+  </data>
+  <data name="&gt;&gt;lblMaxSteerAngle.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="cboxMotorDrive.Items1" xml:space="preserve">
+    <value>IBT2</value>
+  </data>
+  <data name="label22.Location" type="System.Drawing.Point, System.Drawing">
+    <value>489, 493</value>
+  </data>
+  <data name="nudPanicStopSpeed.Location" type="System.Drawing.Point, System.Drawing">
+    <value>590, 411</value>
+  </data>
+  <data name="label5.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 12pt</value>
+  </data>
+  <data name="&gt;&gt;label9.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;cboxDanfoss.Name" xml:space="preserve">
+    <value>cboxDanfoss</value>
+  </data>
+  <data name="label24.TabIndex" type="System.Int32, mscorlib">
+    <value>342</value>
+  </data>
+  <data name="&gt;&gt;btnSteerAngleDown.Name" xml:space="preserve">
+    <value>btnSteerAngleDown</value>
+  </data>
+  <data name="lblLookAhead.Size" type="System.Drawing.Size, System.Drawing">
+    <value>60, 35</value>
+  </data>
+  <data name="&gt;&gt;label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="cboxConv.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>System</value>
+  </data>
+  <data name="&gt;&gt;lblCalcSteerAngleInner.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnSendSteerConfigPGN.ZOrder" xml:space="preserve">
+    <value>39</value>
+  </data>
+  <data name="&gt;&gt;pbarSensor.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;hsbarIntegralPurePursuit.Type" xml:space="preserve">
+    <value>System.Windows.Forms.HScrollBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblCountsPerDegree.Name" xml:space="preserve">
+    <value>lblCountsPerDegree</value>
+  </data>
+  <data name="cboxDanfoss.Location" type="System.Drawing.Point, System.Drawing">
+    <value>414, 23</value>
+  </data>
+  <data name="label68.Location" type="System.Drawing.Point, System.Drawing">
+    <value>762, 635</value>
+  </data>
+  <data name="&gt;&gt;lblSteerAngle.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="button2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 15.75pt</value>
+  </data>
+  <data name="btnSendSteerConfigPGN.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cboxMotorDrive.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 18pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;labelPressureTurnSensor.Name" xml:space="preserve">
+    <value>labelPressureTurnSensor</value>
+  </data>
+  <data name="&gt;&gt;lblhsbarSensor.Name" xml:space="preserve">
+    <value>lblhsbarSensor</value>
+  </data>
+  <data name="hsbarSensor.Size" type="System.Drawing.Size, System.Drawing">
+    <value>280, 30</value>
+  </data>
+  <data name="label68.Size" type="System.Drawing.Size, System.Drawing">
+    <value>172, 30</value>
+  </data>
+  <data name="label63.Size" type="System.Drawing.Size, System.Drawing">
+    <value>181, 29</value>
+  </data>
+  <data name="cboxPressureSensor.Appearance" type="System.Windows.Forms.Appearance, System.Windows.Forms">
+    <value>Button</value>
+  </data>
+  <data name="&gt;&gt;lblStanleyGain.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label12.TabIndex" type="System.Int32, mscorlib">
+    <value>320</value>
+  </data>
+  <data name="&gt;&gt;label8.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;hsbarSensor.Type" xml:space="preserve">
+    <value>System.Windows.Forms.HScrollBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lblSteerAngle.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;label24.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;hsbarIntegral.Name" xml:space="preserve">
+    <value>hsbarIntegral</value>
+  </data>
+  <data name="&gt;&gt;labelPressureTurnSensor.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="lblActualSteerAngleUpper.Location" type="System.Drawing.Point, System.Drawing">
+    <value>43, 19</value>
+  </data>
+  <data name="tabGain.ImageIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;lblSteerAngleSensorZero.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cboxSteerEnable.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="label5.TabIndex" type="System.Int32, mscorlib">
+    <value>296</value>
+  </data>
+  <data name="&gt;&gt;label24.Name" xml:space="preserve">
+    <value>label24</value>
+  </data>
+  <data name="label63.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnZeroWAS.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt, style=Bold</value>
+  </data>
+  <data name="label11.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 23</value>
+  </data>
+  <data name="btnSteerAngleDown.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="&gt;&gt;label31.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="hsbarCountsPerDegree.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 30</value>
+  </data>
+  <data name="cboxPressureSensor.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="hsbarMaxSteerAngle.Location" type="System.Drawing.Point, System.Drawing">
+    <value>65, 294</value>
+  </data>
+  <data name="lblHoldLookAhead.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 445</value>
+  </data>
+  <data name="&gt;&gt;cboxSteerEnable.ZOrder" xml:space="preserve">
+    <value>23</value>
+  </data>
+  <data name="&gt;&gt;lblPureIntegral.Parent" xml:space="preserve">
+    <value>tabInt</value>
+  </data>
+  <data name="&gt;&gt;lblAckerman.Parent" xml:space="preserve">
+    <value>tabSteer</value>
+  </data>
+  <data name="&gt;&gt;cboxEncoder.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lblPureIntegral.Size" type="System.Drawing.Size, System.Drawing">
+    <value>60, 35</value>
+  </data>
+  <data name="label70.Text" xml:space="preserve">
+    <value>Invert Motor Dir</value>
+  </data>
+  <data name="&gt;&gt;pbarSensor.Name" xml:space="preserve">
+    <value>pbarSensor</value>
+  </data>
+  <data name="label5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="lblDiameter.Text" xml:space="preserve">
+    <value>0.0 m</value>
+  </data>
+  <data name="&gt;&gt;hsbarCountsPerDegree.Type" xml:space="preserve">
+    <value>System.Windows.Forms.HScrollBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label12.Size" type="System.Drawing.Size, System.Drawing">
+    <value>49, 23</value>
+  </data>
+  <data name="&gt;&gt;cboxPressureSensor.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="chkInvertWAS.TabIndex" type="System.Int32, mscorlib">
+    <value>490</value>
+  </data>
+  <data name="lblLookAhead.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label29.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="pbarLeft.Size" type="System.Drawing.Size, System.Drawing">
+    <value>159, 10</value>
+  </data>
+  <data name="&gt;&gt;label7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lblProportionalGain.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 87</value>
+  </data>
+  <data name="&gt;&gt;btnStartSA.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnSteerAngleUp.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt</value>
+  </data>
+  <data name="cboxCurrentSensor.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>Yes</value>
+  </data>
+  <data name="&gt;&gt;lblPWMDisplay.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="hsbarWasOffset.TabIndex" type="System.Int32, mscorlib">
+    <value>294</value>
+  </data>
+  <data name="lblHighSteerPWM.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 176</value>
+  </data>
+  <data name="label32.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="tabSteer.ImageIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btnSteerAngleUp.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;lblStanleyGain.Parent" xml:space="preserve">
+    <value>tabStan</value>
+  </data>
+  <data name="&gt;&gt;label63.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label15.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 12pt</value>
+  </data>
+  <data name="label37.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="tabInt.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="label13.Text" xml:space="preserve">
+    <value>Err:</value>
+  </data>
+  <data name="labelPressureTurnSensor.Location" type="System.Drawing.Point, System.Drawing">
+    <value>416, 253</value>
+  </data>
+  <data name="label26.Text" xml:space="preserve">
+    <value>Pure Pursuit</value>
+  </data>
+  <data name="&gt;&gt;lblActualSteerAngleUpper.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="tabInt.ImageIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;label23.Name" xml:space="preserve">
+    <value>label23</value>
+  </data>
+  <data name="&gt;&gt;label16.Name" xml:space="preserve">
+    <value>label16</value>
+  </data>
+  <data name="labelCurrentTurnSensor.TabIndex" type="System.Int32, mscorlib">
+    <value>511</value>
+  </data>
+  <data name="label33.Text" xml:space="preserve">
+    <value>IMU X or Y Axis</value>
+  </data>
+  <data name="&gt;&gt;label11.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label21.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lblhsbarSensor.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label15.Location" type="System.Drawing.Point, System.Drawing">
+    <value>108, 246</value>
+  </data>
+  <data name="&gt;&gt;labelEncoder.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="cboxMotorDrive.Size" type="System.Drawing.Size, System.Drawing">
+    <value>175, 37</value>
+  </data>
+  <data name="btnSendSteerConfigPGN.Location" type="System.Drawing.Point, System.Drawing">
+    <value>818, 568</value>
+  </data>
+  <data name="&gt;&gt;btnZeroWAS.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblHeadingErrorGain.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="hsbarAckerman.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 30</value>
+  </data>
+  <data name="label9.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left</value>
+  </data>
+  <data name="&gt;&gt;tabControl1.Name" xml:space="preserve">
+    <value>tabControl1</value>
+  </data>
+  <data name="tabGain.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="label64.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomCenter</value>
+  </data>
+  <data name="labelCurrentTurnSensor.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="nudMaxCounts.Location" type="System.Drawing.Point, System.Drawing">
+    <value>423, 582</value>
+  </data>
+  <data name="&gt;&gt;label17.Name" xml:space="preserve">
+    <value>label17</value>
+  </data>
+  <data name="cboxXY.Size" type="System.Drawing.Size, System.Drawing">
+    <value>175, 37</value>
+  </data>
+  <data name="label18.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 12pt</value>
+  </data>
+  <data name="label55.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;label20.Parent" xml:space="preserve">
+    <value>tabInt</value>
+  </data>
+  <data name="label15.Text" xml:space="preserve">
+    <value>Minimum to Move</value>
+  </data>
+  <data name="pboxSendSteer.Size" type="System.Drawing.Size, System.Drawing">
+    <value>86, 47</value>
+  </data>
+  <data name="lblProportionalGain.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 18pt</value>
+  </data>
+  <data name="lblStanleyGain.TabIndex" type="System.Int32, mscorlib">
+    <value>299</value>
+  </data>
+  <data name="&gt;&gt;label16.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="hsbarProportionalGain.TabIndex" type="System.Int32, mscorlib">
+    <value>254</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="lblHighSteerPWM.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 18pt</value>
+  </data>
+  <data name="hsbarAckerman.TabIndex" type="System.Int32, mscorlib">
+    <value>331</value>
+  </data>
+  <data name="tabStan.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="&gt;&gt;pbarLeft.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ProgressBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;hsbarWasOffset.Parent" xml:space="preserve">
+    <value>tabSteer</value>
+  </data>
+  <data name="&gt;&gt;hsbarSideHillComp.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;chkInvertSteer.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblMinPWM.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>944, 681</value>
+  </data>
+  <data name="chkInvertSteer.Size" type="System.Drawing.Size, System.Drawing">
+    <value>109, 78</value>
+  </data>
+  <data name="lblMinPWM.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="lblMaxSteerAngle.Text" xml:space="preserve">
+    <value>888</value>
+  </data>
+  <data name="lblIntegralPercent.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;cboxConv.Name" xml:space="preserve">
+    <value>cboxConv</value>
+  </data>
+  <data name="label8.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="hsbarSensor.Location" type="System.Drawing.Point, System.Drawing">
+    <value>402, 590</value>
+  </data>
+  <data name="cboxPressureSensor.TabIndex" type="System.Int32, mscorlib">
+    <value>508</value>
+  </data>
+  <data name="&gt;&gt;lblLookAheadMult.Name" xml:space="preserve">
+    <value>lblLookAheadMult</value>
+  </data>
+  <data name="&gt;&gt;cboxPressureSensor.Name" xml:space="preserve">
+    <value>cboxPressureSensor</value>
+  </data>
+  <data name="nudPanicStopSpeed.TabIndex" type="System.Int32, mscorlib">
+    <value>519</value>
+  </data>
+  <data name="cboxXY.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>System</value>
+  </data>
+  <data name="cboxXY.Items1" xml:space="preserve">
+    <value>Y</value>
+  </data>
+  <data name="&gt;&gt;lblHighSteerPWM.Name" xml:space="preserve">
+    <value>lblHighSteerPWM</value>
+  </data>
+  <data name="&gt;&gt;label70.ZOrder" xml:space="preserve">
+    <value>19</value>
+  </data>
+  <data name="cboxEncoder.Appearance" type="System.Windows.Forms.Appearance, System.Windows.Forms">
+    <value>Button</value>
+  </data>
+  <data name="label70.Size" type="System.Drawing.Size, System.Drawing">
+    <value>84, 13</value>
+  </data>
+  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
+    <value>tabGain</value>
+  </data>
+  <data name="label8.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;cboxXY.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label63.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="panel2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 405</value>
+  </data>
+  <data name="&gt;&gt;cboxConv.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label61.Location" type="System.Drawing.Point, System.Drawing">
+    <value>418, 547</value>
+  </data>
+  <data name="lblCalcSteerAngleInner.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 23</value>
+  </data>
+  <data name="&gt;&gt;hsbarMinPWM.Type" xml:space="preserve">
+    <value>System.Windows.Forms.HScrollBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label10.Name" xml:space="preserve">
+    <value>label10</value>
+  </data>
+  <data name="&gt;&gt;tabGain.Parent" xml:space="preserve">
+    <value>tabControl1</value>
+  </data>
+  <data name="&gt;&gt;label68.Name" xml:space="preserve">
+    <value>label68</value>
+  </data>
+  <data name="&gt;&gt;btnStartSA.Name" xml:space="preserve">
+    <value>btnStartSA</value>
+  </data>
+  <data name="label31.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>112, 156</value>
+  </data>
+  <data name="&gt;&gt;label5.Parent" xml:space="preserve">
+    <value>tabStan</value>
+  </data>
+  <data name="label18.Location" type="System.Drawing.Point, System.Drawing">
+    <value>561, 13</value>
+  </data>
+  <data name="label55.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 9.75pt</value>
+  </data>
+  <data name="label6.TabIndex" type="System.Int32, mscorlib">
+    <value>339</value>
+  </data>
+  <data name="label62.Text" xml:space="preserve">
+    <value>Steer Enable</value>
+  </data>
+  <data name="&gt;&gt;hsbarCountsPerDegree.Parent" xml:space="preserve">
+    <value>tabSteer</value>
+  </data>
+  <data name="label8.Location" type="System.Drawing.Point, System.Drawing">
+    <value>92, 146</value>
+  </data>
+  <data name="label21.Text" xml:space="preserve">
+    <value>Acquire Look Ahead</value>
+  </data>
+  <data name="label55.Size" type="System.Drawing.Size, System.Drawing">
+    <value>52, 16</value>
+  </data>
+  <data name="btnSteerAngleUp.Size" type="System.Drawing.Size, System.Drawing">
+    <value>73, 56</value>
+  </data>
+  <data name="label15.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblAckerman.TabIndex" type="System.Int32, mscorlib">
+    <value>333</value>
+  </data>
+  <data name="&gt;&gt;lblPWMDisplay.Name" xml:space="preserve">
+    <value>lblPWMDisplay</value>
+  </data>
+  <data name="&gt;&gt;lblLookAhead.Parent" xml:space="preserve">
+    <value>tabInt</value>
+  </data>
+  <data name="label14.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;nudMaxCounts.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="hsbarProportionalGain.Size" type="System.Drawing.Size, System.Drawing">
+    <value>202, 30</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Auto Steer Configuration</value>
+  </data>
+  <data name="cboxMotorDrive.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 3, 2, 3</value>
+  </data>
+  <data name="label25.Location" type="System.Drawing.Point, System.Drawing">
+    <value>70, 3</value>
+  </data>
+  <data name="&gt;&gt;hsbarHoldLookAhead.Name" xml:space="preserve">
+    <value>hsbarHoldLookAhead</value>
+  </data>
+  <data name="&gt;&gt;label16.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblStanleyGain.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="chkInvertWAS.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>Yes</value>
+  </data>
+  <data name="hsbarSideHillComp.Location" type="System.Drawing.Point, System.Drawing">
+    <value>484, 514</value>
+  </data>
+  <data name="lblHoldLookAhead.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 129</value>
+  </data>
+  <data name="lblPureIntegral.TabIndex" type="System.Int32, mscorlib">
+    <value>350</value>
+  </data>
+  <data name="&gt;&gt;button2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;hsbarMinPWM.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;label4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="cboxEncoder.TabIndex" type="System.Int32, mscorlib">
+    <value>492</value>
+  </data>
+  <data name="cboxMotorDrive.Location" type="System.Drawing.Point, System.Drawing">
+    <value>743, 37</value>
+  </data>
+  <data name="&gt;&gt;label31.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;cboxEncoder.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="panel2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>365, 34</value>
+  </data>
+  <data name="&gt;&gt;hsbarWasOffset.Name" xml:space="preserve">
+    <value>hsbarWasOffset</value>
+  </data>
+  <data name="label6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>43, 7</value>
+  </data>
+  <data name="&gt;&gt;cboxMotorDrive.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label19.TabIndex" type="System.Int32, mscorlib">
+    <value>301</value>
+  </data>
+  <data name="&gt;&gt;cboxMotorDrive.ZOrder" xml:space="preserve">
+    <value>22</value>
+  </data>
+  <data name="&gt;&gt;lblHoldLookAhead.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="lblhsbarSensor.Size" type="System.Drawing.Size, System.Drawing">
+    <value>57, 29</value>
+  </data>
+  <data name="&gt;&gt;lblStanleyGain.Name" xml:space="preserve">
+    <value>lblStanleyGain</value>
+  </data>
+  <data name="lblLookAheadMult.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="cboxEncoder.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="label63.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 15.75pt</value>
+  </data>
+  <data name="chkSteerInvertRelays.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="label12.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 5</value>
+  </data>
+  <data name="label32.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 12pt</value>
+  </data>
+  <data name="&gt;&gt;label27.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;lblhsbarSensor.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="pboxSendSteer.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="label8.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left</value>
+  </data>
+  <data name="&gt;&gt;label6.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="nudMaxCounts.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;label64.Name" xml:space="preserve">
+    <value>label64</value>
+  </data>
+  <data name="label20.Location" type="System.Drawing.Point, System.Drawing">
+    <value>579, 228</value>
+  </data>
+  <data name="label62.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblSteerAngleSensorZero.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 86</value>
+  </data>
+  <data name="&gt;&gt;label55.Name" xml:space="preserve">
+    <value>label55</value>
+  </data>
+  <data name="&gt;&gt;lblActualSteerAngleUpper.Name" xml:space="preserve">
+    <value>lblActualSteerAngleUpper</value>
+  </data>
+  <data name="label10.TabIndex" type="System.Int32, mscorlib">
+    <value>295</value>
+  </data>
+  <data name="label28.Text" xml:space="preserve">
+    <value>Button - Push On. Push Off
+Switch - Pushed On, Release Off</value>
+  </data>
+  <data name="label37.Location" type="System.Drawing.Point, System.Drawing">
+    <value>766, 387</value>
+  </data>
+  <data name="label33.Location" type="System.Drawing.Point, System.Drawing">
+    <value>740, 186</value>
+  </data>
+  <data name="&gt;&gt;chkInvertSteer.ZOrder" xml:space="preserve">
+    <value>36</value>
+  </data>
+  <data name="label23.Size" type="System.Drawing.Size, System.Drawing">
+    <value>204, 30</value>
+  </data>
+  <data name="&gt;&gt;label9.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label31.TabIndex" type="System.Int32, mscorlib">
+    <value>521</value>
+  </data>
+  <data name="&gt;&gt;cboxCurrentSensor.ZOrder" xml:space="preserve">
+    <value>31</value>
+  </data>
+  <data name="lblActualSteerAngleUpper.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 12pt, style=Bold</value>
+  </data>
+  <data name="btnSendSteerConfigPGN.TabIndex" type="System.Int32, mscorlib">
+    <value>501</value>
+  </data>
+  <data name="&gt;&gt;hsbarHeadingErrorGain.Parent" xml:space="preserve">
+    <value>tabStan</value>
+  </data>
+  <data name="&gt;&gt;cboxCurrentSensor.Name" xml:space="preserve">
+    <value>cboxCurrentSensor</value>
+  </data>
+  <data name="label25.Size" type="System.Drawing.Size, System.Drawing">
+    <value>201, 31</value>
+  </data>
+  <data name="&gt;&gt;lblCountsPerDegree.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblMaxSteerAngle.Name" xml:space="preserve">
+    <value>lblMaxSteerAngle</value>
+  </data>
+  <data name="&gt;&gt;lblLookAheadMult.Parent" xml:space="preserve">
+    <value>tabInt</value>
+  </data>
+  <data name="lblLookAhead.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 51</value>
+  </data>
+  <data name="label37.Text" xml:space="preserve">
+    <value>Reset Page To Defaults</value>
+  </data>
+  <data name="hsbarIntegralPurePursuit.Location" type="System.Drawing.Point, System.Drawing">
+    <value>68, 289</value>
+  </data>
+  <data name="label3.TabIndex" type="System.Int32, mscorlib">
+    <value>298</value>
+  </data>
+  <data name="cboxDanfoss.TabIndex" type="System.Int32, mscorlib">
+    <value>507</value>
+  </data>
+  <data name="lblHeadingErrorGain.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 18pt</value>
+  </data>
+  <data name="btnZeroWAS.Location" type="System.Drawing.Point, System.Drawing">
+    <value>132, 19</value>
+  </data>
+  <data name="cboxSteerEnable.Items2" xml:space="preserve">
+    <value>Button</value>
+  </data>
+  <data name="label37.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 0, 6, 0</value>
+  </data>
+  <data name="label14.Text" xml:space="preserve">
+    <value>Or +5</value>
+  </data>
+  <data name="$this.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>960, 720</value>
+  </data>
+  <data name="&gt;&gt;btnZeroWAS.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>107, 66</value>
+  </data>
+  <data name="&gt;&gt;lblActualSteerAngleUpper.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;hsbarHeadingErrorGain.Type" xml:space="preserve">
+    <value>System.Windows.Forms.HScrollBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label7.Name" xml:space="preserve">
+    <value>label7</value>
+  </data>
+  <data name="label8.TabIndex" type="System.Int32, mscorlib">
+    <value>328</value>
+  </data>
+  <data name="label5.Text" xml:space="preserve">
+    <value>Heading</value>
+  </data>
+  <data name="lblCalcSteerAngleInner.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;lblIntegralPercent.Name" xml:space="preserve">
+    <value>lblIntegralPercent</value>
+  </data>
+  <data name="tabControl1.TabIndex" type="System.Int32, mscorlib">
+    <value>347</value>
+  </data>
+  <data name="label63.Text" xml:space="preserve">
+    <value>Motor Driver</value>
+  </data>
+  <data name="&gt;&gt;label13.Name" xml:space="preserve">
+    <value>label13</value>
+  </data>
+  <data name="&gt;&gt;pbarLeft.Parent" xml:space="preserve">
+    <value>tabSteer</value>
+  </data>
+  <data name="btnFreeDriveZero.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt, style=Bold</value>
+  </data>
+  <data name="lblStanleyGain.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 18pt</value>
+  </data>
+  <data name="cboxConv.Items" xml:space="preserve">
+    <value>Single</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>93, 23</value>
+  </data>
+  <data name="&gt;&gt;label3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="button2.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="&gt;&gt;cboxXY.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="lblHoldLookAhead.TabIndex" type="System.Int32, mscorlib">
+    <value>355</value>
+  </data>
+  <data name="&gt;&gt;hsbarLookAheadMult.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;hsbarIntegral.Parent" xml:space="preserve">
+    <value>tabStan</value>
+  </data>
+  <data name="&gt;&gt;pboxSendSteer.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label24.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 12pt</value>
+  </data>
+  <data name="chkInvertSteer.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="label14.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left</value>
+  </data>
+  <data name="pbarLeft.Location" type="System.Drawing.Point, System.Drawing">
+    <value>11, 6</value>
+  </data>
+  <data name="cboxCurrentSensor.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt, style=Bold</value>
+  </data>
+  <data name="lblSteerAngle.Size" type="System.Drawing.Size, System.Drawing">
+    <value>70, 23</value>
+  </data>
+  <data name="&gt;&gt;label23.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;hsbarAckerman.Type" xml:space="preserve">
+    <value>System.Windows.Forms.HScrollBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label30.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="lblPureIntegral.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 18pt</value>
+  </data>
+  <data name="label25.TabIndex" type="System.Int32, mscorlib">
+    <value>347</value>
+  </data>
+  <data name="label11.Location" type="System.Drawing.Point, System.Drawing">
+    <value>133, 5</value>
+  </data>
+  <data name="tabStan.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 52</value>
+  </data>
+  <data name="&gt;&gt;label14.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="chkInvertSteer.Location" type="System.Drawing.Point, System.Drawing">
+    <value>588, 147</value>
+  </data>
+  <data name="label11.Text" xml:space="preserve">
+    <value>Act:</value>
+  </data>
+  <data name="&gt;&gt;label5.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="lblCalcSteerAngleInner.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt, style=Bold</value>
+  </data>
+  <data name="tabControl1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 0</value>
+  </data>
+  <data name="btnFreeDrive.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 12pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;label32.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="hsbarAckerman.Location" type="System.Drawing.Point, System.Drawing">
+    <value>65, 228</value>
+  </data>
+  <data name="hsbarHeadingErrorGain.Location" type="System.Drawing.Point, System.Drawing">
+    <value>68, 170</value>
+  </data>
+  <data name="&gt;&gt;hsbarSensor.Name" xml:space="preserve">
+    <value>hsbarSensor</value>
+  </data>
+  <data name="&gt;&gt;cboxDanfoss.ZOrder" xml:space="preserve">
+    <value>34</value>
+  </data>
+  <data name="&gt;&gt;label61.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="cboxPressureSensor.Size" type="System.Drawing.Size, System.Drawing">
+    <value>114, 78</value>
+  </data>
+  <data name="&gt;&gt;label9.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="lblSteerAngleSensorZero.Text" xml:space="preserve">
+    <value>-55.88</value>
+  </data>
+  <data name="&gt;&gt;label25.Name" xml:space="preserve">
+    <value>label25</value>
+  </data>
+  <data name="hsbarStanleyGain.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 30</value>
+  </data>
+  <data name="lblDiameter.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="lblPWMDisplay.Location" type="System.Drawing.Point, System.Drawing">
+    <value>78, 81</value>
+  </data>
+  <data name="&gt;&gt;lblAckerman.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>133, 19</value>
+  </data>
+  <data name="&gt;&gt;lblAckerman.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label55.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="labelCurrentTurnSensor.Text" xml:space="preserve">
+    <value>Current Turn Sensor</value>
+  </data>
+  <data name="lblAckerman.Size" type="System.Drawing.Size, System.Drawing">
+    <value>55, 35</value>
+  </data>
+  <data name="lblSideHillComp.Location" type="System.Drawing.Point, System.Drawing">
+    <value>421, 512</value>
+  </data>
+  <data name="chkInvertSteer.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lblSideHillComp.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="cboxSteerEnable.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 3, 2, 3</value>
+  </data>
+  <data name="&gt;&gt;label10.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="hsbarProportionalGain.Location" type="System.Drawing.Point, System.Drawing">
+    <value>68, 89</value>
+  </data>
+  <data name="&gt;&gt;hsbarLookAhead.Type" xml:space="preserve">
+    <value>System.Windows.Forms.HScrollBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;hsbarMaxSteerAngle.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="label30.Text" xml:space="preserve">
+    <value>Invert WAS</value>
+  </data>
+  <data name="&gt;&gt;label12.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblError.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;label11.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;chkInvertWAS.Name" xml:space="preserve">
+    <value>chkInvertWAS</value>
+  </data>
+  <data name="chkInvertWAS.Location" type="System.Drawing.Point, System.Drawing">
+    <value>588, 21</value>
+  </data>
+  <data name="tabControl1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 12pt</value>
+  </data>
+  <data name="lblSteerAngle.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left</value>
+  </data>
+  <data name="lblCountsPerDegree.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 18pt</value>
+  </data>
+  <data name="nudMaxCounts.Size" type="System.Drawing.Size, System.Drawing">
+    <value>107, 52</value>
+  </data>
+  <data name="&gt;&gt;btnFreeDrive.Name" xml:space="preserve">
+    <value>btnFreeDrive</value>
+  </data>
+  <data name="&gt;&gt;btnFreeDriveZero.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="label55.Text" xml:space="preserve">
+    <value>Danfoss</value>
+  </data>
+  <data name="&gt;&gt;tabInt.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lblCountsPerDegree.TabIndex" type="System.Int32, mscorlib">
+    <value>308</value>
+  </data>
+  <data name="lblPWMDisplay.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left</value>
+  </data>
+  <data name="&gt;&gt;chkSteerInvertRelays.ZOrder" xml:space="preserve">
+    <value>35</value>
+  </data>
+  <data name="btnStartSA.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="lblPercentFS.Text" xml:space="preserve">
+    <value>0%</value>
+  </data>
+  <data name="label13.TabIndex" type="System.Int32, mscorlib">
+    <value>321</value>
+  </data>
+  <data name="&gt;&gt;btnSendSteerConfigPGN.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="btnFreeDrive.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 22</value>
+  </data>
+  <data name="label30.Location" type="System.Drawing.Point, System.Drawing">
+    <value>591, 4</value>
+  </data>
+  <data name="&gt;&gt;hsbarIntegral.Type" xml:space="preserve">
+    <value>System.Windows.Forms.HScrollBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;hsbarLookAhead.Parent" xml:space="preserve">
+    <value>tabInt</value>
+  </data>
+  <data name="label16.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomCenter</value>
+  </data>
+  <data name="&gt;&gt;cboxConv.ZOrder" xml:space="preserve">
+    <value>25</value>
+  </data>
+  <data name="&gt;&gt;labelEncoder.Name" xml:space="preserve">
+    <value>labelEncoder</value>
+  </data>
+  <data name="label2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;timer1.Name" xml:space="preserve">
+    <value>timer1</value>
+  </data>
+  <data name="&gt;&gt;label20.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label64.Location" type="System.Drawing.Point, System.Drawing">
+    <value>740, 96</value>
+  </data>
+  <data name="btnStartSA.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left</value>
+  </data>
+  <data name="cboxDanfoss.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>Yes</value>
+  </data>
+  <data name="&gt;&gt;labelCurrentTurnSensor.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;hsbarProportionalGain.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="hsbarMinPWM.Size" type="System.Drawing.Size, System.Drawing">
+    <value>202, 30</value>
+  </data>
+  <data name="cboxEncoder.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>Yes</value>
+  </data>
+  <data name="label15.Size" type="System.Drawing.Size, System.Drawing">
+    <value>136, 19</value>
+  </data>
+  <data name="tabControl1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="btnSteerAngleUp.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 3, 2, 3</value>
+  </data>
+  <data name="&gt;&gt;label32.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label20.TabIndex" type="System.Int32, mscorlib">
+    <value>302</value>
+  </data>
+  <data name="lblCountsPerDegree.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;hsbarSideHillComp.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;lblMaxSteerAngle.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lblPWMDisplay.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt, style=Bold</value>
+  </data>
+  <data name="label21.Location" type="System.Drawing.Point, System.Drawing">
+    <value>74, 32</value>
+  </data>
+  <data name="label29.Text" xml:space="preserve">
+    <value>Invert Relays</value>
+  </data>
+  <data name="cboxSteerEnable.TabIndex" type="System.Int32, mscorlib">
+    <value>498</value>
+  </data>
+  <data name="&gt;&gt;lblError.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;hsbarIntegralPurePursuit.Parent" xml:space="preserve">
+    <value>tabInt</value>
+  </data>
+  <data name="tabStan.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="lblPureIntegral.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="chkInvertWAS.Size" type="System.Drawing.Size, System.Drawing">
+    <value>109, 78</value>
+  </data>
+  <data name="&gt;&gt;tabInt.Name" xml:space="preserve">
+    <value>tabInt</value>
+  </data>
+  <data name="lblError.Location" type="System.Drawing.Point, System.Drawing">
+    <value>286, 5</value>
+  </data>
+  <data name="&gt;&gt;tabControl1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabControl, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lblCalcSteerAngleInner.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left</value>
+  </data>
+  <data name="label3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="btnSendSteerConfigPGN.Size" type="System.Drawing.Size, System.Drawing">
+    <value>103, 62</value>
+  </data>
+  <data name="label7.Text" xml:space="preserve">
+    <value>Counts per Degree</value>
+  </data>
+  <data name="&gt;&gt;lblPureIntegral.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="hsbarLookAheadMult.TabIndex" type="System.Int32, mscorlib">
+    <value>298</value>
+  </data>
+  <data name="label68.Text" xml:space="preserve">
+    <value>Send + Save</value>
+  </data>
+  <data name="label61.Text" xml:space="preserve">
+    <value>Turn Sensor</value>
+  </data>
+  <data name="&gt;&gt;label4.Name" xml:space="preserve">
+    <value>label4</value>
+  </data>
+  <data name="labelEncoder.TabIndex" type="System.Int32, mscorlib">
+    <value>506</value>
+  </data>
+  <data name="btnFreeDriveZero.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cboxCurrentSensor.TabIndex" type="System.Int32, mscorlib">
+    <value>510</value>
+  </data>
+  <data name="tabInt.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="label30.TabIndex" type="System.Int32, mscorlib">
+    <value>515</value>
+  </data>
+  <data name="tabGain.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 52</value>
+  </data>
+  <data name="lblSteerAngleSensorZero.TabIndex" type="System.Int32, mscorlib">
+    <value>298</value>
+  </data>
+  <data name="label7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 19</value>
+  </data>
+  <data name="&gt;&gt;label15.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="label55.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;btnSendSteerConfigPGN.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lblhsbarSensor.Text" xml:space="preserve">
+    <value>0%</value>
+  </data>
+  <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>204, 30</value>
+  </data>
+  <data name="btnFreeDriveZero.TabIndex" type="System.Int32, mscorlib">
+    <value>313</value>
+  </data>
+  <data name="label26.TabIndex" type="System.Int32, mscorlib">
+    <value>348</value>
+  </data>
+  <data name="label17.Size" type="System.Drawing.Size, System.Drawing">
+    <value>89, 19</value>
+  </data>
+  <data name="cboxXY.Items" xml:space="preserve">
+    <value>X</value>
+  </data>
+  <data name="&gt;&gt;hsbarHighSteerPWM.Parent" xml:space="preserve">
+    <value>tabGain</value>
+  </data>
+  <data name="&gt;&gt;cboxPressureSensor.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <metadata name="imageList1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>114, 17</value>
+  </metadata>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>uk</value>
+  </metadata>
+  <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
   <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>59</value>
   </metadata>

@@ -584,11 +584,44 @@
     <EmbeddedResource Include="Forms\FormFlags.uk.resx">
       <DependentUpon>FormFlags.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormGPS.uk.resx">
+      <DependentUpon>FormGPS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormGPSData.uk.resx">
+      <DependentUpon>FormGPSData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormHeadland.uk.resx">
+      <DependentUpon>FormHeadland.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormJob.uk.resx">
+      <DependentUpon>FormJob.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\FormMap.resx">
+      <DependentUpon>FormMap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormMap.uk.resx">
       <DependentUpon>FormMap.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\FormRecordName.resx">
       <DependentUpon>FormRecordName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormRecordName.uk.resx">
+      <DependentUpon>FormRecordName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormSaveAs.uk.resx">
+      <DependentUpon>FormSaveAs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormSaveOrNot.uk.resx">
+      <DependentUpon>FormSaveOrNot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormShiftPos.uk.resx">
+      <DependentUpon>FormShiftPos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormTimedMessage.uk.resx">
+      <DependentUpon>FormTimedMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormWebCam.uk.resx">
+      <DependentUpon>FormWebCam.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Form_About.uk.resx">
       <DependentUpon>Form_About.cs</DependentUpon>
@@ -650,8 +683,17 @@
     <EmbeddedResource Include="Forms\Settings\FormColor.uk.resx">
       <DependentUpon>FormColor.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Settings\FormConfig.uk.resx">
+      <DependentUpon>FormConfig.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\Settings\FormCorrection.resx">
       <DependentUpon>FormCorrection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Settings\FormCorrection.uk.resx">
+      <DependentUpon>FormCorrection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Settings\FormHeadingGraph.uk.resx">
+      <DependentUpon>FormHeadingGraph.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Settings\FormSectionColor.resx">
       <DependentUpon>FormSectionColor.cs</DependentUpon>
@@ -703,11 +745,17 @@
     <EmbeddedResource Include="Forms\FormSaveOrNot.resx">
       <DependentUpon>FormSaveOrNot.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Settings\FormSectionColor.uk.resx">
+      <DependentUpon>FormSectionColor.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\Settings\FormSimCoords.resx">
       <DependentUpon>FormSimCoords.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Guidance\FormSmoothAB.resx">
       <DependentUpon>FormSmoothAB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Settings\FormSimCoords.uk.resx">
+      <DependentUpon>FormSimCoords.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Settings\FormSteer.resx">
       <DependentUpon>FormSteer.cs</DependentUpon>
@@ -715,6 +763,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Settings\FormHeadingGraph.resx">
       <DependentUpon>FormHeadingGraph.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Settings\FormSteer.uk.resx">
+      <DependentUpon>FormSteer.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Settings\FormXTEGraph.resx">
       <DependentUpon>FormXTEGraph.cs</DependentUpon>
