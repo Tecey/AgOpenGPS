@@ -626,6 +626,9 @@
     <EmbeddedResource Include="Forms\Form_About.uk.resx">
       <DependentUpon>Form_About.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Form_First.uk.resx">
+      <DependentUpon>Form_First.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\Form_Help.uk.resx">
       <DependentUpon>Form_Help.cs</DependentUpon>
     </EmbeddedResource>
@@ -638,8 +641,35 @@
     <EmbeddedResource Include="Forms\Form_Keys.uk.resx">
       <DependentUpon>Form_Keys.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Guidance\FormABCurve.uk.resx">
+      <DependentUpon>FormABCurve.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Guidance\FormABDraw.uk.resx">
+      <DependentUpon>FormABDraw.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Guidance\FormABLine.uk.resx">
+      <DependentUpon>FormABLine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Guidance\FormEditAB.uk.resx">
+      <DependentUpon>FormEditAB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Guidance\FormEditCurve.uk.resx">
+      <DependentUpon>FormEditCurve.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\Guidance\FormEnterAB.resx">
       <DependentUpon>FormEnterAB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Guidance\FormEnterAB.uk.resx">
+      <DependentUpon>FormEnterAB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Guidance\FormMakeBndCon.uk.resx">
+      <DependentUpon>FormMakeBndCon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Guidance\FormSmoothAB.uk.resx">
+      <DependentUpon>FormSmoothAB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Guidance\FormTram.uk.resx">
+      <DependentUpon>FormTram.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Pickers\FormColorPicker.resx">
       <DependentUpon>FormColorPicker.cs</DependentUpon>
@@ -653,10 +683,22 @@
     <EmbeddedResource Include="Forms\Inputs\FormKeyboard.resx">
       <DependentUpon>FormKeyboard.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Pickers\FormColorPicker.uk.resx">
+      <DependentUpon>FormColorPicker.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\Pickers\FormDrivePicker.resx">
       <DependentUpon>FormDrivePicker.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Pickers\FormDrivePicker.uk.resx">
+      <DependentUpon>FormDrivePicker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Pickers\FormFilePicker.uk.resx">
+      <DependentUpon>FormFilePicker.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\Pickers\FormRecordPicker.resx">
+      <DependentUpon>FormRecordPicker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Pickers\FormRecordPicker.uk.resx">
       <DependentUpon>FormRecordPicker.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Pickers\FormTouchPick.resx">
@@ -679,6 +721,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Guidance\FormMakeBndCon.resx">
       <DependentUpon>FormMakeBndCon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Pickers\FormTouchPick.uk.resx">
+      <DependentUpon>FormTouchPick.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Settings\FormColor.uk.resx">
       <DependentUpon>FormColor.cs</DependentUpon>
@@ -767,6 +812,12 @@
     <EmbeddedResource Include="Forms\Settings\FormSteer.uk.resx">
       <DependentUpon>FormSteer.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Settings\FormSteerGraph.uk.resx">
+      <DependentUpon>FormSteerGraph.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Settings\FormSteerWiz.uk.resx">
+      <DependentUpon>FormSteerWiz.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\Settings\FormXTEGraph.resx">
       <DependentUpon>FormXTEGraph.cs</DependentUpon>
     </EmbeddedResource>
@@ -787,6 +838,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Settings\FormSteerWiz.resx">
       <DependentUpon>FormSteerWiz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Settings\FormXTEGraph.uk.resx">
+      <DependentUpon>FormXTEGraph.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="gStr.da.resx">
       <Generator>ResXFileCodeGenerator</Generator>

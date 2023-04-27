@@ -117,23 +117,54 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="label9.Size" type="System.Drawing.Size, System.Drawing">
+    <value>168, 25</value>
+  </data>
+  <data name="label9.Text" xml:space="preserve">
+    <value>( +180 до -180 )</value>
+  </data>
+  <data name="label8.Size" type="System.Drawing.Size, System.Drawing">
+    <value>139, 25</value>
+  </data>
+  <data name="label8.Text" xml:space="preserve">
+    <value>( +90 до -90)</value>
+  </data>
   <data name="label1.Text" xml:space="preserve">
     <value>Довгота</value>
   </data>
   <data name="label18.Text" xml:space="preserve">
     <value>Широта</value>
   </data>
-  <data name="label2.Text" xml:space="preserve">
-    <value>Точка А</value>
+  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 76</value>
   </data>
-  <data name="label4.Text" xml:space="preserve">
-    <value>Заголовок</value>
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>135, 34</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>Точка A</value>
+  </data>
+  <data name="btnChooseType.Location" type="System.Drawing.Point, System.Drawing">
+    <value>320, 153</value>
+  </data>
+  <data name="btnChooseType.Size" type="System.Drawing.Size, System.Drawing">
+    <value>226, 53</value>
+  </data>
+  <data name="btnChooseType.Text" xml:space="preserve">
+    <value>AB або A+</value>
+  </data>
+  <data name="label5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 246</value>
+  </data>
+  <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>135, 34</value>
   </data>
   <data name="label5.Text" xml:space="preserve">
     <value>Точка B</value>
   </data>
   <data name="textBox1.Text" xml:space="preserve">
-    <value>Ім'я рядка тут</value>
+    <value>Ім'я лінії тут</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>Введіть AB або A+</value>

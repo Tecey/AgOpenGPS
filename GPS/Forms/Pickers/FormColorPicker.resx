@@ -117,4 +117,700 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>591, 615</value>
+  </data>
+  <data name="&gt;&gt;btn09.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="btnSave.TabIndex" type="System.Int32, mscorlib">
+    <value>215</value>
+  </data>
+  <data name="&gt;&gt;btn07.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;btn08.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btn00.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 47</value>
+  </data>
+  <data name="&gt;&gt;btn13.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="btn01.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="btn02.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="btn12.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 47</value>
+  </data>
+  <data name="&gt;&gt;btn05.Name" xml:space="preserve">
+    <value>btn05</value>
+  </data>
+  <data name="&gt;&gt;btn12.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnNight.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn01.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btn07.TabIndex" type="System.Int32, mscorlib">
+    <value>231</value>
+  </data>
+  <data name="btn01.TabIndex" type="System.Int32, mscorlib">
+    <value>219</value>
+  </data>
+  <data name="&gt;&gt;colorSlider.Type" xml:space="preserve">
+    <value>MechanikaDesign.WinForms.UI.ColorPicker.ColorSliderVertical, ColorPicker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="btn00.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left</value>
+  </data>
+  <data name="btn04.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="btnSave.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 15.75pt</value>
+  </data>
+  <data name="btn00.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 24pt, style=Bold</value>
+  </data>
+  <data name="btnDay.Location" type="System.Drawing.Point, System.Drawing">
+    <value>454, 12</value>
+  </data>
+  <data name="&gt;&gt;btn15.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="chkUse.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 21.75pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;btn05.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="&gt;&gt;btnDay.Name" xml:space="preserve">
+    <value>btnDay</value>
+  </data>
+  <data name="&gt;&gt;chkUse.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="btn10.TabIndex" type="System.Int32, mscorlib">
+    <value>222</value>
+  </data>
+  <data name="&gt;&gt;btn12.Name" xml:space="preserve">
+    <value>btn12</value>
+  </data>
+  <data name="btn00.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="btn04.Location" type="System.Drawing.Point, System.Drawing">
+    <value>318, 30</value>
+  </data>
+  <data name="btn14.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 24pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;btn11.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;btn02.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="btn06.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left</value>
+  </data>
+  <data name="&gt;&gt;btn13.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;colorBox2D.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="btn12.TabIndex" type="System.Int32, mscorlib">
+    <value>226</value>
+  </data>
+  <data name="&gt;&gt;colorSlider.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="btn03.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left</value>
+  </data>
+  <data name="&gt;&gt;btn10.Name" xml:space="preserve">
+    <value>btn10</value>
+  </data>
+  <data name="&gt;&gt;chkUse.Name" xml:space="preserve">
+    <value>chkUse</value>
+  </data>
+  <data name="&gt;&gt;btn15.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;colorSlider.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>FormColorPicker</value>
+  </data>
+  <data name="&gt;&gt;btn00.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btn07.Location" type="System.Drawing.Point, System.Drawing">
+    <value>87, 92</value>
+  </data>
+  <data name="btn09.Location" type="System.Drawing.Point, System.Drawing">
+    <value>241, 92</value>
+  </data>
+  <data name="&gt;&gt;btn06.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="btn07.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 24pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;btn02.Name" xml:space="preserve">
+    <value>btn02</value>
+  </data>
+  <data name="btn11.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 24pt, style=Bold</value>
+  </data>
+  <data name="btnDay.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 24pt, style=Bold</value>
+  </data>
+  <data name="btnNight.Text" xml:space="preserve">
+    <value>Night</value>
+  </data>
+  <data name="btnSave.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btn05.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left</value>
+  </data>
+  <data name="btn05.TabIndex" type="System.Int32, mscorlib">
+    <value>227</value>
+  </data>
+  <data name="btn08.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 24pt, style=Bold</value>
+  </data>
+  <data name="btn09.TabIndex" type="System.Int32, mscorlib">
+    <value>220</value>
+  </data>
+  <data name="btn01.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left</value>
+  </data>
+  <data name="btn05.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 47</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterParent</value>
+  </data>
+  <data name="&gt;&gt;btn12.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;btn03.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btn03.Location" type="System.Drawing.Point, System.Drawing">
+    <value>241, 30</value>
+  </data>
+  <data name="btnNight.TabIndex" type="System.Int32, mscorlib">
+    <value>218</value>
+  </data>
+  <data name="btn15.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="&gt;&gt;chkUse.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btn11.Location" type="System.Drawing.Point, System.Drawing">
+    <value>395, 92</value>
+  </data>
+  <data name="&gt;&gt;btn04.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="btnDay.Text" xml:space="preserve">
+    <value>Day</value>
+  </data>
+  <data name="btn08.Location" type="System.Drawing.Point, System.Drawing">
+    <value>164, 92</value>
+  </data>
+  <data name="btn06.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 47</value>
+  </data>
+  <data name="btn06.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="&gt;&gt;btn09.Name" xml:space="preserve">
+    <value>btn09</value>
+  </data>
+  <data name="btn03.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 24pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;btn13.Name" xml:space="preserve">
+    <value>btn13</value>
+  </data>
+  <data name="&gt;&gt;btn10.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="btn11.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn04.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="btn01.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 47</value>
+  </data>
+  <data name="btn13.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 47</value>
+  </data>
+  <data name="btn09.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left</value>
+  </data>
+  <data name="btnDay.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="&gt;&gt;btn14.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn11.Name" xml:space="preserve">
+    <value>btn11</value>
+  </data>
+  <data name="btn00.TabIndex" type="System.Int32, mscorlib">
+    <value>234</value>
+  </data>
+  <data name="btn10.Location" type="System.Drawing.Point, System.Drawing">
+    <value>318, 92</value>
+  </data>
+  <data name="btn14.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="btnDay.TabIndex" type="System.Int32, mscorlib">
+    <value>217</value>
+  </data>
+  <data name="btn12.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left</value>
+  </data>
+  <data name="chkUse.TabIndex" type="System.Int32, mscorlib">
+    <value>257</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="btn08.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left</value>
+  </data>
+  <data name="&gt;&gt;btn10.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="chkUse.Appearance" type="System.Windows.Forms.Appearance, System.Windows.Forms">
+    <value>Button</value>
+  </data>
+  <data name="btn02.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 47</value>
+  </data>
+  <data name="&gt;&gt;btn04.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btn10.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 24pt, style=Bold</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Color Picker</value>
+  </data>
+  <data name="btn14.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 47</value>
+  </data>
+  <data name="&gt;&gt;btnDay.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="btnNight.Location" type="System.Drawing.Point, System.Drawing">
+    <value>454, 204</value>
+  </data>
+  <data name="btn02.TabIndex" type="System.Int32, mscorlib">
+    <value>221</value>
+  </data>
+  <data name="&gt;&gt;btnSave.Name" xml:space="preserve">
+    <value>btnSave</value>
+  </data>
+  <data name="btn10.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="groupBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 387</value>
+  </data>
+  <data name="btn11.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left</value>
+  </data>
+  <data name="btn08.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 47</value>
+  </data>
+  <data name="chkUse.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btn13.TabIndex" type="System.Int32, mscorlib">
+    <value>228</value>
+  </data>
+  <data name="&gt;&gt;btn01.Name" xml:space="preserve">
+    <value>btn01</value>
+  </data>
+  <data name="btn14.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btn02.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 24pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;btn05.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btn15.Location" type="System.Drawing.Point, System.Drawing">
+    <value>241, 155</value>
+  </data>
+  <data name="btn05.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 24pt, style=Bold</value>
+  </data>
+  <data name="btn06.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 24pt, style=Bold</value>
+  </data>
+  <data name="btn09.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 47</value>
+  </data>
+  <data name="&gt;&gt;btn02.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnNight.Name" xml:space="preserve">
+    <value>btnNight</value>
+  </data>
+  <data name="groupBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>468, 216</value>
+  </data>
+  <data name="btn10.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 47</value>
+  </data>
+  <data name="btn13.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="&gt;&gt;colorBox2D.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;btn01.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btn11.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnNight.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="btn14.TabIndex" type="System.Int32, mscorlib">
+    <value>230</value>
+  </data>
+  <data name="btn06.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 92</value>
+  </data>
+  <data name="&gt;&gt;colorSlider.Name" xml:space="preserve">
+    <value>colorSlider</value>
+  </data>
+  <data name="btn14.Location" type="System.Drawing.Point, System.Drawing">
+    <value>164, 155</value>
+  </data>
+  <data name="&gt;&gt;btn08.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;btn05.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="groupBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>258</value>
+  </data>
+  <data name="&gt;&gt;btn02.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;btn06.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;btn01.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="btnNight.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="&gt;&gt;btn15.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="btn03.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 47</value>
+  </data>
+  <data name="btn07.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left</value>
+  </data>
+  <data name="btn15.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left</value>
+  </data>
+  <data name="&gt;&gt;btn11.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;btn14.Name" xml:space="preserve">
+    <value>btn14</value>
+  </data>
+  <data name="btn12.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="btn09.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 24pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;btn10.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn12.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="colorSlider.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 360</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="groupBox1.Text" xml:space="preserve">
+    <value>Select Preset Color</value>
+  </data>
+  <data name="btn07.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 47</value>
+  </data>
+  <data name="&gt;&gt;btnDay.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btn13.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 24pt, style=Bold</value>
+  </data>
+  <data name="btn12.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 24pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;colorBox2D.Name" xml:space="preserve">
+    <value>colorBox2D</value>
+  </data>
+  <data name="btn10.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left</value>
+  </data>
+  <data name="btnNight.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 24pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;chkUse.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn06.Name" xml:space="preserve">
+    <value>btn06</value>
+  </data>
+  <data name="colorBox2D.TabIndex" type="System.Int32, mscorlib">
+    <value>260</value>
+  </data>
+  <data name="btn01.Location" type="System.Drawing.Point, System.Drawing">
+    <value>87, 30</value>
+  </data>
+  <data name="&gt;&gt;btnNight.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btn04.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 24pt, style=Bold</value>
+  </data>
+  <data name="btn15.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 24pt, style=Bold</value>
+  </data>
+  <data name="btn11.TabIndex" type="System.Int32, mscorlib">
+    <value>224</value>
+  </data>
+  <data name="colorBox2D.Size" type="System.Drawing.Size, System.Drawing">
+    <value>360, 360</value>
+  </data>
+  <data name="&gt;&gt;btn03.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="btn13.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left</value>
+  </data>
+  <data name="btnSave.Size" type="System.Drawing.Size, System.Drawing">
+    <value>71, 62</value>
+  </data>
+  <data name="btn13.Location" type="System.Drawing.Point, System.Drawing">
+    <value>87, 155</value>
+  </data>
+  <data name="&gt;&gt;btn03.Name" xml:space="preserve">
+    <value>btn03</value>
+  </data>
+  <data name="btn09.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="chkUse.Size" type="System.Drawing.Size, System.Drawing">
+    <value>79, 73</value>
+  </data>
+  <data name="&gt;&gt;btn04.Name" xml:space="preserve">
+    <value>btn04</value>
+  </data>
+  <data name="colorSlider.TabIndex" type="System.Int32, mscorlib">
+    <value>261</value>
+  </data>
+  <data name="&gt;&gt;btn08.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="chkUse.Location" type="System.Drawing.Point, System.Drawing">
+    <value>495, 428</value>
+  </data>
+  <data name="&gt;&gt;btn03.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;btn00.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;btn07.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnSave.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="btn15.TabIndex" type="System.Int32, mscorlib">
+    <value>232</value>
+  </data>
+  <data name="btn07.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btn05.Location" type="System.Drawing.Point, System.Drawing">
+    <value>395, 30</value>
+  </data>
+  <data name="btn05.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="btn11.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 47</value>
+  </data>
+  <data name="&gt;&gt;btnSave.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btn15.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 47</value>
+  </data>
+  <data name="&gt;&gt;colorBox2D.Type" xml:space="preserve">
+    <value>MechanikaDesign.WinForms.UI.ColorPicker.ColorBox2D, ColorPicker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="chkUse.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="btn02.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left</value>
+  </data>
+  <data name="btnSave.Location" type="System.Drawing.Point, System.Drawing">
+    <value>503, 532</value>
+  </data>
+  <data name="&gt;&gt;btn13.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn14.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="groupBox1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 11.25pt, style=Bold</value>
+  </data>
+  <data name="btn02.Location" type="System.Drawing.Point, System.Drawing">
+    <value>164, 30</value>
+  </data>
+  <data name="&gt;&gt;btn08.Name" xml:space="preserve">
+    <value>btn08</value>
+  </data>
+  <data name="&gt;&gt;btn00.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Name" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="btn03.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="btn12.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 155</value>
+  </data>
+  <data name="btnDay.Size" type="System.Drawing.Size, System.Drawing">
+    <value>120, 162</value>
+  </data>
+  <data name="&gt;&gt;btnSave.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="btn01.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 24pt, style=Bold</value>
+  </data>
+  <data name="btn06.TabIndex" type="System.Int32, mscorlib">
+    <value>229</value>
+  </data>
+  <data name="btn08.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="btn00.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 30</value>
+  </data>
+  <data name="&gt;&gt;btn15.Name" xml:space="preserve">
+    <value>btn15</value>
+  </data>
+  <data name="colorBox2D.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 6</value>
+  </data>
+  <data name="btn04.TabIndex" type="System.Int32, mscorlib">
+    <value>225</value>
+  </data>
+  <data name="btn04.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left</value>
+  </data>
+  <data name="btn08.TabIndex" type="System.Int32, mscorlib">
+    <value>233</value>
+  </data>
+  <data name="&gt;&gt;btn09.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="btnNight.Size" type="System.Drawing.Size, System.Drawing">
+    <value>120, 162</value>
+  </data>
+  <data name="&gt;&gt;btn00.Name" xml:space="preserve">
+    <value>btn00</value>
+  </data>
+  <data name="&gt;&gt;btn07.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;btn14.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;btnDay.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="colorSlider.Location" type="System.Drawing.Point, System.Drawing">
+    <value>371, 6</value>
+  </data>
+  <data name="&gt;&gt;btn06.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btn03.TabIndex" type="System.Int32, mscorlib">
+    <value>223</value>
+  </data>
+  <data name="&gt;&gt;btn07.Name" xml:space="preserve">
+    <value>btn07</value>
+  </data>
+  <data name="btn04.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 47</value>
+  </data>
+  <data name="&gt;&gt;btn09.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>uk</value>
+  </metadata>
 </root>
