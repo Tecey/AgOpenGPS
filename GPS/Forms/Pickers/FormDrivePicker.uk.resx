@@ -117,17 +117,15 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="bntOK.Text" xml:space="preserve">
-    <value>Наразі</value>
-  </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="btnSave.Size" type="System.Drawing.Size, System.Drawing">
-    <value>93, 111</value>
+  <data name="btnOpenExistingLv.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14pt</value>
   </data>
-  <data name="btnSave.Text" xml:space="preserve">
-    <value>До файлу</value>
+  <data name="btnOpenExistingLv.Text" xml:space="preserve">
+    <value>Використовувати 
+вибране</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Плавна крива AB</value>
+    <value>Вибір файлу форми</value>
   </data>
 </root>

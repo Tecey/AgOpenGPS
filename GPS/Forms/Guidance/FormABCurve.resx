@@ -117,4 +117,931 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>819, 689</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="label2.TabIndex" type="System.Int32, mscorlib">
+    <value>148</value>
+  </data>
+  <data name="&gt;&gt;label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="panelAPlus.TabIndex" type="System.Int32, mscorlib">
+    <value>436</value>
+  </data>
+  <data name="&gt;&gt;label3.Parent" xml:space="preserve">
+    <value>panelEditName</value>
+  </data>
+  <data name="btnPausePlay.TabIndex" type="System.Int32, mscorlib">
+    <value>140</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnListUse.Size" type="System.Drawing.Size, System.Drawing">
+    <value>71, 63</value>
+  </data>
+  <data name="btnAddTime.Size" type="System.Drawing.Size, System.Drawing">
+    <value>68, 69</value>
+  </data>
+  <data name="&gt;&gt;chField.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnPausePlay.Name" xml:space="preserve">
+    <value>btnPausePlay</value>
+  </data>
+  <data name="btnEditName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>71, 63</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="btnListUse.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="&gt;&gt;panelAPlus.Name" xml:space="preserve">
+    <value>panelAPlus</value>
+  </data>
+  <data name="btnAddTimeEdit.Size" type="System.Drawing.Size, System.Drawing">
+    <value>68, 69</value>
+  </data>
+  <data name="btnAPoint.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnBPoint.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="&gt;&gt;btnNewCurve.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;btnSaveEditName.Name" xml:space="preserve">
+    <value>btnSaveEditName</value>
+  </data>
+  <data name="&gt;&gt;btnListDelete.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="textBox2.MaxLength" type="System.Int32, mscorlib">
+    <value>100</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="panelName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>241, 313</value>
+  </data>
+  <data name="&gt;&gt;panelPick.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="btnSwapAB.Size" type="System.Drawing.Size, System.Drawing">
+    <value>71, 63</value>
+  </data>
+  <data name="btnAddTime.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 12pt, style=Bold</value>
+  </data>
+  <data name="textBox2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="&gt;&gt;btnCancelMain.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="chField.Text" xml:space="preserve">
+    <value>CurveLines</value>
+  </data>
+  <data name="&gt;&gt;btnCancel_Name.Parent" xml:space="preserve">
+    <value>panelName</value>
+  </data>
+  <data name="btnCancelMain.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btnBPoint.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnCancelEditName.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt</value>
+  </data>
+  <data name="btnSwapAB.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt, style=Bold</value>
+  </data>
+  <data name="btnAPoint.Location" type="System.Drawing.Point, System.Drawing">
+    <value>20, 60</value>
+  </data>
+  <data name="btnListDelete.TabIndex" type="System.Int32, mscorlib">
+    <value>142</value>
+  </data>
+  <data name="btnListDelete.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 241</value>
+  </data>
+  <data name="&gt;&gt;btnAddTime.Name" xml:space="preserve">
+    <value>btnAddTime</value>
+  </data>
+  <data name="&gt;&gt;btnCancel_Name.Name" xml:space="preserve">
+    <value>btnCancel_Name</value>
+  </data>
+  <data name="&gt;&gt;btnCancel_Name.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="textBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>145</value>
+  </data>
+  <data name="btnCancelCurve.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="btnListUse.TabIndex" type="System.Int32, mscorlib">
+    <value>144</value>
+  </data>
+  <data name="btnCancel_Name.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 226</value>
+  </data>
+  <data name="&gt;&gt;btnListUse.Parent" xml:space="preserve">
+    <value>panelPick</value>
+  </data>
+  <data name="&gt;&gt;btnAPoint.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="btnCancelEditName.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnDuplicate.Size" type="System.Drawing.Size, System.Drawing">
+    <value>71, 63</value>
+  </data>
+  <data name="btnCancelCurve.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnAddTime.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnListUse.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomCenter</value>
+  </data>
+  <data name="btnPausePlay.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Right</value>
+  </data>
+  <data name="&gt;&gt;btnBPoint.Name" xml:space="preserve">
+    <value>btnBPoint</value>
+  </data>
+  <data name="lblCurveExists.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;btnNewCurve.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnCancelCurve.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Right</value>
+  </data>
+  <data name="label2.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Right</value>
+  </data>
+  <data name="lblCurveExists.Location" type="System.Drawing.Point, System.Drawing">
+    <value>29, 34</value>
+  </data>
+  <data name="&gt;&gt;btnAddTime.Parent" xml:space="preserve">
+    <value>panelName</value>
+  </data>
+  <data name="&gt;&gt;btnAddTimeEdit.Name" xml:space="preserve">
+    <value>btnAddTimeEdit</value>
+  </data>
+  <data name="btnAdd.Size" type="System.Drawing.Size, System.Drawing">
+    <value>88, 70</value>
+  </data>
+  <data name="lvLines.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 15.75pt</value>
+  </data>
+  <data name="&gt;&gt;btnAdd.Name" xml:space="preserve">
+    <value>btnAdd</value>
+  </data>
+  <data name="&gt;&gt;btnListDelete.Name" xml:space="preserve">
+    <value>btnListDelete</value>
+  </data>
+  <data name="btnPausePlay.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 12pt</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>+</value>
+  </data>
+  <data name="btnAddTime.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomCenter</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>FormABCurve</value>
+  </data>
+  <data name="btnDuplicate.TabIndex" type="System.Int32, mscorlib">
+    <value>424</value>
+  </data>
+  <data name="textBox1.MaxLength" type="System.Int32, mscorlib">
+    <value>100</value>
+  </data>
+  <data name="panelAPlus.Location" type="System.Drawing.Point, System.Drawing">
+    <value>273, 360</value>
+  </data>
+  <data name="&gt;&gt;panelName.Name" xml:space="preserve">
+    <value>panelName</value>
+  </data>
+  <data name="&gt;&gt;panelPick.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnListDelete.Parent" xml:space="preserve">
+    <value>panelPick</value>
+  </data>
+  <data name="&gt;&gt;btnCancelCurve.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btnAPoint.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnAddTimeEdit.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomCenter</value>
+  </data>
+  <data name="&gt;&gt;btnCancelMain.Parent" xml:space="preserve">
+    <value>panelPick</value>
+  </data>
+  <data name="btnListDelete.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 11.25pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;btnBPoint.Parent" xml:space="preserve">
+    <value>panelAPlus</value>
+  </data>
+  <data name="btnNewCurve.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 12pt, style=Bold</value>
+  </data>
+  <data name="btnNewCurve.Location" type="System.Drawing.Point, System.Drawing">
+    <value>242, 241</value>
+  </data>
+  <data name="&gt;&gt;btnCancelEditName.Parent" xml:space="preserve">
+    <value>panelEditName</value>
+  </data>
+  <data name="&gt;&gt;btnSaveEditName.Parent" xml:space="preserve">
+    <value>panelEditName</value>
+  </data>
+  <data name="btnDuplicate.Location" type="System.Drawing.Point, System.Drawing">
+    <value>366, 8</value>
+  </data>
+  <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>48, 154</value>
+  </data>
+  <data name="btnCancel_Name.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btnCancelMain.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterParent</value>
+  </data>
+  <data name="textBox2.Multiline" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;panelAPlus.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnAddTime.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="label3.Text" xml:space="preserve">
+    <value>+</value>
+  </data>
+  <data name="btnCancelCurve.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="textBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 37</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>48, 154</value>
+  </data>
+  <data name="&gt;&gt;textBox1.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="btnListUse.Location" type="System.Drawing.Point, System.Drawing">
+    <value>365, 239</value>
+  </data>
+  <data name="label2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;btnBPoint.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnEditName.TabIndex" type="System.Int32, mscorlib">
+    <value>425</value>
+  </data>
+  <data name="&gt;&gt;btnSwapAB.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>33, 29</value>
+  </data>
+  <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;label3.Name" xml:space="preserve">
+    <value>label3</value>
+  </data>
+  <data name="&gt;&gt;btnDuplicate.Parent" xml:space="preserve">
+    <value>panelPick</value>
+  </data>
+  <data name="btnNewCurve.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="&gt;&gt;label2.Name" xml:space="preserve">
+    <value>label2</value>
+  </data>
+  <data name="&gt;&gt;btnAdd.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="panelName.Location" type="System.Drawing.Point, System.Drawing">
+    <value>11, 360</value>
+  </data>
+  <data name="&gt;&gt;btnEditName.Parent" xml:space="preserve">
+    <value>panelPick</value>
+  </data>
+  <data name="btnDuplicate.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 12pt, style=Bold</value>
+  </data>
+  <data name="panelEditName.Location" type="System.Drawing.Point, System.Drawing">
+    <value>528, 360</value>
+  </data>
+  <data name="&gt;&gt;btnSwapAB.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnEditName.Name" xml:space="preserve">
+    <value>btnEditName</value>
+  </data>
+  <data name="btnCancel_Name.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnAddTime.TabIndex" type="System.Int32, mscorlib">
+    <value>150</value>
+  </data>
+  <data name="&gt;&gt;lblCurveExists.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="btnSaveEditName.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 12pt, style=Bold</value>
+  </data>
+  <data name="btnBPoint.Size" type="System.Drawing.Size, System.Drawing">
+    <value>87, 98</value>
+  </data>
+  <data name="label3.TabIndex" type="System.Int32, mscorlib">
+    <value>424</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>AB Curve</value>
+  </data>
+  <data name="&gt;&gt;textBox2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnAddTimeEdit.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 12pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;lblCurveExists.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox2.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="btnEditName.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btnEditName.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;btnNewCurve.Parent" xml:space="preserve">
+    <value>panelPick</value>
+  </data>
+  <data name="btnAdd.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 12pt, style=Bold</value>
+  </data>
+  <data name="btnSaveEditName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>88, 70</value>
+  </data>
+  <data name="btnCancelMain.Location" type="System.Drawing.Point, System.Drawing">
+    <value>125, 241</value>
+  </data>
+  <data name="&gt;&gt;btnAdd.Parent" xml:space="preserve">
+    <value>panelName</value>
+  </data>
+  <data name="&gt;&gt;lvLines.Parent" xml:space="preserve">
+    <value>panelPick</value>
+  </data>
+  <data name="btnCancelMain.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="btnAddTime.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="&gt;&gt;btnBPoint.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;btnAddTimeEdit.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnCancelEditName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>88, 70</value>
+  </data>
+  <data name="&gt;&gt;btnCancelCurve.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chField.Name" xml:space="preserve">
+    <value>chField</value>
+  </data>
+  <data name="btnAddTimeEdit.Location" type="System.Drawing.Point, System.Drawing">
+    <value>87, 133</value>
+  </data>
+  <data name="btnSwapAB.TabIndex" type="System.Int32, mscorlib">
+    <value>426</value>
+  </data>
+  <data name="&gt;&gt;panelAPlus.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="panelEditName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>241, 313</value>
+  </data>
+  <data name="$this.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="btnAPoint.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="label3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 18pt, style=Bold</value>
+  </data>
+  <data name="lblCurveExists.TabIndex" type="System.Int32, mscorlib">
+    <value>87</value>
+  </data>
+  <data name="btnListUse.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="&gt;&gt;lblCurveExists.Parent" xml:space="preserve">
+    <value>panelAPlus</value>
+  </data>
+  <data name="btnPausePlay.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;btnCancelEditName.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblCurveExists.Name" xml:space="preserve">
+    <value>lblCurveExists</value>
+  </data>
+  <data name="btnEditName.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 12pt, style=Bold</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>424</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Name" xml:space="preserve">
+    <value>textBox1</value>
+  </data>
+  <data name="btnListDelete.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomCenter</value>
+  </data>
+  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 18pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;btnEditName.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="lvLines.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="&gt;&gt;btnPausePlay.Parent" xml:space="preserve">
+    <value>panelAPlus</value>
+  </data>
+  <data name="btnCancelMain.Size" type="System.Drawing.Size, System.Drawing">
+    <value>71, 63</value>
+  </data>
+  <data name="textBox2.TabIndex" type="System.Int32, mscorlib">
+    <value>145</value>
+  </data>
+  <data name="&gt;&gt;btnDuplicate.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;lvLines.Name" xml:space="preserve">
+    <value>lvLines</value>
+  </data>
+  <data name="btnAPoint.Size" type="System.Drawing.Size, System.Drawing">
+    <value>87, 98</value>
+  </data>
+  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
+    <value>panelAPlus</value>
+  </data>
+  <data name="btnSaveEditName.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>panelName</value>
+  </data>
+  <data name="&gt;&gt;btnSwapAB.Parent" xml:space="preserve">
+    <value>panelPick</value>
+  </data>
+  <data name="btnCancelCurve.TabIndex" type="System.Int32, mscorlib">
+    <value>423</value>
+  </data>
+  <data name="&gt;&gt;btnCancelMain.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lvLines.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>Off</value>
+  </data>
+  <data name="btnCancel_Name.Size" type="System.Drawing.Size, System.Drawing">
+    <value>88, 70</value>
+  </data>
+  <data name="btnAddTimeEdit.TabIndex" type="System.Int32, mscorlib">
+    <value>150</value>
+  </data>
+  <data name="btnEditName.Location" type="System.Drawing.Point, System.Drawing">
+    <value>366, 81</value>
+  </data>
+  <data name="btnAdd.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="textBox1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="btnListDelete.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="&gt;&gt;btnCancelMain.Name" xml:space="preserve">
+    <value>btnCancelMain</value>
+  </data>
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>84, 23</value>
+  </data>
+  <data name="btnCancel_Name.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="btnDuplicate.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnNewCurve.Size" type="System.Drawing.Size, System.Drawing">
+    <value>71, 63</value>
+  </data>
+  <data name="&gt;&gt;btnSaveEditName.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;btnAdd.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="chField.Width" type="System.Int32, mscorlib">
+    <value>239</value>
+  </data>
+  <data name="label2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="btnListDelete.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="label3.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblCurveExists.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;btnDuplicate.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnBPoint.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt</value>
+  </data>
+  <data name="lblCurveExists.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="btnCancelEditName.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="&gt;&gt;btnListDelete.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="btnAdd.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;lvLines.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lvLines.TabIndex" type="System.Int32, mscorlib">
+    <value>141</value>
+  </data>
+  <data name="btnSaveEditName.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;btnPausePlay.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="lblCurveExists.Text" xml:space="preserve">
+    <value>&gt; OFF &lt;</value>
+  </data>
+  <data name="&gt;&gt;btnNewCurve.Name" xml:space="preserve">
+    <value>btnNewCurve</value>
+  </data>
+  <data name="&gt;&gt;lvLines.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="btnListDelete.Size" type="System.Drawing.Size, System.Drawing">
+    <value>71, 63</value>
+  </data>
+  <data name="btnListUse.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 11.25pt, style=Bold</value>
+  </data>
+  <data name="btnNewCurve.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomCenter</value>
+  </data>
+  <data name="btnPausePlay.Size" type="System.Drawing.Size, System.Drawing">
+    <value>82, 81</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>29, 7</value>
+  </data>
+  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label2.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="panelPick.TabIndex" type="System.Int32, mscorlib">
+    <value>435</value>
+  </data>
+  <data name="&gt;&gt;panelEditName.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnListUse.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="textBox2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt</value>
+  </data>
+  <data name="btnSaveEditName.TabIndex" type="System.Int32, mscorlib">
+    <value>150</value>
+  </data>
+  <data name="btnSwapAB.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btnAddTime.Location" type="System.Drawing.Point, System.Drawing">
+    <value>87, 133</value>
+  </data>
+  <data name="btnCancelCurve.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt</value>
+  </data>
+  <data name="btnCancelCurve.Location" type="System.Drawing.Point, System.Drawing">
+    <value>151, 210</value>
+  </data>
+  <data name="btnPausePlay.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomCenter</value>
+  </data>
+  <data name="&gt;&gt;btnListUse.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="textBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>204, 77</value>
+  </data>
+  <data name="&gt;&gt;btnListUse.Name" xml:space="preserve">
+    <value>btnListUse</value>
+  </data>
+  <data name="btnAdd.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomCenter</value>
+  </data>
+  <data name="&gt;&gt;btnAPoint.Name" xml:space="preserve">
+    <value>btnAPoint</value>
+  </data>
+  <data name="&gt;&gt;btnCancelCurve.Parent" xml:space="preserve">
+    <value>panelAPlus</value>
+  </data>
+  <data name="panelPick.Size" type="System.Drawing.Size, System.Drawing">
+    <value>442, 313</value>
+  </data>
+  <data name="btnAPoint.TabIndex" type="System.Int32, mscorlib">
+    <value>63</value>
+  </data>
+  <data name="btnSaveEditName.Location" type="System.Drawing.Point, System.Drawing">
+    <value>141, 226</value>
+  </data>
+  <data name="textBox1.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="lblCurveExists.Size" type="System.Drawing.Size, System.Drawing">
+    <value>91, 23</value>
+  </data>
+  <data name="textBox2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 37</value>
+  </data>
+  <data name="&gt;&gt;btnCancel_Name.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;btnAddTime.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="textBox2.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;btnDuplicate.Name" xml:space="preserve">
+    <value>btnDuplicate</value>
+  </data>
+  <data name="btnAPoint.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt</value>
+  </data>
+  <data name="panelPick.Location" type="System.Drawing.Point, System.Drawing">
+    <value>34, 22</value>
+  </data>
+  <data name="&gt;&gt;btnCancelEditName.Name" xml:space="preserve">
+    <value>btnCancelEditName</value>
+  </data>
+  <data name="btnPausePlay.Location" type="System.Drawing.Point, System.Drawing">
+    <value>25, 210</value>
+  </data>
+  <data name="btnListDelete.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnCancelCurve.Size" type="System.Drawing.Size, System.Drawing">
+    <value>82, 81</value>
+  </data>
+  <data name="&gt;&gt;btnCancelCurve.Name" xml:space="preserve">
+    <value>btnCancelCurve</value>
+  </data>
+  <data name="panelName.TabIndex" type="System.Int32, mscorlib">
+    <value>434</value>
+  </data>
+  <data name="&gt;&gt;panelAPlus.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>Status: </value>
+  </data>
+  <data name="btnAddTimeEdit.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblCurveExists.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Right</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="&gt;&gt;btnCancelEditName.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;panelEditName.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="btnCancel_Name.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt</value>
+  </data>
+  <data name="btnNewCurve.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnCancelEditName.TabIndex" type="System.Int32, mscorlib">
+    <value>423</value>
+  </data>
+  <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>33, 29</value>
+  </data>
+  <data name="&gt;&gt;btnSwapAB.Name" xml:space="preserve">
+    <value>btnSwapAB</value>
+  </data>
+  <data name="textBox2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>204, 77</value>
+  </data>
+  <data name="lvLines.Size" type="System.Drawing.Size, System.Drawing">
+    <value>350, 230</value>
+  </data>
+  <data name="&gt;&gt;panelName.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="btnPausePlay.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnPausePlay.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="&gt;&gt;btnAddTimeEdit.Parent" xml:space="preserve">
+    <value>panelEditName</value>
+  </data>
+  <data name="btnAPoint.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Right</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnCancelEditName.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="&gt;&gt;panelEditName.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;textBox2.Parent" xml:space="preserve">
+    <value>panelEditName</value>
+  </data>
+  <data name="lvLines.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 6</value>
+  </data>
+  <data name="btnListUse.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;btnPausePlay.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="lvLines.LabelWrap" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;btnAddTimeEdit.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;panelName.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnAdd.TabIndex" type="System.Int32, mscorlib">
+    <value>150</value>
+  </data>
+  <data name="btnCancelMain.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;panelPick.Name" xml:space="preserve">
+    <value>panelPick</value>
+  </data>
+  <data name="btnSwapAB.Location" type="System.Drawing.Point, System.Drawing">
+    <value>366, 154</value>
+  </data>
+  <data name="btnCancelMain.TabIndex" type="System.Int32, mscorlib">
+    <value>422</value>
+  </data>
+  <data name="btnCancelEditName.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 226</value>
+  </data>
+  <data name="textBox1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt</value>
+  </data>
+  <data name="btnBPoint.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Right</value>
+  </data>
+  <data name="btnAddTimeEdit.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="panelAPlus.Size" type="System.Drawing.Size, System.Drawing">
+    <value>241, 313</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Parent" xml:space="preserve">
+    <value>panelName</value>
+  </data>
+  <data name="btnBPoint.Location" type="System.Drawing.Point, System.Drawing">
+    <value>146, 60</value>
+  </data>
+  <data name="btnDuplicate.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="&gt;&gt;panelEditName.Name" xml:space="preserve">
+    <value>panelEditName</value>
+  </data>
+  <data name="&gt;&gt;btnEditName.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnBPoint.TabIndex" type="System.Int32, mscorlib">
+    <value>64</value>
+  </data>
+  <data name="btnCancel_Name.TabIndex" type="System.Int32, mscorlib">
+    <value>423</value>
+  </data>
+  <data name="&gt;&gt;btnAPoint.Parent" xml:space="preserve">
+    <value>panelAPlus</value>
+  </data>
+  <data name="&gt;&gt;panelName.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="textBox1.Multiline" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;btnSaveEditName.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="panelEditName.TabIndex" type="System.Int32, mscorlib">
+    <value>437</value>
+  </data>
+  <data name="btnSaveEditName.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomCenter</value>
+  </data>
+  <data name="btnNewCurve.TabIndex" type="System.Int32, mscorlib">
+    <value>150</value>
+  </data>
+  <data name="&gt;&gt;panelPick.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;textBox2.Name" xml:space="preserve">
+    <value>textBox2</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnAdd.Location" type="System.Drawing.Point, System.Drawing">
+    <value>141, 226</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>uk</value>
+  </metadata>
 </root>

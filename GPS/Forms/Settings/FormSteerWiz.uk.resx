@@ -1,0 +1,1413 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="lblError.Location" type="System.Drawing.Point, System.Drawing">
+    <value>382, 84</value>
+  </data>
+  <data name="label9.Location" type="System.Drawing.Point, System.Drawing">
+    <value>543, 95</value>
+  </data>
+  <data name="label9.Text" xml:space="preserve">
+    <value>ШІМ:</value>
+  </data>
+  <data name="label11.Text" xml:space="preserve">
+    <value>ДКП:</value>
+  </data>
+  <data name="label12.Location" type="System.Drawing.Point, System.Drawing">
+    <value>180, 2</value>
+  </data>
+  <data name="label12.Size" type="System.Drawing.Size, System.Drawing">
+    <value>105, 33</value>
+  </data>
+  <data name="label12.Text" xml:space="preserve">
+    <value>Задано:</value>
+  </data>
+  <data name="label13.Location" type="System.Drawing.Point, System.Drawing">
+    <value>260, 84</value>
+  </data>
+  <data name="label13.Size" type="System.Drawing.Size, System.Drawing">
+    <value>124, 33</value>
+  </data>
+  <data name="label13.Text" xml:space="preserve">
+    <value>Помилка:</value>
+  </data>
+  <data name="label8.Location" type="System.Drawing.Point, System.Drawing">
+    <value>307, 155</value>
+  </data>
+  <data name="label8.Size" type="System.Drawing.Size, System.Drawing">
+    <value>147, 25</value>
+  </data>
+  <data name="label8.Text" xml:space="preserve">
+    <value>Кут повороту:</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>359, 188</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>95, 25</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Діаметр:</value>
+  </data>
+  <data name="lblCalcSteerAngleInner.Location" type="System.Drawing.Point, System.Drawing">
+    <value>481, 155</value>
+  </data>
+  <data name="lblDiameter.Location" type="System.Drawing.Point, System.Drawing">
+    <value>481, 188</value>
+  </data>
+  <data name="pbarSensor.Location" type="System.Drawing.Point, System.Drawing">
+    <value>37, 293</value>
+  </data>
+  <data name="lblPercentFS.Location" type="System.Drawing.Point, System.Drawing">
+    <value>336, 293</value>
+  </data>
+  <data name="imageList1.ImageStream" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFdTeXN0ZW0uV2luZG93cy5Gb3JtcywgVmVyc2lvbj00LjAuMC4w
+        LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODkFAQAAACZTeXN0
+        ZW0uV2luZG93cy5Gb3Jtcy5JbWFnZUxpc3RTdHJlYW1lcgEAAAAERGF0YQcCAgAAAAkDAAAADwMAAADu
+        IQAAAk1TRnQBSQFMAgEBBAEAAZgBAwGYAQMBQgEAASwBAAT/AQkBAAj/AUIBTQE2AQQGAAE2AQQCAAEo
+        AwABCAEBAgABWAMAAQEBAAEIBQABwAFaGAABgAIAAYADAAKAAQABgAMAAYABAAGAAQACgAIAA8ABAAHA
+        AdwBwAEAAfABygGmAQABMwUAATMBAAEzAQABMwEAAjMCAAMWAQADHAEAAyIBAAMpAQADVQEAA00BAANC
+        AQADOQEAAYABfAH/AQACUAH/AQABkwEAAdYBAAH/AewBzAEAAcYB1gHvAQAB1gLnAQABkAGpAa0CAAH/
+        ATMDAAFmAwABmQMAAcwCAAEzAwACMwIAATMBZgIAATMBmQIAATMBzAIAATMB/wIAAWYDAAFmATMCAAJm
+        AgABZgGZAgABZgHMAgABZgH/AgABmQMAAZkBMwIAAZkBZgIAApkCAAGZAcwCAAGZAf8CAAHMAwABzAEz
+        AgABzAFmAgABzAGZAgACzAIAAcwB/wIAAf8BZgIAAf8BmQIAAf8BzAEAATMB/wIAAf8BAAEzAQABMwEA
+        AWYBAAEzAQABmQEAATMBAAHMAQABMwEAAf8BAAH/ATMCAAMzAQACMwFmAQACMwGZAQACMwHMAQACMwH/
+        AQABMwFmAgABMwFmATMBAAEzAmYBAAEzAWYBmQEAATMBZgHMAQABMwFmAf8BAAEzAZkCAAEzAZkBMwEA
+        ATMBmQFmAQABMwKZAQABMwGZAcwBAAEzAZkB/wEAATMBzAIAATMBzAEzAQABMwHMAWYBAAEzAcwBmQEA
+        ATMCzAEAATMBzAH/AQABMwH/ATMBAAEzAf8BZgEAATMB/wGZAQABMwH/AcwBAAEzAv8BAAFmAwABZgEA
+        ATMBAAFmAQABZgEAAWYBAAGZAQABZgEAAcwBAAFmAQAB/wEAAWYBMwIAAWYCMwEAAWYBMwFmAQABZgEz
+        AZkBAAFmATMBzAEAAWYBMwH/AQACZgIAAmYBMwEAA2YBAAJmAZkBAAJmAcwBAAFmAZkCAAFmAZkBMwEA
+        AWYBmQFmAQABZgKZAQABZgGZAcwBAAFmAZkB/wEAAWYBzAIAAWYBzAEzAQABZgHMAZkBAAFmAswBAAFm
+        AcwB/wEAAWYB/wIAAWYB/wEzAQABZgH/AZkBAAFmAf8BzAEAAcwBAAH/AQAB/wEAAcwBAAKZAgABmQEz
+        AZkBAAGZAQABmQEAAZkBAAHMAQABmQMAAZkCMwEAAZkBAAFmAQABmQEzAcwBAAGZAQAB/wEAAZkBZgIA
+        AZkBZgEzAQABmQEzAWYBAAGZAWYBmQEAAZkBZgHMAQABmQEzAf8BAAKZATMBAAKZAWYBAAOZAQACmQHM
+        AQACmQH/AQABmQHMAgABmQHMATMBAAFmAcwBZgEAAZkBzAGZAQABmQLMAQABmQHMAf8BAAGZAf8CAAGZ
+        Af8BMwEAAZkBzAFmAQABmQH/AZkBAAGZAf8BzAEAAZkC/wEAAcwDAAGZAQABMwEAAcwBAAFmAQABzAEA
+        AZkBAAHMAQABzAEAAZkBMwIAAcwCMwEAAcwBMwFmAQABzAEzAZkBAAHMATMBzAEAAcwBMwH/AQABzAFm
+        AgABzAFmATMBAAGZAmYBAAHMAWYBmQEAAcwBZgHMAQABmQFmAf8BAAHMAZkCAAHMAZkBMwEAAcwBmQFm
+        AQABzAKZAQABzAGZAcwBAAHMAZkB/wEAAswCAALMATMBAALMAWYBAALMAZkBAAPMAQACzAH/AQABzAH/
+        AgABzAH/ATMBAAGZAf8BZgEAAcwB/wGZAQABzAH/AcwBAAHMAv8BAAHMAQABMwEAAf8BAAFmAQAB/wEA
+        AZkBAAHMATMCAAH/AjMBAAH/ATMBZgEAAf8BMwGZAQAB/wEzAcwBAAH/ATMB/wEAAf8BZgIAAf8BZgEz
+        AQABzAJmAQAB/wFmAZkBAAH/AWYBzAEAAcwBZgH/AQAB/wGZAgAB/wGZATMBAAH/AZkBZgEAAf8CmQEA
+        Af8BmQHMAQAB/wGZAf8BAAH/AcwCAAH/AcwBMwEAAf8BzAFmAQAB/wHMAZkBAAH/AswBAAH/AcwB/wEA
+        Av8BMwEAAcwB/wFmAQAC/wGZAQAC/wHMAQACZgH/AQABZgH/AWYBAAFmAv8BAAH/AmYBAAH/AWYB/wEA
+        Av8BZgEAASEBAAGlAQADXwEAA3cBAAOGAQADlgEAA8sBAAOyAQAD1wEAA90BAAPjAQAD6gEAA/EBAAP4
+        AQAB8AH7Af8BAAGkAqABAAOAAwAB/wIAAf8DAAL/AQAB/wMAAf8BAAH/AQAC/wIAA///AP8A/wD/AP8A
+        /wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A
+        /wD/AP8A/wD/AP8A/wD/AP8A/wCnAAP/AfQB8wEHBe8B8AH0A//3AAH/AfQBvAHsAUQIIgFDAesBvAH0
+        Af/1AAH/AfIBRAIiCiMCIgFtAfEB//MAAf8B8QHsASICIwtEASMBIgFtAbwB9AH/7wAB/wHzAe8BFQFD
+        BEQBSgZEA0oCRAJDAewB8QH/LwAC/wHyAbsEugG7AfID/7EAAf8B8QHrAUMCEQFEAUsBcwFuAUQCFQFD
+        ARECFQFEAeoBcwFuARICEQFDAeoBBwH/LAAB/wHyAboBswmyAboBGQL/rgAB/wHwAW0BQwERARABbQEH
+        AfAB8gG8ARIGEAERAewB8gHxAbwB7AERARABQwETAe8B9CkAAf8B8gG6BrIFgQOyAboBGQH/QwABBwHs
+        AZIB7QKSAe0B9wHtAe8BkgH3AZIB7QGSAewB7wH/MAAB8gLtAewBkgHtA5IB7wHtAfcBkgHtAZIB7AH3
+        AfQVAAH/AfABEgFDARABEQH3AfMB/wIAAf8BkgFDBREBEwG8Af8BAAH/AfQBBwEVARABEQEUAQcB/ycA
+        Af8BCQGzB7IIgQKyAQkB/zsAAfQFAAHxAREGDgFDARABFQFDAxMB6gEVARQB7SkAAfQFAAH/AUMDDgEP
+        Ag4BEAERARUBEQESARMBFAHqARUCExQAAf8B8QFtAUMBEAERAQcB9AUAAbwBEwURAW0B8wQAAf8B8QEU
+        ARABQwHqAbwB/yUAAf8BCQmyCYECsgEJAf8kAAIaEwAB9AFDAfMEAAHwAfcKkgFtBAABDgHsEwABuwH0
+        EwAB/wEUAfMEAAHyAfcKkgHsAQ4DAAEOAREUAAHzAewBFQEQAREBvAH/BgAB8QESBREB7AH0BQAB/wHy
+        ARQBEAFDAesB8iQAAf8B8AGzCbIKgQKyAbsB/yIAARoBTQEaAgAB7wPsA+0BkgXsAfADAAHvARMEAAH0
+        AbwM8AHqBAAB6xIAAbsBsgH0AgAB8APsAu0CkgHsAe0D7AEHAwAB8gFDAfQDAAH/AbwM8AHtBAABDxMA
+        Af8B7wEUAREBDwEHAf8HAAHxARIFEQHsAfQGAAH/AfEBFQEQARUB7QH0IwAB9AGQAYEJsgmBAYoBgQKy
+        ARkhAAEaAXUBmgEaAgABDgJDARUBEgETAhIBFQEUARUCEAFtAwACBwQAAfEN8AH3BAABbREAAbsCugH0
+        AgABbQFDARABQwETAxIBFAETAUMBEAFDBAAB8wHtBAAB8w3wAQcYAAHyAW0BEQEPAZIB/wgAAfEBEgUR
+        AewB9AcAAf8BBwEPAREBEwHwAf8hAAH/AbQBgQqyCYECigGBAbIBuQH/HwABmgF1ARoBmgEaAgABDgJD
+        ARUCFAITAhUBQwEQAREBbQMAAfIB8wQAAfEN8AEHBAABDxAAAbsBugEJAboB9AIAAW0BQwEQAUMBFAMT
+        AhQBQwERAUMFAAEHBAAB8w3wAQcFAAH/EAAB/wHyAewBQwEQARIB8wH/CAAB8QESBUMB7AH0CAAB9AHs
+        ARABQwHsAfMB/yAAAfMCgQqyCYEDigKyAQkeAAGaAXUCGgGaARoCAAEOAUMBEAEPAREHQwERAUMB/wIA
+        AfIB8wH/AfECBwrvAfcBBwLwAe8TAAH/AroCCQG6AfQCAAFtAUMCDwERCEMBDwH0AwABBwEAAfECBwzv
+        AvAB7wUAAfIQAAH0AUQBQwERAQ8BBwH/CQAB8QHqBUMB7AH0CAAB/wHxAhEBQwFtAfQgAAG7AYELsgmB
+        BIoBsgG6Af8cAAGaAXUDGgGaARoCAAEQAUMBDgEPAREHQwERAQ8B8gIAAvIBBw68Ae8BvAHwAewSAAH/
+        AroDCQG6AfQCAAHsAUMBDgEPAREIQwEQAe8DAAIHDrwB7wG8AfAB7wUAAfMPAAH/AfABIwEiARABbQHz
+        CgAB8QETBRAB6wH0CQAB9AHtAQ8BIgEjAfAB/x8AAZABgQuyCYEEigGyAbkB9BsAAZoBdQQaAZoBGgIA
+        AfQB8wFtARQBEwESARUFQwERAQ8B8gIAAfMBkg+8Ae8CBwH0AfIB7wHsAW0B8AwAAf8CugQJAboB9AIA
+        Af8B8wH3ARUBEwESARUGQwEQAe8DAAHsD7wB7wIHAfIB9AHvAe0BbQHvEAAB/wEcAUQBIwEiAe0B9AkA
+        Af8B9wFDBSIBEgHwCQAB/wEcASICIwEcAf8eAAH0AZABgQuyCYEEigGBAbMB8hoAAZoBdQUaAZoBGgIA
+        AfQB8AoHAZIB7QEHAvABvAEHAbwI8AG8Ae8BkgH3A+8BvAHzEQAB/wK6BQkBugH0AgAB/wHwCgcB9wHt
+        Ae8D8AEHAbwJ8AHvAZIC9wLvAbwB8xYAAfYBSwFEAiMBHAH0CAAB/wHzAW0GIwFEAe0C/wcAAf8BHAEj
+        AUQBIwFLAfYeAAH0AZABgQuyCYEEigGBAbMBGRkAAZoBdQYaAZoBdQFNBEwGTQF0B7wBBwu8AW0BFAET
+        AW0B7AHvAbwB8BAAAf8CugYJAboCuQSBErMBvAKzAbIBugG8AbIBswGyAmwDsgK8FgAB9AJEAiMB7AHy
+        Av8EAAL/AfMB7AEiByMBFQHvAfQB/wUAAf8B9AHvASMBRAIjAfQB/xMAAfQHmAG8Af8B9AGQAYELsgmB
+        BIoBgQGzARkBAAj0Af8NAAH/AXUBmgkaAXQESgFLBHoBdQGTB/EMvAFtARQBEwFtAewB7wLwDwAB/wK6
+        CQkBuwVsELoBswG8AbMBugG5AboBvAGzAboBswJsAbMBkQGyAfABBxYAAfACRAEjASIBEAFtAQcG8gEH
+        AeoKIwEiAesBvAXyAfEB9wETASICRAEjAfAB/xMAAfMHSQFyAvQBkAGBC7IJgQSKAYEBswHyAf8Bbwcg
+        ARoMAAH/AXUBmgoaAXMESgFLBHoBdQGUB/MB8QIHAbwBBwLsArwD8AFtAhMBbQHsAQcC8A4AAfQBswsJ
+        AbQFbBC6AbMBBwGzAZEBswG6AfABswG6AbMCbAGzAZEBsgHwAQcVAAH/AQcCRAEjASIDQwMRBEMBRAIj
+        B0QCIwRDBBEDQwEjAUQBIwEHAf8TAAH/AU8GSQFyAfMB/wGQAYELsgGBApAGgQSKAbIBuQH0Af8BaQcg
+        ARoLAAH/AXUBmgsaAW4ESgFLAXkDegF1AZQH9AHyAgcBvAHrAewB7QHsBPAB7AHrAuwB9wEHAfABvA0A
+        AfQBswwJAZEFbBC6AbMB7AGzAbQBkAG6AfABswG6AbMCkQGzAbQBswHwAQcVAAH/Ae8CRAEjASIBQwcV
+        AhQLRAEjAUQCFAcVAUMBIwFEASMB7wH/EwAB/wFyAk8ESQFPAfEBAAG7AYELsgFyAkwBcQWBBIoBsgG6
+        Af8B8wFGByAB9AsAAfYBTQGaCxoBbgRKAUsBdAF5ApoBdQGUB/8B8wIHAbwB6wLtAewE8AHsAesC7AH3
+        AQcB8AG8DQAB8wGzDAkBkQVsAbQPugGzAewBswG0AZABugHwAbMBugGzApEBswG0AbMB8AHvFQAB/wHv
+        AkQBIwERBRUFFA1EBBQFFQFDASMBRAEjAe8B/xMAAf8BmARPA0kBBwH/AfMCgQqyAesBLAErAXIFgQOK
+        AYEBsgEJAQABBwFAByANAAH/AU0BmgoaAW4ESgFLBHoBdQGUB/MB8AMHAfcBbQHrAe8E8AFtAhMBbQHs
+        AQcB8AEHDgAB9AG5CwkBtAVsELoBswHvAbMBkAGzAboB8AGzAboBswJsAbMBkQGyAfAB7xUAAf8B7wJE
+        ASMBQwQVBhQERAZKA0QFFAQVAUMBIwFEASMB7wH/EwAB/wEIBk8BSQFyAfQBAAG0AYEKsgGQAiwBcgWB
+        AooBgQGyAbkB9AH/AW8HIAFvDgAB/wF1AZoJGgF0BEoBSwR5AnQH8AYHAbwF8AFtAhMBbQHsAe8B8AEH
+        DwAB9AGzCgkBuwVsELoBswEHAbMDugHwAbMBugGzAmwBswGRAbIB8AHvFQAB/wEHAkQBIwFDBBUGFAJE
+        AUoHSwNEBhQDFQFDASMBRAEjAe8B/xQAAfQITwEIAf8B9AGQAYEJsgGQAiwBbQWBAYoBgQKyAfAB/wEa
+        AUYHIAEaDwAB/wF1AZoGGgGaAnUETAVSAU0BdAcHAe8FBwbwAW0CEwFtAewB7wHwAQcQAAH0AbMHCQG7
+        AroBkAIGAZASswEHA7MBugHwAbICswJsAbIBswGyAfAB7xUAAf8B7wJEASMBQwMVBxQCRAhLAUoCRAYU
+        AxUBQwEjAUQBIwHvAf8UAAH/AZgITwH0Af8B8AGBCbIBgQIsAW0GgQKyAbsC/wHxAUYGIAFGAf8QAAH/
+        AXUBmgUaApoC9AEbCJME7QFtAbwD8gQHAbwG8QXwAu8B9BEAAfQBswYJAboBGQL0AfMIuwSRAWwB9wLw
+        AfMB9wK7AQcDuwG8AfEDuwK8A7sB7wHyFQAB/wHwAkQBIwEiAUMIFQEUAkQISwNEARQHFQFDASMCRAEj
+        AbwB/xQAAf8BCAhPAXIC/wEJCbIBgQIsAUsFgQKyAboC/wEaAZoB8wGTAUYEIAGTAf8RAAH/AXUBmgQa
+        AZoBGgQAAewBFAITBkMBEQEPAfICAAH0AZIDBwG8C/ABBwLzAfQB9wJtARIB8AwAAfQBswUJAboB9AQA
+        AQcBFQITB0MBEAHvAwAB7QQHC/AB7wLzAfQBBwJtARIB7xAAAfQCRAIjAUMBFAHtAbwF8QHwAe8HHANz
+        AW4B7wHwBPEB8AEHAewBQwEjAkQBIwHzAf8VAAH0AXgITwGYAv8BCQGzB7IBgQFzAUsBcQSBAbIBswG7
+        Av8BGgJTAXoCGgEHAWkBIAFGAfQTAAH/AXUBmgMaAZoBGgIAAesBQwEOAQ8BEQdDAREBDwHyAgAB8gHw
+        Ae8CBwG8C/AB7wLwAewEAAFtDQAB9AGzBAkBugH0AgAB9wFDAQ4BDwERCEMBEAHvAwAC7wIHAbwL8AHv
+        AvAB7xUAAf8BbgJEASMBbQHxHP8B9AEcASMBRAEjAUoB/xYAAf8BCAlPAZgB9AH/AfMBswayBYEDsgG5
+        ARkC/wGaBVMBegGaARsBBwEaAf8UAAH/AXUBmgIaAZoBGgIAAQ4BQwEOAQ8BEQdDAREBDwH0AgAB8gHz
+        Af8BvAHvDPcB7wLwAewEAAFtDgAB/wG6AbsCCQG6AfQCAAFtAUMBDgEPAREIQwEQAQcDAAEHAf8B8AHv
+        DPcB7wLwAQcVAAH/Ae8CRAEjAUoB8xwAAfMBbgJEASMBHAH/FwAB/wGYCU8BcgH0Af8BAAHwAbMLsgEJ
+        Af8BAAH2AZoIUwFZARoB/xYAAf8BdQGaARoBmgEaAgABDgFDAhEBQwMVBEMBEQHqAwAB8gHzBAAB8Q3w
+        AewEAAFtDwAB/wK6AQkBugH0AgABbQFDARABEQFDBRUDQwEOBAABBwQAAfMN8AEHBAABDhAAAf8B8gJE
+        AiMBvAH/GgAB/wG8ASMCRAEjAfIB/xgAAfQBlwlPAXIBCAH0Av8B8wEJAbsFugEJAfMC/wH2AfQBGwF6
+        CFMBWQEbGQABmgF1AZoBGgIAAQ4CQwEVARIBEwISARUBFAEVAhABbQMAAfAB8QQAAfEN8AHsBAAB7BAA
+        Af8DugH0AgABbQFDARABQwETAxIBFAETAUMBEAFDBAAB9AH3BAAB8w3wAe8EAAEOEQAB/wEcAkQBIwHt
+        AfQaAAH2Ae0BIwJEAXMB9BoAAfMLTwFyAZgB8gH/AQAG/wEAAf8B9AHDAeUBXgHDARsIUwEaAf8aAAGa
+        AU0BGgIAAeoCQwEVARIBEwISARUBFAEVAhAB9wMAAe8B6gQAAfIN8AEUBAAB7BEAAf8BugGzAfQCAAH3
+        AUMBEAFDARMDEgEUARMBQwEQAUMBbQMAAfIBQwH0AwAB9AEHDPABbQQAARERAAH/AfMBSwFEASIBFQHy
+        Af8YAAH/AfMBbQEiAUQBSwHxAf8aAAH/AfMNTwFQAZcCCAEAAfQB8gHwAfQB5QVeAcMBGgZTAZoB/xwA
+        AZoBGhMAAfMBQwHzBAABkgv3ARMCAAIOARAB7BIAAf8BugH0EwAB9AFDAfMEAAEHAZIK9wHrAgACDgEQ
+        ARUSAAH/AfAB6wFDAQ8B7AH0GAAB/wH3AQ8BQwESAbwB/xwAAf8B8wGXD08BAANPAfIB5QZeAfYBmgRT
+        ARofAAH2FAAB8AH/BAAB7AERAg4BEAMRAUMBFQITARIBbQEUAeoCFAHsEwAC/xQAAfIB/wQAAQcBFQIO
+        AQ8BQwEQAREBQwEVARMBFALqARIB6gEVARQBEhMAAf8BvAETAREBDwGSAf8WAAH/AQcCEQEUAe8B/x4A
+        Af8B8wF4Dk8BAANPAQgBwwZeAeUB9AF6AVMBegEbAf86AAH0AW0BFAETARQDEgFtARMCbQESAW0BFAHq
+        ARQBEgH0LwAB9AHrARQB6gEVAeoBEwLqARIBbQHqAW0B6gESAeoBFQEUAfAUAAH0AZIBFAERAQ8BBwH0
+        FAAB/wEHAREBEAFDAewB8yAAAv8BmA1PAQADTwF4AfQHXgGgAfQBGgH0Af+lAAHzAewBFQEQAQ8BkgH0
+        EgAB9AEHAREBEAFDAW0B8AH/IwAB8gGXC08BAARPAfQB5QdeARuoAAH/AfIB6wFDAREBDwHsAfEB/w4A
+        Af8B8gHtAREBEAFDAeoB8AH/JQAB/wEIAZgBUAhPAQAETwEIAcMEXgHlAaAB9qoAAf8B8gHsARUBEQEQ
+        ARMB9wHxAf8KAAH/AfMB7wFtARABEQFDAeoB8AH/JwAC/wHzAQgBlwZPAQAETwF4AfYBXgHlAaABGwH2
+        rQAB/wHzAZIBQwERARABEQESAe0BBwHyAfQB/wIAAf8B9AHzAbwBkgFtAREBEAERAUMBbQHyAf8rAAP/
+        ARsBmAGXAk8BAANPAZcBmAH/AfYC/7EAAfQBvAHqAUMDEQEVARIBbQTsAW0B6gEUAREBEAERAUMBFQHv
+        AfMB/zUAAfQB/7kAAf8B8wHvARICQwIRBhADEQFDARUB7QHyAf/zAAL/AfQBvAHsARUDQwIRA0MBFQFt
+        Ae8B8wL/9gAD/wH0AfEBBwTvAQcB8AH0A//8AAj/4wABQgFNAT4HAAE+AwABKAMAAQgBAQIAAVgDAAEB
+        AQABAQUAAWABDBYAA///AP8A/wD/AP8A/wA3AAP/AYABAAF/G/8DAAP/AgABPxv/AwAC/wH+AgABHxv/
+        AwAC/wH8AgABBxv/AwAC/wHwAgABAwX/AfgBAAE/E/8DAAL/AeACAAEBBf8B4AEAAQ8T/wMAAv8BwAMA
+        Bf8BgAEAAQcI/wIAAT8F/wHAAQABDwMAAv8BgAEwAQEBAAF/BP8CAAEDB/8BvgIAAT8E/wHvAYABAAEP
+        AwAC/wEAAfgBAwHAAT8D/wH+AgABAQT/AecC/wEeAgABPwH/AfkC/wHHAYABAAEPAwAC/wEBAfgBAwHg
+        AT8D/wH8AwAE/wHGAQABBwE8AgABPwH/AfEBgAEBAccCAAEPAwAB/wH+AQMB+AEDAfABHwP/AfwDAAT/
+        AYYBAAEHATwCAAE/Af8B4QGAAQEBzwIAAQ8DAAH/Af4BBwH4AQMB+AEPA/8B+AMAAX8D/wEGAQABBwE8
+        AgABPwH/AcEBgAEBAe8CAAEHAwAB/wH4AQcB+AEDAfwBBwP/AfgDAAF/Av8B/gEGAQABAwMAAT8B/wEB
+        AYABAAHoAgABBwMAAf8B+AEPAfgBAwH8AQcD/wH4AwABPwL/AfwBBgEAAQMDAAE/Af4BAQGAAQAB4AIA
+        AQcDAAH/AfABHwH4AQMB/gEDA/8B+AMAAT8C/wH4AQYBAAEDAwABPwH8AQEBgAEAAeACAAEPAwAB/wHw
+        AR8B8AEDAf4BAwP/AfADAAE/Av8B8AEGBAABDwH/AfgBAQGAAwABAwH/AwAB/wHwAR8B4AEAAf4BAwP/
+        AfADAAE/Av8B4AUAAQ8B/wHwBQABAwH/AwAB/wHwAQcBgAEAAXwBAQL/AcAEAAEgAQ8B/wGABQABDwH/
+        AeAFAAEDAf8DAAH/AfAEAAEBAv8BwAUAAQ8B/wYAAQ8B/wHABQABAwH/AwAB/wHgBAABAQL/AcAFAAEP
+        Af4GAAEPAf8BgAUAAQMB/wMAAf8B4AQAAQEC/wHAAQgEAAEPAf4GAAEPAf8BgAUAAQMB/wMAAf8B4AQA
+        AQEC/wHABAABQAEfAf8GAAEPAf8BwAUAAQMB/wMAAf8B4AQAAQEC/wHAAQQEAAEfAf8BgAUAAQ8B/wHg
+        BQABAwH/AwAB/wHgBAABAQL/AeAFAAEfAf8BwAUAAQ8B/wHwBQABAwH/AwAB/wHgBAABAQL/AeAFAAEf
+        Af8B4AUAAQ8B/wH4BQABAwH/AwAB/wHgBAABAQL/AeAFAAEfAf8B8AEHAYABAwMAAT8B/AEBAeABAAHg
+        AgABDwMAAf8B8AQAAQEC/wHwBQABPwH/AfgBBgEAAQMDAAE/Af4BAQGAAQAB4AIAAQ8DAAH/AfAEAAED
+        Av8B8AUAAT8B/wH8AQYBAAEDAwABPwH/AQEBgAEAAeACAAEPAwAB/wHwAR8C/wH+AQMC/wH4AQABEAEA
+        ARABAAF/Af8B/gEGAQABBwE8AgABPwH/AYEBgAEBAe8CAAEPAwAB/wHwAQ8C/wH8AQMC/wH8BQAD/wGG
+        AQABBwE8AgABPwH/AcEBgAEBAc8CAAEPAwAB/wH4AQ8C/wH8AQcC/wH+AQABAQECAgAD/wHGAQABBwE8
+        AgABPwH/AeEBgAEBAccCAAEPAwAB/wH4AQcC/wH4AQcC/wH+AgABIAEAAQED/wHnAv8BHgIAAT8B/wHx
+        Av8BxwGAAQABDwMAAf8B/AEHAv8B+AEPA/8CAAEgAQABBwP/AfcC/wGeAgABPwH/AfkC/wHnAYABAAEP
+        AwAB/wH+AQMC/wHwAR8D/wGAAQABIAEAAQcG/wH+AgABPwX/AYABAAEPAwAC/wEBAv8B4AE/A/8BwAEA
+        ASABAAEPEv8DAAL/AYAC/wHAAT8D/wH4AQABIAEAAX8S/wMAAv8BgAE/Af8BAAF/A/8B/AEAASABABP/
+        AwAC/wHAAQ8B/AEABP8B/gEAASABAxP/AwAC/wHgAQABwAEBBf8BwAEgAQ8T/wMAAv8B+AIAAQMG/wHn
+        FP8DAAL/AfwCAAEPG/8DAAL/Af4CAAEfG/8DAAP/AYABAAF/G/8DAAP/AfgBBxz/AwAL
+</value>
+  </data>
+  <data name="label15.Location" type="System.Drawing.Point, System.Drawing">
+    <value>169, 253</value>
+  </data>
+  <data name="label15.Size" type="System.Drawing.Size, System.Drawing">
+    <value>201, 23</value>
+  </data>
+  <data name="label15.Text" xml:space="preserve">
+    <value>ШІМ Мінімальний рух</value>
+  </data>
+  <data name="label4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>211, 260</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>Максимум ШІМ</value>
+  </data>
+  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>184, 181</value>
+  </data>
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>186, 19</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>Пропорційне посилення</value>
+  </data>
+  <data name="hsbarMinPWM.Location" type="System.Drawing.Point, System.Drawing">
+    <value>115, 279</value>
+  </data>
+  <data name="lblMinPWM.Location" type="System.Drawing.Point, System.Drawing">
+    <value>27, 282</value>
+  </data>
+  <data name="lblMaxSteerAngle.Location" type="System.Drawing.Point, System.Drawing">
+    <value>66, 253</value>
+  </data>
+  <data name="hsbarMaxSteerAngle.Location" type="System.Drawing.Point, System.Drawing">
+    <value>172, 245</value>
+  </data>
+  <data name="label7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>11, 43</value>
+  </data>
+  <data name="label7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>632, 55</value>
+  </data>
+  <data name="label7.Text" xml:space="preserve">
+    <value>Поверніть кермо вправо приблизно на 20 градусів.
+Під час руху по рівному колу натисніть Rec і зачекайте.</value>
+  </data>
+  <data name="hsbarCountsPerDegree.Location" type="System.Drawing.Point, System.Drawing">
+    <value>134, 269</value>
+  </data>
+  <data name="label10.Location" type="System.Drawing.Point, System.Drawing">
+    <value>50, 48</value>
+  </data>
+  <data name="label10.Text" xml:space="preserve">
+    <value>Їдьте прямо і торкніться нуля</value>
+  </data>
+  <data name="lblCountsPerDegree.Location" type="System.Drawing.Point, System.Drawing">
+    <value>39, 276</value>
+  </data>
+  <data name="hsbarWasOffset.Location" type="System.Drawing.Point, System.Drawing">
+    <value>188, 188</value>
+  </data>
+  <data name="lblSteerAngleSensorZero.Location" type="System.Drawing.Point, System.Drawing">
+    <value>461, 196</value>
+  </data>
+  <data name="label28.Location" type="System.Drawing.Point, System.Drawing">
+    <value>182, 165</value>
+  </data>
+  <data name="label28.Size" type="System.Drawing.Size, System.Drawing">
+    <value>329, 95</value>
+  </data>
+  <data name="label28.Text" xml:space="preserve">
+    <value>Кнопка - натиснути, відпустити, увімкнути.
+                 Натиснути кнопку, вимкнути
+
+Перемикач - Поки натиснуто - увімкнено.
+                 Відпущений - вимкнений.</value>
+  </data>
+  <data name="labelPressureTurnSensor.Location" type="System.Drawing.Point, System.Drawing">
+    <value>423, 91</value>
+  </data>
+  <data name="labelPressureTurnSensor.Size" type="System.Drawing.Size, System.Drawing">
+    <value>128, 13</value>
+  </data>
+  <data name="labelPressureTurnSensor.Text" xml:space="preserve">
+    <value>Датчик тиску повороту</value>
+  </data>
+  <data name="labelCurrentTurnSensor.Location" type="System.Drawing.Point, System.Drawing">
+    <value>264, 91</value>
+  </data>
+  <data name="labelCurrentTurnSensor.Size" type="System.Drawing.Size, System.Drawing">
+    <value>147, 13</value>
+  </data>
+  <data name="labelCurrentTurnSensor.Text" xml:space="preserve">
+    <value>Поточний датчик повороту</value>
+  </data>
+  <data name="labelEncoder.Location" type="System.Drawing.Point, System.Drawing">
+    <value>138, 91</value>
+  </data>
+  <data name="labelEncoder.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 13</value>
+  </data>
+  <data name="labelEncoder.Text" xml:space="preserve">
+    <value>Датчик повороту</value>
+  </data>
+  <data name="label70.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 12pt</value>
+  </data>
+  <data name="label70.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 66</value>
+  </data>
+  <data name="label70.Size" type="System.Drawing.Size, System.Drawing">
+    <value>626, 62</value>
+  </data>
+  <data name="label70.Text" xml:space="preserve">
+    <value>Їдьте повільно та увімкніть функцію автоматичного керування. Якщо двигун рульового управління обертається в неправильному напрямку, змініть напрямок.
+Перевірте за допомогою стрілок.</value>
+  </data>
+  <data name="label29.Location" type="System.Drawing.Point, System.Drawing">
+    <value>60, 105</value>
+  </data>
+  <data name="label29.Text" xml:space="preserve">
+    <value>Реле включення інверторної гідравліки?</value>
+  </data>
+  <data name="cboxMotorDrive.Location" type="System.Drawing.Point, System.Drawing">
+    <value>238, 172</value>
+  </data>
+  <data name="cboxSteerEnable.Location" type="System.Drawing.Point, System.Drawing">
+    <value>195, 109</value>
+  </data>
+  <data name="label62.Location" type="System.Drawing.Point, System.Drawing">
+    <value>84, 74</value>
+  </data>
+  <data name="label62.Text" xml:space="preserve">
+    <value>Режим увімкнення керма</value>
+  </data>
+  <data name="cboxConv.Location" type="System.Drawing.Point, System.Drawing">
+    <value>238, 174</value>
+  </data>
+  <data name="label63.Location" type="System.Drawing.Point, System.Drawing">
+    <value>67, 135</value>
+  </data>
+  <data name="label63.Text" xml:space="preserve">
+    <value>Який стиль драйвера двигуна?</value>
+  </data>
+  <data name="label64.Location" type="System.Drawing.Point, System.Drawing">
+    <value>114, 136</value>
+  </data>
+  <data name="label64.Text" xml:space="preserve">
+    <value>Підключення АЦП?</value>
+  </data>
+  <data name="label61.Location" type="System.Drawing.Point, System.Drawing">
+    <value>33, 202</value>
+  </data>
+  <data name="label61.Size" type="System.Drawing.Size, System.Drawing">
+    <value>162, 32</value>
+  </data>
+  <data name="label61.Text" xml:space="preserve">
+    <value>Кількість поворотів</value>
+  </data>
+  <data name="label61.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="nudMaxCounts.Location" type="System.Drawing.Point, System.Drawing">
+    <value>58, 237</value>
+  </data>
+  <data name="label55.Location" type="System.Drawing.Point, System.Drawing">
+    <value>77, 105</value>
+  </data>
+  <data name="label55.Text" xml:space="preserve">
+    <value>Ви використовуєте клапани Danfoss?</value>
+  </data>
+  <data name="label30.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 80</value>
+  </data>
+  <data name="label30.Size" type="System.Drawing.Size, System.Drawing">
+    <value>644, 56</value>
+  </data>
+  <data name="label30.Text" xml:space="preserve">
+    <value>Кут повороту повинен бути позитивним при повороті праворуч. 
+Якщо це не так, виберіть Інвертувати ДКП.</value>
+  </data>
+  <data name="label35.Size" type="System.Drawing.Size, System.Drawing">
+    <value>60, 16</value>
+  </data>
+  <data name="label35.Text" xml:space="preserve">
+    <value>Ліворуч</value>
+  </data>
+  <data name="label34.Size" type="System.Drawing.Size, System.Drawing">
+    <value>49, 16</value>
+  </data>
+  <data name="label34.Text" xml:space="preserve">
+    <value>Права</value>
+  </data>
+  <data name="hsbarSensor.Location" type="System.Drawing.Point, System.Drawing">
+    <value>37, 245</value>
+  </data>
+  <data name="lblhsbarSensor.Location" type="System.Drawing.Point, System.Drawing">
+    <value>336, 248</value>
+  </data>
+  <data name="label16.Location" type="System.Drawing.Point, System.Drawing">
+    <value>44, 162</value>
+  </data>
+  <data name="label16.Text" xml:space="preserve">
+    <value>Встановити швидкість зупинки при тривозі</value>
+  </data>
+  <data name="nudPanicStopSpeed.Location" type="System.Drawing.Point, System.Drawing">
+    <value>263, 200</value>
+  </data>
+  <data name="label31.Location" type="System.Drawing.Point, System.Drawing">
+    <value>262, 259</value>
+  </data>
+  <data name="label31.Size" type="System.Drawing.Size, System.Drawing">
+    <value>111, 19</value>
+  </data>
+  <data name="label31.Text" xml:space="preserve">
+    <value>0 = Вимкнено</value>
+  </data>
+  <data name="btnStartWizard.Text" xml:space="preserve">
+    <value> Запуск 
+майстра</value>
+  </data>
+  <data name="label81.Location" type="System.Drawing.Point, System.Drawing">
+    <value>115, 186</value>
+  </data>
+  <data name="label81.Text" xml:space="preserve">
+    <value>Наполегливо рекомендується</value>
+  </data>
+  <data name="label80.Size" type="System.Drawing.Size, System.Drawing">
+    <value>328, 25</value>
+  </data>
+  <data name="label80.Text" xml:space="preserve">
+    <value>Значення за замовчуванням</value>
+  </data>
+  <data name="btnOkNext_LoadDefault.Location" type="System.Drawing.Point, System.Drawing">
+    <value>576, 267</value>
+  </data>
+  <data name="btnLoadDefaults.Location" type="System.Drawing.Point, System.Drawing">
+    <value>222, 223</value>
+  </data>
+  <data name="btnLoadDefaults.Size" type="System.Drawing.Size, System.Drawing">
+    <value>221, 80</value>
+  </data>
+  <data name="btnLoadDefaults.Text" xml:space="preserve">
+    <value>Значення за замовчуванням</value>
+  </data>
+  <data name="tabLoadDef.Size" type="System.Drawing.Size, System.Drawing">
+    <value>657, 350</value>
+  </data>
+  <data name="button1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>486, 266</value>
+  </data>
+  <data name="label90.Size" type="System.Drawing.Size, System.Drawing">
+    <value>154, 25</value>
+  </data>
+  <data name="label90.Text" xml:space="preserve">
+    <value>Колісна база</value>
+  </data>
+  <data name="nudWheelbase.Location" type="System.Drawing.Point, System.Drawing">
+    <value>23, 222</value>
+  </data>
+  <data name="label91.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 151</value>
+  </data>
+  <data name="label91.Text" xml:space="preserve">
+    <value>Встановити колісну базу</value>
+  </data>
+  <data name="button2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>577, 266</value>
+  </data>
+  <data name="tabWheelBase.Size" type="System.Drawing.Size, System.Drawing">
+    <value>657, 350</value>
+  </data>
+  <data name="button7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>486, 267</value>
+  </data>
+  <data name="label94.Size" type="System.Drawing.Size, System.Drawing">
+    <value>154, 25</value>
+  </data>
+  <data name="label94.Text" xml:space="preserve">
+    <value>Колісна база</value>
+  </data>
+  <data name="nudVehicleTrack.Location" type="System.Drawing.Point, System.Drawing">
+    <value>389, 156</value>
+  </data>
+  <data name="label95.Text" xml:space="preserve">
+    <value>Встановити ширину колії</value>
+  </data>
+  <data name="button8.Location" type="System.Drawing.Point, System.Drawing">
+    <value>577, 267</value>
+  </data>
+  <data name="tabWheelTrack.Size" type="System.Drawing.Size, System.Drawing">
+    <value>657, 350</value>
+  </data>
+  <data name="button9.Location" type="System.Drawing.Point, System.Drawing">
+    <value>486, 267</value>
+  </data>
+  <data name="label98.Size" type="System.Drawing.Size, System.Drawing">
+    <value>140, 50</value>
+  </data>
+  <data name="label98.Text" xml:space="preserve">
+    <value>Антена 
+Положення</value>
+  </data>
+  <data name="nudAntennaPivot.Location" type="System.Drawing.Point, System.Drawing">
+    <value>230, 224</value>
+  </data>
+  <data name="button10.Location" type="System.Drawing.Point, System.Drawing">
+    <value>577, 267</value>
+  </data>
+  <data name="label99.Location" type="System.Drawing.Point, System.Drawing">
+    <value>133, 153</value>
+  </data>
+  <data name="label99.Text" xml:space="preserve">
+    <value>Встановити відстань антени від осі повороту</value>
+  </data>
+  <data name="tabAntennaDistance.Size" type="System.Drawing.Size, System.Drawing">
+    <value>657, 350</value>
+  </data>
+  <data name="button13.Location" type="System.Drawing.Point, System.Drawing">
+    <value>486, 267</value>
+  </data>
+  <data name="label92.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 50</value>
+  </data>
+  <data name="label92.Text" xml:space="preserve">
+    <value>Антена 
+Висота</value>
+  </data>
+  <data name="nudAntennaHeight.Location" type="System.Drawing.Point, System.Drawing">
+    <value>465, 85</value>
+  </data>
+  <data name="label93.Text" xml:space="preserve">
+    <value>Задати висоту антени</value>
+  </data>
+  <data name="button14.Location" type="System.Drawing.Point, System.Drawing">
+    <value>577, 267</value>
+  </data>
+  <data name="tabAntennaHeight.Size" type="System.Drawing.Size, System.Drawing">
+    <value>657, 350</value>
+  </data>
+  <data name="button11.Location" type="System.Drawing.Point, System.Drawing">
+    <value>485, 267</value>
+  </data>
+  <data name="label102.Size" type="System.Drawing.Size, System.Drawing">
+    <value>145, 25</value>
+  </data>
+  <data name="label102.Text" xml:space="preserve">
+    <value>Зсув антени</value>
+  </data>
+  <data name="nudAntennaOffset.Location" type="System.Drawing.Point, System.Drawing">
+    <value>250, 63</value>
+  </data>
+  <data name="label104.Location" type="System.Drawing.Point, System.Drawing">
+    <value>285, 235</value>
+  </data>
+  <data name="button12.Location" type="System.Drawing.Point, System.Drawing">
+    <value>576, 267</value>
+  </data>
+  <data name="label103.Text" xml:space="preserve">
+    <value>Задати зміщення антени</value>
+  </data>
+  <data name="tabAntennaOffset.Size" type="System.Drawing.Size, System.Drawing">
+    <value>657, 350</value>
+  </data>
+  <data name="button15.Location" type="System.Drawing.Point, System.Drawing">
+    <value>485, 267</value>
+  </data>
+  <data name="label53.Size" type="System.Drawing.Size, System.Drawing">
+    <value>207, 25</value>
+  </data>
+  <data name="label53.Text" xml:space="preserve">
+    <value>Перемикач керма</value>
+  </data>
+  <data name="btnOkNext_ButtonSwitch.Location" type="System.Drawing.Point, System.Drawing">
+    <value>576, 267</value>
+  </data>
+  <data name="tabButtonSwitch.Size" type="System.Drawing.Size, System.Drawing">
+    <value>657, 350</value>
+  </data>
+  <data name="btnPrev_A2D.Location" type="System.Drawing.Point, System.Drawing">
+    <value>485, 267</value>
+  </data>
+  <data name="label52.Size" type="System.Drawing.Size, System.Drawing">
+    <value>392, 25</value>
+  </data>
+  <data name="label52.Text" xml:space="preserve">
+    <value>Цифро-аналоговий перетворювач</value>
+  </data>
+  <data name="btnOkNext_A2D.Location" type="System.Drawing.Point, System.Drawing">
+    <value>576, 267</value>
+  </data>
+  <data name="tabA2DConv.Size" type="System.Drawing.Size, System.Drawing">
+    <value>657, 350</value>
+  </data>
+  <data name="btnPrev_MotorDriver.Location" type="System.Drawing.Point, System.Drawing">
+    <value>485, 265</value>
+  </data>
+  <data name="label43.Size" type="System.Drawing.Size, System.Drawing">
+    <value>286, 25</value>
+  </data>
+  <data name="label43.Text" xml:space="preserve">
+    <value>Плата драйвера двигуна</value>
+  </data>
+  <data name="btnOkNext_MotorDriver.Location" type="System.Drawing.Point, System.Drawing">
+    <value>576, 265</value>
+  </data>
+  <data name="label59.Location" type="System.Drawing.Point, System.Drawing">
+    <value>272, 232</value>
+  </data>
+  <data name="label59.Size" type="System.Drawing.Size, System.Drawing">
+    <value>115, 16</value>
+  </data>
+  <data name="label59.Text" xml:space="preserve">
+    <value>Інверторні реле</value>
+  </data>
+  <data name="btnPrev_InvertRelays.Location" type="System.Drawing.Point, System.Drawing">
+    <value>485, 265</value>
+  </data>
+  <data name="label51.Size" type="System.Drawing.Size, System.Drawing">
+    <value>303, 25</value>
+  </data>
+  <data name="label51.Text" xml:space="preserve">
+    <value>Реле керування приводом</value>
+  </data>
+  <data name="btnOkNext_InvertRelays.Location" type="System.Drawing.Point, System.Drawing">
+    <value>576, 265</value>
+  </data>
+  <data name="chkSteerInvertRelays.Location" type="System.Drawing.Point, System.Drawing">
+    <value>274, 151</value>
+  </data>
+  <data name="btnPrev_Danfoss.Location" type="System.Drawing.Point, System.Drawing">
+    <value>485, 265</value>
+  </data>
+  <data name="label50.Size" type="System.Drawing.Size, System.Drawing">
+    <value>186, 25</value>
+  </data>
+  <data name="label50.Text" xml:space="preserve">
+    <value>Клапан Danfoss</value>
+  </data>
+  <data name="btnOkNext_Danfoss.Location" type="System.Drawing.Point, System.Drawing">
+    <value>576, 265</value>
+  </data>
+  <data name="cboxDanfoss.Location" type="System.Drawing.Point, System.Drawing">
+    <value>274, 151</value>
+  </data>
+  <data name="label115.Location" type="System.Drawing.Point, System.Drawing">
+    <value>83, 101</value>
+  </data>
+  <data name="label115.Size" type="System.Drawing.Size, System.Drawing">
+    <value>366, 56</value>
+  </data>
+  <data name="label115.Text" xml:space="preserve">
+    <value>Якщо ні, виберіть Інвертувати крен</value>
+  </data>
+  <data name="label115.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="lblRoll.Location" type="System.Drawing.Point, System.Drawing">
+    <value>274, 270</value>
+  </data>
+  <data name="pictureBox9.Location" type="System.Drawing.Point, System.Drawing">
+    <value>486, 34</value>
+  </data>
+  <data name="cboxDataInvertRoll.Location" type="System.Drawing.Point, System.Drawing">
+    <value>218, 165</value>
+  </data>
+  <data name="label36.Location" type="System.Drawing.Point, System.Drawing">
+    <value>64, 46</value>
+  </data>
+  <data name="label36.Text" xml:space="preserve">
+    <value>Поставте автомобіль, сильно нахиливши його вправо. Крен вправо повинен бути позитивним.</value>
+  </data>
+  <data name="label36.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="button4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>486, 266</value>
+  </data>
+  <data name="label46.Size" type="System.Drawing.Size, System.Drawing">
+    <value>172, 25</value>
+  </data>
+  <data name="label46.Text" xml:space="preserve">
+    <value>Функція крену</value>
+  </data>
+  <data name="button18.Location" type="System.Drawing.Point, System.Drawing">
+    <value>577, 266</value>
+  </data>
+  <data name="label107.Location" type="System.Drawing.Point, System.Drawing">
+    <value>177, 270</value>
+  </data>
+  <data name="label107.Text" xml:space="preserve">
+    <value>Крен:</value>
+  </data>
+  <data name="label110.Text" xml:space="preserve">
+    <value>Крен:</value>
+  </data>
+  <data name="label47.Location" type="System.Drawing.Point, System.Drawing">
+    <value>341, 117</value>
+  </data>
+  <data name="label47.Size" type="System.Drawing.Size, System.Drawing">
+    <value>93, 13</value>
+  </data>
+  <data name="label47.Text" xml:space="preserve">
+    <value>Обнулити крен</value>
+  </data>
+  <data name="label57.Location" type="System.Drawing.Point, System.Drawing">
+    <value>118, 117</value>
+  </data>
+  <data name="label57.Text" xml:space="preserve">
+    <value>Видалити зсув</value>
+  </data>
+  <data name="lblRollZeroOffset.Size" type="System.Drawing.Size, System.Drawing">
+    <value>131, 33</value>
+  </data>
+  <data name="lblRollZeroOffset.Text" xml:space="preserve">
+    <value>Зміщення</value>
+  </data>
+  <data name="label48.Location" type="System.Drawing.Point, System.Drawing">
+    <value>65, 40</value>
+  </data>
+  <data name="label48.Text" xml:space="preserve">
+    <value>Припаркуйтеся на рівній поверхні та торкніться кнопки "Нульовий нахил"</value>
+  </data>
+  <data name="button3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>482, 266</value>
+  </data>
+  <data name="label56.Size" type="System.Drawing.Size, System.Drawing">
+    <value>178, 25</value>
+  </data>
+  <data name="label56.Text" xml:space="preserve">
+    <value>Нульовий крен</value>
+  </data>
+  <data name="button19.Location" type="System.Drawing.Point, System.Drawing">
+    <value>573, 266</value>
+  </data>
+  <data name="label45.Location" type="System.Drawing.Point, System.Drawing">
+    <value>271, 232</value>
+  </data>
+  <data name="label45.Size" type="System.Drawing.Size, System.Drawing">
+    <value>121, 16</value>
+  </data>
+  <data name="label45.Text" xml:space="preserve">
+    <value>Інвертувати ДКП</value>
+  </data>
+  <data name="btnPrev_InvertWAS.Location" type="System.Drawing.Point, System.Drawing">
+    <value>485, 265</value>
+  </data>
+  <data name="label42.Size" type="System.Drawing.Size, System.Drawing">
+    <value>316, 25</value>
+  </data>
+  <data name="label42.Text" xml:space="preserve">
+    <value>Інвертувати напрямок ДКП</value>
+  </data>
+  <data name="btnOkWAS.Location" type="System.Drawing.Point, System.Drawing">
+    <value>576, 265</value>
+  </data>
+  <data name="chkInvertWAS.Location" type="System.Drawing.Point, System.Drawing">
+    <value>274, 151</value>
+  </data>
+  <data name="label112.Location" type="System.Drawing.Point, System.Drawing">
+    <value>50, 160</value>
+  </data>
+  <data name="label112.Size" type="System.Drawing.Size, System.Drawing">
+    <value>144, 16</value>
+  </data>
+  <data name="label112.Text" xml:space="preserve">
+    <value>Перезавантаження.</value>
+  </data>
+  <data name="lblCurrentHeading.Location" type="System.Drawing.Point, System.Drawing">
+    <value>278, 286</value>
+  </data>
+  <data name="label37.Location" type="System.Drawing.Point, System.Drawing">
+    <value>28, 285</value>
+  </data>
+  <data name="label37.Text" xml:space="preserve">
+    <value>Поточний курс:</value>
+  </data>
+  <data name="button6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>485, 265</value>
+  </data>
+  <data name="btnRemoveWasOffset.Location" type="System.Drawing.Point, System.Drawing">
+    <value>71, 176</value>
+  </data>
+  <data name="label40.Size" type="System.Drawing.Size, System.Drawing">
+    <value>184, 25</value>
+  </data>
+  <data name="label40.Text" xml:space="preserve">
+    <value>ДКП обнулення</value>
+  </data>
+  <data name="btnOkNext_WAS_Zero.Location" type="System.Drawing.Point, System.Drawing">
+    <value>576, 265</value>
+  </data>
+  <data name="btnZeroWAS.Location" type="System.Drawing.Point, System.Drawing">
+    <value>273, 93</value>
+  </data>
+  <data name="label58.Location" type="System.Drawing.Point, System.Drawing">
+    <value>250, 235</value>
+  </data>
+  <data name="label58.Size" type="System.Drawing.Size, System.Drawing">
+    <value>159, 16</value>
+  </data>
+  <data name="label58.Text" xml:space="preserve">
+    <value>Інвертувати напрямок</value>
+  </data>
+  <data name="label41.Size" type="System.Drawing.Size, System.Drawing">
+    <value>338, 25</value>
+  </data>
+  <data name="label41.Text" xml:space="preserve">
+    <value>Напрямок рульового двигуна</value>
+  </data>
+  <data name="label17.Location" type="System.Drawing.Point, System.Drawing">
+    <value>159, 239</value>
+  </data>
+  <data name="label17.Size" type="System.Drawing.Size, System.Drawing">
+    <value>60, 16</value>
+  </data>
+  <data name="label17.Text" xml:space="preserve">
+    <value>Ліворуч</value>
+  </data>
+  <data name="label33.Location" type="System.Drawing.Point, System.Drawing">
+    <value>426, 239</value>
+  </data>
+  <data name="label33.Size" type="System.Drawing.Size, System.Drawing">
+    <value>73, 16</value>
+  </data>
+  <data name="label33.Text" xml:space="preserve">
+    <value>Праворуч</value>
+  </data>
+  <data name="btnPrev_MotorDirection.Location" type="System.Drawing.Point, System.Drawing">
+    <value>485, 267</value>
+  </data>
+  <data name="btnOkNext_MotorDirection.Location" type="System.Drawing.Point, System.Drawing">
+    <value>576, 267</value>
+  </data>
+  <data name="btnSteerLeft.Location" type="System.Drawing.Point, System.Drawing">
+    <value>150, 156</value>
+  </data>
+  <data name="btnSteerRight.Location" type="System.Drawing.Point, System.Drawing">
+    <value>425, 156</value>
+  </data>
+  <data name="chkInvertSteer.Location" type="System.Drawing.Point, System.Drawing">
+    <value>274, 153</value>
+  </data>
+  <data name="label60.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 261</value>
+  </data>
+  <data name="label60.Text" xml:space="preserve">
+    <value>* Почати * Калібрування</value>
+  </data>
+  <data name="btnPrev_CountsPerDegree.Location" type="System.Drawing.Point, System.Drawing">
+    <value>485, 242</value>
+  </data>
+  <data name="label74.Size" type="System.Drawing.Size, System.Drawing">
+    <value>218, 25</value>
+  </data>
+  <data name="label74.Text" xml:space="preserve">
+    <value>ДКП Калібрування</value>
+  </data>
+  <data name="label75.Size" type="System.Drawing.Size, System.Drawing">
+    <value>402, 105</value>
+  </data>
+  <data name="label75.Text" xml:space="preserve">
+    <value>* Пропустити * Підрахунки на градус і налаштування Аккермана?</value>
+  </data>
+  <data name="btnOKNext_CPDSetup.Location" type="System.Drawing.Point, System.Drawing">
+    <value>576, 242</value>
+  </data>
+  <data name="label109.Location" type="System.Drawing.Point, System.Drawing">
+    <value>285, 123</value>
+  </data>
+  <data name="label109.Size" type="System.Drawing.Size, System.Drawing">
+    <value>169, 25</value>
+  </data>
+  <data name="label109.Text" xml:space="preserve">
+    <value>Початковий кут:</value>
+  </data>
+  <data name="lblRightStartAngle.Location" type="System.Drawing.Point, System.Drawing">
+    <value>481, 123</value>
+  </data>
+  <data name="button5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>485, 267</value>
+  </data>
+  <data name="lblCPDError.Location" type="System.Drawing.Point, System.Drawing">
+    <value>155, 233</value>
+  </data>
+  <data name="label39.Size" type="System.Drawing.Size, System.Drawing">
+    <value>345, 26</value>
+  </data>
+  <data name="label39.Text" xml:space="preserve">
+    <value>Кількість відліків на градус</value>
+  </data>
+  <data name="btnOkNext_CountsPerDeg.Location" type="System.Drawing.Point, System.Drawing">
+    <value>576, 267</value>
+  </data>
+  <data name="btnStartSA.Location" type="System.Drawing.Point, System.Drawing">
+    <value>188, 127</value>
+  </data>
+  <data name="btnAckReset.Location" type="System.Drawing.Point, System.Drawing">
+    <value>113, 128</value>
+  </data>
+  <data name="btnAckReset.Text" xml:space="preserve">
+    <value>Скинути до 100%</value>
+  </data>
+  <data name="label101.Location" type="System.Drawing.Point, System.Drawing">
+    <value>328, 123</value>
+  </data>
+  <data name="label101.Size" type="System.Drawing.Size, System.Drawing">
+    <value>169, 25</value>
+  </data>
+  <data name="label101.Text" xml:space="preserve">
+    <value>Початковий кут:</value>
+  </data>
+  <data name="label101.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomLeft</value>
+  </data>
+  <data name="lblStartAngleLeft.Location" type="System.Drawing.Point, System.Drawing">
+    <value>508, 123</value>
+  </data>
+  <data name="label32.Location" type="System.Drawing.Point, System.Drawing">
+    <value>165, 252</value>
+  </data>
+  <data name="label32.Text" xml:space="preserve">
+    <value>Значення Аккермана:</value>
+  </data>
+  <data name="hsbarAckerman.Location" type="System.Drawing.Point, System.Drawing">
+    <value>164, 283</value>
+  </data>
+  <data name="lblAckerman.Location" type="System.Drawing.Point, System.Drawing">
+    <value>64, 288</value>
+  </data>
+  <data name="button16.Location" type="System.Drawing.Point, System.Drawing">
+    <value>486, 269</value>
+  </data>
+  <data name="lblAckermannError.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 217</value>
+  </data>
+  <data name="label105.Text" xml:space="preserve">
+    <value>Аккерман</value>
+  </data>
+  <data name="label106.Location" type="System.Drawing.Point, System.Drawing">
+    <value>350, 153</value>
+  </data>
+  <data name="label106.Size" type="System.Drawing.Size, System.Drawing">
+    <value>147, 25</value>
+  </data>
+  <data name="label106.Text" xml:space="preserve">
+    <value>Кут повороту:</value>
+  </data>
+  <data name="label106.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomLeft</value>
+  </data>
+  <data name="label108.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14pt</value>
+  </data>
+  <data name="label108.Location" type="System.Drawing.Point, System.Drawing">
+    <value>66, 31</value>
+  </data>
+  <data name="label108.Size" type="System.Drawing.Size, System.Drawing">
+    <value>540, 92</value>
+  </data>
+  <data name="label108.Text" xml:space="preserve">
+    <value>Поверніть кермо вліво приблизно на стільки ж градусів, скільки вправо.
+Під час руху по рівному колу натисніть Rec і зачекайте.</value>
+  </data>
+  <data name="label108.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="lblDiameterLeft.Location" type="System.Drawing.Point, System.Drawing">
+    <value>508, 183</value>
+  </data>
+  <data name="lblCalcSteerAngleLeft.Location" type="System.Drawing.Point, System.Drawing">
+    <value>508, 153</value>
+  </data>
+  <data name="label111.Location" type="System.Drawing.Point, System.Drawing">
+    <value>402, 183</value>
+  </data>
+  <data name="label111.Size" type="System.Drawing.Size, System.Drawing">
+    <value>95, 25</value>
+  </data>
+  <data name="label111.Text" xml:space="preserve">
+    <value>Діаметр:</value>
+  </data>
+  <data name="label111.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomLeft</value>
+  </data>
+  <data name="button17.Location" type="System.Drawing.Point, System.Drawing">
+    <value>577, 269</value>
+  </data>
+  <data name="btnStartSA_Left.Location" type="System.Drawing.Point, System.Drawing">
+    <value>238, 128</value>
+  </data>
+  <data name="label113.Location" type="System.Drawing.Point, System.Drawing">
+    <value>475, 166</value>
+  </data>
+  <data name="label113.Size" type="System.Drawing.Size, System.Drawing">
+    <value>82, 16</value>
+  </data>
+  <data name="label113.Text" xml:space="preserve">
+    <value>Встановити</value>
+  </data>
+  <data name="btnOkSetMaximumSteerAngle.Location" type="System.Drawing.Point, System.Drawing">
+    <value>464, 90</value>
+  </data>
+  <data name="label73.Location" type="System.Drawing.Point, System.Drawing">
+    <value>44, 97</value>
+  </data>
+  <data name="label73.Text" xml:space="preserve">
+    <value>Поверніть кермо до бажаної межі для наведення і торкніться OK -&gt; -&gt;</value>
+  </data>
+  <data name="btnPrev_MaxSteerAngle.Location" type="System.Drawing.Point, System.Drawing">
+    <value>485, 267</value>
+  </data>
+  <data name="label49.Size" type="System.Drawing.Size, System.Drawing">
+    <value>555, 25</value>
+  </data>
+  <data name="label49.Text" xml:space="preserve">
+    <value>Обмеження кута повороту рульового управління</value>
+  </data>
+  <data name="label23.Location" type="System.Drawing.Point, System.Drawing">
+    <value>21, 204</value>
+  </data>
+  <data name="label23.Text" xml:space="preserve">
+    <value>Або вручну встановіть межу кута повороту керма наведення</value>
+  </data>
+  <data name="btnOkNextMaxSteerAngle.Location" type="System.Drawing.Point, System.Drawing">
+    <value>576, 267</value>
+  </data>
+  <data name="btnPrev_CancelGuidance.Location" type="System.Drawing.Point, System.Drawing">
+    <value>485, 267</value>
+  </data>
+  <data name="btnOkNextCancelGuidance.Location" type="System.Drawing.Point, System.Drawing">
+    <value>576, 267</value>
+  </data>
+  <data name="label44.Text" xml:space="preserve">
+    <value>Функція автоматичного вимкнення</value>
+  </data>
+  <data name="cboxPressureSensor.Location" type="System.Drawing.Point, System.Drawing">
+    <value>427, 108</value>
+  </data>
+  <data name="cboxEncoder.Location" type="System.Drawing.Point, System.Drawing">
+    <value>129, 107</value>
+  </data>
+  <data name="cboxCurrentSensor.Location" type="System.Drawing.Point, System.Drawing">
+    <value>278, 107</value>
+  </data>
+  <data name="label82.Location" type="System.Drawing.Point, System.Drawing">
+    <value>47, 90</value>
+  </data>
+  <data name="label82.Size" type="System.Drawing.Size, System.Drawing">
+    <value>559, 56</value>
+  </data>
+  <data name="label82.Text" xml:space="preserve">
+    <value>Зменшення км/год на одне виправлення (3 працює добре)</value>
+  </data>
+  <data name="btnPrev_Panic.Location" type="System.Drawing.Point, System.Drawing">
+    <value>485, 267</value>
+  </data>
+  <data name="label54.Size" type="System.Drawing.Size, System.Drawing">
+    <value>361, 25</value>
+  </data>
+  <data name="label54.Text" xml:space="preserve">
+    <value>Швидкість зупинки при тривозі</value>
+  </data>
+  <data name="btnOkNext_PanicStop.Location" type="System.Drawing.Point, System.Drawing">
+    <value>576, 267</value>
+  </data>
+  <data name="label72.Location" type="System.Drawing.Point, System.Drawing">
+    <value>516, 104</value>
+  </data>
+  <data name="label72.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 16</value>
+  </data>
+  <data name="label72.Text" xml:space="preserve">
+    <value>Нуль</value>
+  </data>
+  <data name="label79.Location" type="System.Drawing.Point, System.Drawing">
+    <value>559, 212</value>
+  </data>
+  <data name="label79.Size" type="System.Drawing.Size, System.Drawing">
+    <value>73, 16</value>
+  </data>
+  <data name="label79.Text" xml:space="preserve">
+    <value>Праворуч</value>
+  </data>
+  <data name="label78.Location" type="System.Drawing.Point, System.Drawing">
+    <value>442, 212</value>
+  </data>
+  <data name="label78.Size" type="System.Drawing.Size, System.Drawing">
+    <value>60, 16</value>
+  </data>
+  <data name="label78.Text" xml:space="preserve">
+    <value>Ліворуч</value>
+  </data>
+  <data name="btnMinGainLeft.Location" type="System.Drawing.Point, System.Drawing">
+    <value>433, 140</value>
+  </data>
+  <data name="btnZeroMinMovementSetting.Location" type="System.Drawing.Point, System.Drawing">
+    <value>496, 35</value>
+  </data>
+  <data name="label77.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 12pt</value>
+  </data>
+  <data name="label77.Location" type="System.Drawing.Point, System.Drawing">
+    <value>26, 105</value>
+  </data>
+  <data name="label77.Size" type="System.Drawing.Size, System.Drawing">
+    <value>369, 134</value>
+  </data>
+  <data name="label77.Text" xml:space="preserve">
+    <value>Змініть уставку за допомогою кнопок керма. 
+
+Налаштуйте мінімальне переміщення якомога вище, щоб двигун рульового управління або гідравліка не рухали рульове управління</value>
+  </data>
+  <data name="label77.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="label76.Location" type="System.Drawing.Point, System.Drawing">
+    <value>26, 34</value>
+  </data>
+  <data name="label76.Text" xml:space="preserve">
+    <value>Їдьте повільно прямо, дозвольте системі керувати</value>
+  </data>
+  <data name="btnMinGainRight.Location" type="System.Drawing.Point, System.Drawing">
+    <value>557, 140</value>
+  </data>
+  <data name="label68.Size" type="System.Drawing.Size, System.Drawing">
+    <value>386, 25</value>
+  </data>
+  <data name="label68.Text" xml:space="preserve">
+    <value>Налаштування мінімального руху</value>
+  </data>
+  <data name="btnPrev_Gain.Location" type="System.Drawing.Point, System.Drawing">
+    <value>485, 267</value>
+  </data>
+  <data name="btnOK_Next.Location" type="System.Drawing.Point, System.Drawing">
+    <value>576, 267</value>
+  </data>
+  <data name="label88.Location" type="System.Drawing.Point, System.Drawing">
+    <value>570, 227</value>
+  </data>
+  <data name="label88.Size" type="System.Drawing.Size, System.Drawing">
+    <value>73, 16</value>
+  </data>
+  <data name="label88.Text" xml:space="preserve">
+    <value>Праворуч</value>
+  </data>
+  <data name="label83.Location" type="System.Drawing.Point, System.Drawing">
+    <value>515, 58</value>
+  </data>
+  <data name="label83.Size" type="System.Drawing.Size, System.Drawing">
+    <value>91, 16</value>
+  </data>
+  <data name="label83.Text" xml:space="preserve">
+    <value>Нуль або +5</value>
+  </data>
+  <data name="label84.Location" type="System.Drawing.Point, System.Drawing">
+    <value>479, 227</value>
+  </data>
+  <data name="label84.Size" type="System.Drawing.Size, System.Drawing">
+    <value>60, 16</value>
+  </data>
+  <data name="label84.Text" xml:space="preserve">
+    <value>Ліворуч</value>
+  </data>
+  <data name="btnLeftPGain.Location" type="System.Drawing.Point, System.Drawing">
+    <value>468, 156</value>
+  </data>
+  <data name="btnZeroPGain.Location" type="System.Drawing.Point, System.Drawing">
+    <value>520, 70</value>
+  </data>
+  <data name="label85.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 12pt</value>
+  </data>
+  <data name="label85.Location" type="System.Drawing.Point, System.Drawing">
+    <value>27, 93</value>
+  </data>
+  <data name="label85.Size" type="System.Drawing.Size, System.Drawing">
+    <value>435, 71</value>
+  </data>
+  <data name="label85.Text" xml:space="preserve">
+    <value>Встановіть пропорційне значення для хорошого відгуку. 
+Встановіть ШІМ Максимум, щоб обмежити швидкість повороту.</value>
+  </data>
+  <data name="label85.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="label86.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14pt</value>
+  </data>
+  <data name="label86.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 48</value>
+  </data>
+  <data name="label86.Size" type="System.Drawing.Size, System.Drawing">
+    <value>487, 33</value>
+  </data>
+  <data name="label86.Text" xml:space="preserve">
+    <value>Проїдьте вперед і увімкніть автоматичне керування</value>
+  </data>
+  <data name="label86.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="btnRightPGain.Location" type="System.Drawing.Point, System.Drawing">
+    <value>568, 156</value>
+  </data>
+  <data name="label87.Size" type="System.Drawing.Size, System.Drawing">
+    <value>309, 25</value>
+  </data>
+  <data name="label87.Text" xml:space="preserve">
+    <value>Налаштування підсилення</value>
+  </data>
+  <data name="btnPrev_PGain.Location" type="System.Drawing.Point, System.Drawing">
+    <value>486, 268</value>
+  </data>
+  <data name="btnNext_PGain.Location" type="System.Drawing.Point, System.Drawing">
+    <value>577, 268</value>
+  </data>
+  <data name="label116.Size" type="System.Drawing.Size, System.Drawing">
+    <value>530, 161</value>
+  </data>
+  <data name="label116.Text" xml:space="preserve">
+    <value>Тепер їдьте за кермом AB лінію і точно налаштуйте параметри відповідно до вашої швидкості та умов ґрунту.
+Пам'ятайте: CPD, Min ШІМ і погляд уперед є критично важливими параметрами. </value>
+  </data>
+  <data name="btnRestartWizard.Location" type="System.Drawing.Point, System.Drawing">
+    <value>193, 53</value>
+  </data>
+  <data name="btnRestartWizard.Size" type="System.Drawing.Size, System.Drawing">
+    <value>220, 33</value>
+  </data>
+  <data name="btnRestartWizard.Text" xml:space="preserve">
+    <value>Майстер перезапуску</value>
+  </data>
+  <data name="label69.Size" type="System.Drawing.Size, System.Drawing">
+    <value>94, 25</value>
+  </data>
+  <data name="label69.Text" xml:space="preserve">
+    <value>Готово!</value>
+  </data>
+  <data name="btnPrev_End.Location" type="System.Drawing.Point, System.Drawing">
+    <value>451, 269</value>
+  </data>
+  <data name="btnExit.Location" type="System.Drawing.Point, System.Drawing">
+    <value>546, 269</value>
+  </data>
+  <data name="btnStopWizard.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 12pt</value>
+  </data>
+  <data name="btnStopWizard.Size" type="System.Drawing.Size, System.Drawing">
+    <value>176, 38</value>
+  </data>
+  <data name="btnStopWizard.Text" xml:space="preserve">
+    <value>Майстер перезапуску</value>
+  </data>
+  <data name="label71.Size" type="System.Drawing.Size, System.Drawing">
+    <value>98, 23</value>
+  </data>
+  <data name="label71.Text" xml:space="preserve">
+    <value>Прогрес:</value>
+  </data>
+  <data name="label66.Size" type="System.Drawing.Size, System.Drawing">
+    <value>130, 23</value>
+  </data>
+  <data name="label66.Text" xml:space="preserve">
+    <value>Підрах. P Deg</value>
+  </data>
+  <data name="label65.Size" type="System.Drawing.Size, System.Drawing">
+    <value>95, 23</value>
+  </data>
+  <data name="label65.Text" xml:space="preserve">
+    <value>Акерманн</value>
+  </data>
+  <data name="label67.Size" type="System.Drawing.Size, System.Drawing">
+    <value>91, 23</value>
+  </data>
+  <data name="label67.Text" xml:space="preserve">
+    <value>ДКП Зсув</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Майстер автоматичного керування</value>
+  </data>
+</root>
