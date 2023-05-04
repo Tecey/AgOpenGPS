@@ -928,6 +928,7 @@
     <None Include="Manual.sr.pdf">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+    <None Include="Manual.uk.pdf" />
     <None Include="Nav.runtimeconfig.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
